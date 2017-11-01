@@ -1,0 +1,2 @@
+A Continuation Method for Nash Equilibria in Structured Games
+ Abstract We describe algorithms for computing Nash equilibria in structured game representations, including both graphical games and multi-agent influence diagrams (MAIDs).  The algorithms are derived from a continuation method for normal-form and extensive-form games due to Govindan and Wilson; they follow a trajectory through the space of perturbed games and their equilibria.  Our

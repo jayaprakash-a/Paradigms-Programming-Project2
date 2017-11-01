@@ -1,0 +1,2 @@
+Parameter Estimation for Linear Dynamical Systems
+ Abstract Linear systems have been used extensively in engineering to model and control the behavior of dynamical systems.  In this note, we present the Expectation Maximization (EM) algorithm for estimating the parameters of linear systems (Shumway and Stoffer, 1982).  We also point out the relationship between linear dynamical systems, factor analysis, and hidden Markov models.

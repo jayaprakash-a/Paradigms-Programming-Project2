@@ -1,0 +1,2 @@
+Manifold Regularization: A Geometric Framework for Learning from Examples
+ Abstract We propose a family of learning algorithms based on a new form of regularization that allows us to exploit the geometry of the marginal distribution.  We focus on a semi-supervised framework that incorporates labeled and unlabeled data in a general-purpose learner.

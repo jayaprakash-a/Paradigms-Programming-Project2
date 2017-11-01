@@ -1,0 +1,2 @@
+Dual Dynamics: Designing Behavior Systems for Autonomous Robots
+ Abstract This paper describes the "dual dynamics" (DD) formal scheme for robotic behavior control systems.  Behaviors are designed as dynamical systems which are specified in ordinary differential equations.  A key idea for the DD scheme is that a robotic agent can work in different "modes", which lead to qualitatively different behavioral patterns.  Intuitively, modes can be likened to "moods".  Mathematically, transitions between modes are bifurcations in the control system.

@@ -1,0 +1,2 @@
+An Experimental Comparison of Three Methods for Constructing Ensembles of Decision Trees: Bagging, Boosting, and Randomization
+ Abstract.  Bagging and boosting are methods that generate a diverse ensemble of classifiers by manipulating the training data given to a "

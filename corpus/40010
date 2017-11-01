@@ -1,0 +1,2 @@
+Combining flat and structured representations for fingerprint classification with recursive neural networks and support vector machines
+ Our best classification accuracy is of 95. 6 percent at 20 percent rejection rate and is obtained by training SVM on both FingerCode and RNN-extracted features.  This result indicates the benefit of integrating global and structured representations and suggests that SVM are a promising approach for fingerprint classification.

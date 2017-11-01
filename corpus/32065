@@ -1,2 +1,2 @@
-A Graphical Investigation of Error Bounds for Moment-Based Queueing Approximations
-
+Support Vector Machines for Dyadic Data
+ Abstract We describe a new technique for the analysis of dyadic data, where two sets of objects ("row" and "column" objects) are characterized by a matrix of numerical values which describe their mutual relationships.  The new technique, called "Potential Support Vector Machine" (P-

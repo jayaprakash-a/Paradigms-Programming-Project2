@@ -1,0 +1,2 @@
+Transductive Confidence Machines for Pattern Recognition
+ Abstract We propose a new algorithm for pattern recognition that outputs some measures of "reliability" for every prediction made, in contrast to the current algorithms that output "bare" predictions only.  Our algorithm is based on the well-known nearest neighbours algorithm and uses a similar rule to infer predictions.

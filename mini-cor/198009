@@ -1,0 +1,2 @@
+Adaptively scaling the Metropolis algorithm using expected squared jumped distance
+ Abstract A good choice of the proposal distribution is crucial for the rapid convergence of the Metropolis

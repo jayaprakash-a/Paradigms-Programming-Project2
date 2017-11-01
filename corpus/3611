@@ -1,2 +1,0 @@
-Gender Classification with Support Vector Machines
- Abstract Support Vector Machines (SVMs) are investigated for visual gender classification with low resolution "thumbnail" faces (21-by-12 pixels) processed from 1,755 images from the FERET face database.  The performance of SVMs (3. 4% error) is shown to be superior to traditional pattern

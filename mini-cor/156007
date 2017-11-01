@@ -1,0 +1,2 @@
+Journal of Automata, Languages and Combinatorics
+ ABSTRACT Weighted automata and transducers are powerful devices used in many large-scale applications.  The eciency of these applications is substantially increased when the automata or transducers used are deterministic.  There exists a general determinization algorithm for weighted automata and transducers that is an extension of the classical subset construction used in the case of unweighted finite automata [14].

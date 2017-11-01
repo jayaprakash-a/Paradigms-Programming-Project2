@@ -1,0 +1,2 @@
+Performance Guarantees for Hierarchical Clustering
+ Abstract We show that for any data set in any metric space, it is possible to construct a hierarchical clustering with the guarantee that for every k, the induced k-clustering has cost at most eight times that of the optimal k-clustering.  Here the cost of a clustering is taken to be the maximum radius of its clusters.  Our algorithm is similar in simplicity and eciency to popular agglomerative heuristics for hierarchical clustering, and we show that these heuristics have unbounded approximation factors.

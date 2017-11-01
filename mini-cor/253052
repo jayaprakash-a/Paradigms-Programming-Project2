@@ -1,0 +1,2 @@
+Learning Evaluation Functions for Global Optimization and Boolean Satisfiability
+ Abstract This paper describes Stage, a learning approach to automatically improving search performance on optimization problems.  Stage learns an evaluation function which predicts the outcome of a local search algorithm, such as hillclimbing or Walksat, as a function of state features along its search trajectories.  The learned evaluation function is used to bias future search trajectories toward better optima.  We present positive results on six large-scale optimization domains.

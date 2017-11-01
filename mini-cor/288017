@@ -1,0 +1,2 @@
+Observations on the Nystrom Method for Gaussian Process Prediction
+ Abstract A number of methods for speeding up Gaussian Process (GP) prediction have been proposed, including the Nystrom method of Williams and Seeger (2001).  In this paper we focus on two issues (1) the relationship of the Nystrom method to the Subset of Regressors method (Poggio and Girosi, 1990; Luo and Wahba, 1997) and (2) understanding in what circumstances the Nystrom approximation would be expected to provide a good approximation to exact GP regression.

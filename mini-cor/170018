@@ -1,0 +1,2 @@
+A Multigrid Form of Value Iteration Applied to a Markov Decision Problem
+ Abstract We explore the use of multigrid techniques to speed the convergence of value iteration for Markov Decision Problems by applying it to the mountain car problem.  We look at some of the fundamental differences between these kinds of problems and those traditionally treated with multigrid methods.  We demonstrate that significant performance improvements can be achieved by using these techniques.

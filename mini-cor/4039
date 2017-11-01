@@ -1,0 +1,2 @@
+Self-Enforcing Strategic Demand Reduction
+ When all use PRSDR, bidders obtain significantly better results than when using a reasonable baseline approach.  The strategy automatically detects and punishes non-cooperating bidders to achieve robustness in the face of agent defection, and performs well under alternative conditions.  The PRSDR strategy is fully implemented and we present detailed empirical results.

@@ -1,0 +1,2 @@
+Face Detection by Direct Convexity Estimation
+ Abstract We suggest a novel attentional mechanism for detection of smooth convex and concave objects based on direct processing of intensity values.  The operator detects the regions of the eyes and hair in a facial image, and thus allows us to infer the face location and scale.  Our operator is robust to variations in illumination, scale, and face orientation.  Invariance to a large family of functions, serving for lighting improvement in images, is proved.  An extensive comparison with edge-based methods is delineated.

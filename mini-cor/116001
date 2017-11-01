@@ -1,0 +1,2 @@
+Diagnosis by a Waiter and a Mars Explorer
+ Abstract--- This paper shows how state-of-the-art state estimation techniques can be used to provide efficient solutions to the difficult problem of real-time diagnosis in mobile robots.  The power of the adopted estimation techniques resides in our ability to combine particle filters with classical algorithms, such as Kalman filters.  We demonstrate these techniques in two scenarios: a mobile waiter robot and planetary rovers designed by NASA for Mars exploration.

@@ -1,0 +1,2 @@
+Improving Face Verification Using Skin Color Information
+ Abstract The performance of face verification systems has steadily improved over the last few years, mainly focusing on models rather than on feature processing.  State-of-the-art methods often use the gray-scale face image as input.  In this paper, we propose to use an additional feature to the face image: the skin color.  The new feature set is tested on a benchmark database, namely XM2VTS, using a simple discriminant artificial neural network.  Results show that the skin color information improves the performance.

@@ -1,0 +1,2 @@
+Least Squared Error FIR Filters with Flat Amplitude or Group Delay Constraints
+ Abstract FIR lowpass filters with prescribed number of zeros at ! = and either prescribed group delay flatness or prescribed amplitude flatness and linear phase are designed by minimizing a squared error.  A simple orthogonal projection of least squared error filters (that are often available in closed form) onto a linear subspace determined via Thiran filters (for group delay flatness) and via Herrmann filters (for amplitude flatness) gives the desired filters.

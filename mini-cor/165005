@@ -1,0 +1,2 @@
+GAUSSIAN MIXTURE MODELING WITH VOLUME PRESERVING NONLINEAR FEATURE SPACE TRANSFORMS
+ ABSTRACT This paper introduces a new class of nonlinear feature space transformations in the context of Gaussian Mixture Models.  This class of nonlinear transformations is characterized by computationally efficient training algorithms.  Experimental results with quadratic feature space transforms are shown to yield modestly improved recognition performance in a speech recognition context.  The quadratic feature space transforms are also shown to be beneficial in an adaptation setting.

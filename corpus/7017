@@ -1,2 +1,2 @@
-On-Line Learning with Imperfect Monitoring
-
+Exponentially many local minima for single neurons
+ Abstract We show that for a single neuron with the logistic function as the transfer function the number of local minima of the error function based on the square loss can grow exponentially in the dimension.

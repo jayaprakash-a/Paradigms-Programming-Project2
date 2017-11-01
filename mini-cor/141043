@@ -1,0 +1,2 @@
+A Sufficient Condition for Polynomial Distribution-dependent Learnability
+ Abstract We investigate upper bounds on the sample-size sufficient for `solid' learnability with respect to a probability distribution.  We obtain a sufficient condition for feasible (polynomially bounded) sample-size bounds for distributionspecific (solid) learnability.

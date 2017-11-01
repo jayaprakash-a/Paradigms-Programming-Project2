@@ -1,0 +1,2 @@
+Distribution kernels based on moments of counts
+ Abstract Many applications in text and speech processing require the analysis of distributions of variable-length sequences.  We recently introduced a general kernel framework, rational kernels,

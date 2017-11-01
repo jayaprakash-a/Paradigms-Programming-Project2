@@ -1,0 +1,2 @@
+Representing Documents Using an Explicit Model of Their Similarities
+ Abstract A method is proposed for creating vector space representations of documents based on modeling target inter-document similarity values.  The target

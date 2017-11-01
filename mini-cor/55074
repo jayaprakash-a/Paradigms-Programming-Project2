@@ -1,0 +1,2 @@
+Decomposing Gene Expression into Cellular Processes
+ Abstract We propose a probabilistic model for cellular processes, and an algorithm for discovering them from gene expression data.  A process is associated with a set of genes that participate in

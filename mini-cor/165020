@@ -1,0 +1,2 @@
+MODELING INVERSE COVARIANCE MATRICES BY BASIS EXPANSION
+ ABSTRACT This paper proposes a new covariance modeling technique for Gaussian Mixture Models.  Specifically the inverse covariance (precision) matrix of each Gaussian is expanded in a rank-1 basis i. e. , ##### ##### # ######## ### # ### # ### # , # # ######### # ##### .  A generalized EM algorithm is proposed to obtain maximum likelihood parameter estimates for the basis set # # # # #"! and the expansion coefficients cients

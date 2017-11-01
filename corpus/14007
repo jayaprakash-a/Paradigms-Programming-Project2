@@ -1,2 +1,2 @@
-The Entire Regularization Path for the Support Vector Machine
- Abstract In this paper we argue that the choice of the SVM cost parameter can be critical.  We then derive an algorithm that can fit the entire path of SVM solutions for every value of the cost parameter, with essentially the same computational cost as fitting one SVM model.
+Identification of High p? Particles with the STAR-RICH Detector
+ Abstract The STAR-RICH detector extends the particle identification capabilities of the STAR experiment for charged hadrons at mid-rapidity.  This detector represents the first use of a proximity-focusing CsI-based RICH detector in a collider experiment.  It provides identification of pions and kaons up to 3 GeV/c and protons up to 5 GeV/c.  The characteristics and performance of the device in the inaugural RHIC run are described.

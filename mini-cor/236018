@@ -1,0 +1,2 @@
+Global Teleporting with Java: Towards ubiquitous personalised computing
+ Abstract Previous work has described teleporting, an approach to mobile computing in which it is the user's personal application environment which is mobile rather than the hardware on which the applications run.  In this paper we describe a new teleporting system which makes the user's environment available on any machine in the world running a Java-compliant web browser.  We present some preliminary experimental results together with discussions of security and performance issues.

@@ -1,0 +1,2 @@
+Stochastic simulation of ants that forage by expectation
+ Abstract Stochastic simulation has been used to create an artificial colony of ants in order to study ant foraging strategies and the links between individual activity and the colony's self-organised behaviour.  The ants, which forage by expectation, use a deterministic mathematical model developed by Ollason (1980, Theor.  Pop.  Biol.

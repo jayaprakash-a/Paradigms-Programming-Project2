@@ -1,0 +1,2 @@
+Take-Home Intelligent Agents
+ 3.  Explain why extending SMDP to multiagent problems is not straightforward.  How important is the choice of the termination strategies? does the choice depend on the specific application domain chosen? 4.  Describe briefly the multi-agent taxi domain used in the paper.  What are its major features? What makes it a good application domain (or what not)? 5.  Comment on the experimental methodology used in the paper.  Are the experimental results convincing? if not, why not? what additional experiments would you have done? Be specific.

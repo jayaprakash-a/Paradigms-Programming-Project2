@@ -1,0 +1,2 @@
+Detecting and Tracking Linear Features Efficiently
+ Abstract An efficient method for detecting and tracking linear features in images is described.  This novel algorithm combines a sparse sampling of the image data with a RANSAC grouper, and is particularly suited for frame-rate vision.  The detector is tunable for both the scale and orientation of the desired line segments.  Experimental results demonstrate fast, robust and accurate feature detection and tracking.

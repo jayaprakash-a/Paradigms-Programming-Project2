@@ -1,2 +1,2 @@
-Input-specific adaptation in complex cells through synaptic depression
-
+Document Image Decoding Using Iterated Complete Path Search with Subsampled Heuristic Scoring
+ Abstract It has been shown that the computation time of Document Image Decoding can be significantly reduced by employing heuristics in the search for the best decoding of a text line.  In the Iterated Complete Path (ICP)

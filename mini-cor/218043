@@ -1,0 +1,2 @@
+Computing upper and lower bounds on likelihoods in intractable networks
+ Abstract We present deterministic techniques for computing upper and lower bounds on marginal probabilities in sigmoid and noisy-OR networks.  These techniques become useful when the size of the network (or clique size) precludes exact computations.  We illustrate the tightness of the bounds by numerical experiments.

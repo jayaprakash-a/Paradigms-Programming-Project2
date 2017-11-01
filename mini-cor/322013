@@ -1,0 +1,2 @@
+Performance Evaluation of the Nearest Feature Line Method in Image Classification and Retrieval
+ Abstract A new method, the nearest feature line (NFL) method, is used in image classification and retrieval, and its performance is evaluated and compared with other methods by extensive experiments.  The NFL method is demonstrated to make ecient use of knowledge about multiple prototypes of a class to represent that class.

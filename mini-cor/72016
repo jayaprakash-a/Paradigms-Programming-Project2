@@ -1,0 +1,2 @@
+Clustering by intersection-merging
+ ABSTRACT We propose Intersection-Merging (IM), a wrapper algorithm for model-based clustering.  The algorithm takes a set of clusterings obtained e. g.  by EM, breaks down the clusterings into subclusters via an intersection step, and then agglomerates them via a merging step.  We introduce two versions of merging: greedy (standard IM) and by simulated annealing (IMSA).  Experiments on several data sets show that both IM and IMSA improve on the starting clusterings under a variety of criteria.

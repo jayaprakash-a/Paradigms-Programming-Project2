@@ -1,0 +1,2 @@
+Combining Configural and TD Learning on a Robot
+ Abstract We combine configural and temporal difference learning in a classical conditioning model.  The model is able to solve the negative patterning problem, discriminate sequences of stimuli, and exhibit second order conditioning.  We have implemented the algorithm on the Sony AIBO entertainment robot, allowing us to interact with the conditioning model in real time.

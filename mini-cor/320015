@@ -1,0 +1,2 @@
+Fast Nearest Neighbor Search of Entropy-Constrained Vector Quantization
+ Abstract--Entropy-constrained vector quantization (ECVQ) [3] offers substantially improved image quality over vector quantization (VQ) at the cost of additional encoding complexity.  We extend results in the literature for fast nearest neighbor search of VQ to ECVQ.  We use a new, easily computed distance that successfully eliminates most codewords from consideration.

@@ -1,0 +1,2 @@
+System Implementations of Analog VLSI Velocity Sensors
+ Abstract We present three different architectures that make use of analog VLSI velocity sensors for detecting the focus of expansion, time to contact and motion discontinuities respectively.  For each of the architectures proposed we describe the functionality of their component modules and their principles of operation.  Data measurements obtained from the VLSI chips developed demonstrate their correct performance and their limits of operation.

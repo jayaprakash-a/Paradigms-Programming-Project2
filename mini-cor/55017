@@ -1,0 +1,2 @@
+A tractable probabilistic description logic
+ Abstract Knowledge representation languages invariably reflect a trade-off between expressivity and tractability.  Evidence suggests that the compromise chosen by description logics is a particularly successful one.  However, description logic (as for all variants of first-order logic) is severely limited in its ability to express uncertainty.  In this paper, we present P-CLASSIC, a probabilistic version of the description logic CLASSIC.  In addition to

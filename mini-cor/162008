@@ -1,0 +1,2 @@
+EXTENDED ABSTRACT Engineering Support Vector Machine Kernels That Recognize Translation Initiation Sites
+ Abstract In order to extract protein sequences from nucleotide sequences, it is an important step to recognize points from which regions encoding proteins start, the so-called translation initiation sites (TIS).  This can be modeled as a classification problem.  We demonstrate the power of support vector machines (SVMs) for this task, and show how to successfully incorporate biological prior knowledge by engineering an appropriate kernel function.

@@ -1,2 +1,2 @@
-Algorithmic Luckiness
- Abstract In contrast to standard statistical learning theory which studies uniform bounds on the expected error we present a framework that exploits the specific learning algorithm used.  Motivated by the luckiness framework [8] we are also able to exploit the serendipity of the training sample.  The main difference to previous approaches lies in the complexity measure; rather than covering all hypotheses in a given hypothesis space it is only necessary to cover the functions which could have been learned using the fixed learning algorithm.  We show how the resulting framework relates to the VC, luckiness and compression frameworks.  Finally, we present an application of this framework to the maximum margin algorithm for linear classifiers which results in a bound that exploits both the margin and the distribution of the data in feature space.
+The primality of R1031
+

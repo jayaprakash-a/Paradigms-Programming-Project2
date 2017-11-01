@@ -1,0 +1,2 @@
+Distinguishing Text from Graphics in On-line Handwritten Ink
+ Abstract We present a system that separates text from graphics strokes in handwritten digital ink.  It utilizes not just the characteristics of the strokes, but also the information provided by the gaps between the strokes, as well as the temporal characteristics of the stroke sequence.  It is built using machine learning techniques that infer the internal parameters of the system from real digital ink, collected using a Tablet PC.

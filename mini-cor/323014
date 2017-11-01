@@ -1,0 +1,2 @@
+Using Markov Decision Processes and Reinforcement Learning to Solve the "Remote Versus Local Execution" Problem
+ Abstract The problem of remote versus local execution requires the construction of a decision to execute a user job locally or to move that job to a remote server based on information of the machines involved, such that the overall user latency is minimized.  We present an approach for solving the remote vs.

@@ -1,0 +1,2 @@
+Learning Probabilistic Models of Relational Structure
+ We describe the appropriate conditions for using each model and present learning algorithms for each.  We present experimental results showing that the learned models can be used to predict relational structure and, moreover, the observed relational structure can be used to provide better predictions for the attributes in the model.

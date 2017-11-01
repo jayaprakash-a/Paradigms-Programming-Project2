@@ -1,0 +1,2 @@
+An Omega( log ()) Lower Bound for Broadcast in Radio Networks
+ Abstract We show that for any randomized broadcast protocol for radio networks, there exists a network in which the expected time to broadcast a message is \Omega(D log(N=D)), where D is the diameter of the network and N is the number of nodes.  This implies a tight lower bound of \Omega(D log N) for any D N 1\Gamma '' , where '' ? 0 is any constant.

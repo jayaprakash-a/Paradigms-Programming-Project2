@@ -1,0 +1,2 @@
+A criterion for adaptive autoregressive models
+ Abstract - A criterion, similar to the information criterion of a stationary AR model, is introduced for an adaptive (non-stationary) autoregressive model.  It is applied to nonstationary EEG data.  It is shown that the criterion can be used to determine the update coefficient, the model order, and the estimation algorithm.

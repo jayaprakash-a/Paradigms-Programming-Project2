@@ -1,0 +1,2 @@
+Information Regularization with Partially Labeled Data
+ Abstract Classification with partially labeled data requires using a large number of unlabeled examples (or an estimated marginal P (x)), to further constrain the conditional P (y

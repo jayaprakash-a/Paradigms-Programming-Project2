@@ -1,0 +1,2 @@
+Greedy Packet Scheduling
+ Next, tight time bounds of d + k\Gamma 1 are proved for a specific greedy algorithm on the class of shortest paths in n-vertex networks.  Finally it is shown that when the routes are arbitrary, the time achieved by various "natural" greedy algorithms can be as bad as \Omega(d p k + k), for any k, and even for d = \Omega(n).

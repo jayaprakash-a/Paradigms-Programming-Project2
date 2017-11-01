@@ -1,0 +1,2 @@
+Chapter 1 OPTIMIZATIONAPPROACHESTOSEMI-SUPERVISED LEARNING
+ Abstract We examine mathematical models for semi-supervised support vector machines (S 3 VM).  Given a training set of labeled data and a working set of unlabeled data, S 3 VM constructs a support vector machine using both the training and working sets.  We use S 3 VM to solve the transductive inference problem posed by Vapnik.

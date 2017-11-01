@@ -1,0 +1,2 @@
+Protein Family Classification Using Sparse Markov Transducers
+ Abstract We present a method for classifying proteins into families based on short subsequences of amino acids using a new probabilistic model called sparse Markov transducers (SMT).  We classify a protein by estimating probability distributions over subsequences of amino acids from the protein.  Sparse Markov transducers, similar to probabilistic suffix trees, estimate a probability distribution conditioned on an

@@ -1,0 +1,2 @@
+LEARNING ALGORITHMS FOR CLASSIFICATION: A COMPARISON ON HANDWRITTEN DIGIT RECOGNITION
+ ABSTRACT This paper compares the performance of several classifier algorithms on a standard database of handwritten digits.  We consider not only raw accuracy, but also training time, recognition time, and memory requirements.  When available, we report measurements of the fraction of patterns that must be rejected so that the remaining patterns have misclassification rates less than a given threshold.

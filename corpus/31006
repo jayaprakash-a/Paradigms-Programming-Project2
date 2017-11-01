@@ -1,2 +1,2 @@
-Bounds on approximate steepest descent for likelihood maximization in exponential families
- Abstract An approximate steepest descent strategy converging, in families of regular exponential densities, to maximum likelihood estimates of density functions is described.  These density estimates are also obtained by an application of the principle of minimum relative entropy subject to empirical constraints.  We prove tight bounds on the increase of the log-likelihood at each iteration of our strategy for families of exponential densities whose log-densities are spanned by a set of bounded basis functions.
+A Unified Learning Framework for Real Time Face Detection and Classification
+

@@ -1,0 +1,2 @@
+A Short Introduction to Boosting
+ Abstract Boosting is a general method for improving the accuracy of any given learning algorithm.  This short overview paper introduces the boosting algorithm AdaBoost, and explains the underlying theory of boosting, including an explanation of why boosting often does not suffer from overfitting as well as boosting's relationship to support-vector machines.  Some examples of recent applications of boosting are also described.

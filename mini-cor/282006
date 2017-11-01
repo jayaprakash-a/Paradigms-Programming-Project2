@@ -1,0 +1,2 @@
+Reducing Multiclass to Binary: A Unifying Approach for Margin Classifiers
+ Abstract We present a unifying framework for studying the solution of multiclass categorization problems by reducing them to multiple binary problems that are then solved using a margin-based binary learning algorithm.  The proposed

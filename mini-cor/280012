@@ -1,0 +1,2 @@
+MRI and PET Coregistration---A Cross Validation of Statistical Parametric Mapping and Automated Image Registration
+ Coregistration of functional PET and T1-weighted MR images is a necessary step for combining functional information from PET images with anatomical information in MR images.  Several coregistration algorithms have been published and are used in functional brain imaging studies.  In this paper, we present a comparison and cross validation of the two most widely used coregistration routines (Friston et al.

@@ -1,0 +1,2 @@
+Segmentation of Human Motion into Dynamics Based Primitives with Application to Drawing Tasks
+ Abstract Using tools from dynamical systems and systems identification we develop a framework for the study of decomposition of human motion.  The objective is understanding human motion by decomposing it into a sequence of elementary building blocks, which we refer to as movemes, which belong to a known alphabet of dynamical systems.  We develop classification and segmentation algorithms with error analysis and we test them on human drawing data.

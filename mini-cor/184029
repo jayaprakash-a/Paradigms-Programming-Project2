@@ -1,0 +1,2 @@
+Detecting Unsolvable Queries for Definite Logic Programs
+ Abstract In solving a query, the SLD proof procedure for definite programs sometimes searches an infinite space for

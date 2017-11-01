@@ -1,0 +1,2 @@
+c #Springer-Verlag Semi-Supervised Image Segmentation by Parametric Distributional Clustering
+ We extend the Parametric Distributional Clustering (PDC) algorithm to fit into this learning framework.  The resulting optimization problem is solved by constrained Deterministic Annealing.  The approach is illustrated for both artificial data and real-world synthetic aperture radar (SAR) imagery.

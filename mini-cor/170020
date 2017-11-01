@@ -1,0 +1,2 @@
+Discriminating Mental Tasks Using EEG Represented by AR Models
+ Abstract---EEG signals are modeled using single-channel and multi-channel autoregressive (AR) techniques.  The coefficients of these models are used to classify EEG data into one of two classes corresponding to the mental task the subjects are performing.  A neural network is trained to perform the classification.  When applying a trained network to test data, we find that the multivariate AR representation performs slightly better, resulting in an average classification accuracy of about 91%.

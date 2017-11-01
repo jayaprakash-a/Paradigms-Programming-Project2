@@ -1,0 +1,2 @@
+Locally Linear Embedding for dimensionality reduction in QSAR
+ Abstract.  Current practice in QSAR usually involves generating a great number of chemical descriptors and then cutting them back with variable selection techniques.  Variable selection is an effective method to reduce the dimensionality but may discard some valuable information.  This paper introduces Locally Linear Embedding (LLE),

@@ -1,0 +1,2 @@
+Data Perturbation for Escaping Local Maxima in Learning
+ Abstract Almost all machine learning algorithms---be they for regression, classification or density estimation---seek hypotheses that optimize a score on training data.  In most interesting cases, however, full global optimization is not feasible and local search techniques are used to discover reasonable

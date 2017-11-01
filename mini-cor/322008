@@ -1,0 +1,2 @@
+Face alignment using texture-constrained active shape models
+ Abstract In this paper, we propose a texture-constrained active shape model (TC-ASM) to localize a face in an image.  TC-ASM effectively incorporates not only the shape prior and local appearance around each landmark, but also the global texture constraint over the shape.  Therefore, it performs stable to initialization, accurate in shape localization and robust to illumination variation, with low computational cost.  Extensive experiments are provided to demonstrate our algorithm.

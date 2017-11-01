@@ -1,0 +1,2 @@
+Greedy Algorithms for Classification -- Consistency, Convergence Rates, and Adaptivity
+ Abstract Many regression and classification algorithms proposed over the years can be described as greedy procedures for the stagewise minimization of an appropriate cost function.  Some examples include additive models, matching pursuit, and boosting.  In this work we focus on the classification

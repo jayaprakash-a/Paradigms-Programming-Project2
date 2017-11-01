@@ -1,0 +1,2 @@
+Some Issues in Monitoring Convergence of Iterative Simulations
+ In this paper, we discuss some recent results and open questions concerning monitoring convergence of iterative simulations.  We begin by discussing the various approaches to convergence assessment proposed in the literature, grouping the methods according to their underlying principles.  We then discuss how MCMC simulations can be constructed so that convergence monitoring is simplified.  Finally, we discuss some new convergence assessment ideas that are the focus of current work.

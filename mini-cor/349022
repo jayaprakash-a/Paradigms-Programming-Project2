@@ -1,0 +1,2 @@
+WebWatcher: Machine Learning and Hypertext
+ Abstract This paper describes the first implementation of WebWatcher, a Learning Apprentice for the World Wide Web.  We also explore the possibility of extracting information from the structure of hypertext.  We introduce an algorithm which identifies pages that are related to a given page using only hypertext structure.  We motivate the algorithm by using the Minimum Description Length principle.

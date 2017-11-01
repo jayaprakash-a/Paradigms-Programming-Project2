@@ -1,0 +1,2 @@
+Reading Comprehension Programs in a Statistical-Language-Processing Class
+ Abstract We present some new results for the reading comprehension task described in [3] that improve on the best published results { from 36% in [3] to 41% (the best of the systems described herein).  We discuss a variety of techniques that tend to give small improvements, ranging from the fairly simple (give verbs more weight in answer selection) to the fairly complex (use specific techniques for answering specific kinds of questions).

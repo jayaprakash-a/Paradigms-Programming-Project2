@@ -1,0 +1,2 @@
+AltAlt: Combining the Advantages of Graphplan and Heuristic State Search
+ Abstract Most recent strides in scaling up planning have centered around two competing themes--disjunctive planners, exemplified by Graphplan, and heuristic state search planners, exemplified by HSP and HSP-R.  In this paper, we describe a planner called AltAlt, which successfully combines the advantages of the two competing paradigms to develop a planner that is significantly more powerful than either of the approaches.

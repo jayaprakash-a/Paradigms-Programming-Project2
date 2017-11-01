@@ -1,0 +1,2 @@
+ASR - Articulatory Speech Recognition
+ We describe a speech recognition system which uses a combination of acoustic and articulatory features as input.  Linear dynamic models capture the trajectories which characterise each segment type.  We describe classification and recognition tasks for systems based on acoustic data in conjunction with both real and automatically recovered articulatory parameters.

@@ -1,0 +1,2 @@
+A Result of Vapnik with Applications
+ Abstract A new proof of a result due to Vapnik is given.  Its implications for the theory of PAC learnability are discussed, with particular reference to the learnability of functions taking values in a countable set.  An application to the theory of artificial neural networks is then given.

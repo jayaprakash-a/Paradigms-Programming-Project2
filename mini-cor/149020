@@ -1,0 +1,2 @@
+An Improved Training Algorithm for Kernel Fisher Discriminants
+ Abstract We present a fast training algorithm for the kernel Fisher discriminant classifier.  It uses a greedy approximation technique and has an empirical scaling behavior which improves upon the state of the art by more than an order of magnitude, thus rendering the kernel Fisher algorithm a viable option also for large datasets.

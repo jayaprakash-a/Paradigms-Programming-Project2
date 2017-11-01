@@ -1,0 +1,2 @@
+Speech Recognition Experiments with Silicon Auditory Models
+ Abstract We have developed a real-time system to transform an audio signal into several specialized representations of sound.  The system uses analog circuit models of biological audition to compute these representations.  We report on a speech recognizer that uses this system for feature extraction, and we evaluate the performance of this speech recognition system on a speaker-independent 13-word recognition task.

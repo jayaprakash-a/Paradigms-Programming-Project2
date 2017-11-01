@@ -1,0 +1,2 @@
+Spontaneous Recovery of Associations by Learning Unrelated Tasks
+ Abstract We demonstrate that imperfect recall of a set of associations can usually be improved by training on a new, unrelated set of associations.  This spontaneous recovery of associations is a consequence of the high dimensionality of weight spaces, and is therefore not peculiar to any single type of neural net.  Accordingly, this work may have implications for spontaneous recovery of memory in the central nervous system.

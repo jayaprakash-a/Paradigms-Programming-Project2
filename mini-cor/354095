@@ -1,0 +1,2 @@
+Rounding Algorithms for a Geometric Embedding of Minimum Multiway Cut
+ Abstract Given an undirected graph with edge costs and a subset of k # 3 nodes called terminals, a multiway, or k-way, cut is a subset of the edges whose removal disconnects each terminal from the others.  The multiway cut problem is to find a minimum-cost multiway cut.  This problem is Max-SNP hard.  Recently Calinescu, Karloff, and Rabani (STOC'98) gave a novel geometric relaxation of the problem and a rounding scheme that produced a (3/2

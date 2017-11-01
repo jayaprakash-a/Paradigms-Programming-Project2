@@ -1,0 +1,2 @@
+Skeletons in the parser: Using a shallow parser to improve deep parsing
+ Abstract We describe a simple approach for integrating shallow and deep parsing.  We use phrase structure bracketing obtained from the Collins parser as filters to guide deep parsing.  Our experiments demonstrate that our technique yields substantial gains in speed along with modest improvements in accuracy.

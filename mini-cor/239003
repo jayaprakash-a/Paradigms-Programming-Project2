@@ -1,0 +1,2 @@
+Node Relevance Determination
+ Abstract Hierarchical Bayesian inference in parameterised models offers an approach for controlling complexity.  In this paper we utilise a novel prior for the leaning of a model's structure.  We call the prior node relevance determination.  It is applicable in a range of models including sigmoid belief networks and Boltzmann machines.  We demonstrate how the approach may be applied to determine structure in a multi-layer perceptron.

@@ -1,0 +1,2 @@
+Multi-faceted Learning for Web Taxonomies
+ Abstract.  A standard problem for internet commerce is the task of building a product taxonomy from web pages, without access to corporate databases.  However, a nasty aspect of the real world is that most web-pages have multiple facets.  A web page might contain information about both cameras and computers, as well as having both specification and sale data.  We are interested in methods for supervised and unsupervised learning of multiple faceted models.  Here we present results for multi-faceted clustering of bigram words data.

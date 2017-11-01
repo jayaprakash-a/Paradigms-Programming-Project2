@@ -1,2 +1,2 @@
-Brain-computer interface (BCI) operation: Optimizing information transfer rates,
-
+BIFURCATIONS IN THE LEARNING OF RECURRENT NEURAL NETWORKS
+ Abstract Gradient descent algorithms in recurrent neural networks can have problems when the network dynamics experience bifurcations in the course of learning.  The possible hazards caused by the bifurcations of the network dynamics and the learning equations are investigated.  The roles of teacher forcing, preprogramming of network structures, and the approximate learning algorithms are discussed.

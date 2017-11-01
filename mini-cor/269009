@@ -1,0 +1,2 @@
+Gaussian Processes for Switching Regimes
+ Abstract.  It has been shown that Gaussian processes are a competitive tool for nonparametric regression and classification.  Furthermore they are equivalent to neural networks in the limit of an infinite number of neurons.  Here we show that the versatility of Gaussian processes at defining different textural characteristics can be used to recognise different regimes in a signal switching between different sources.

@@ -1,0 +1,2 @@
+Assessing RBF Networks Using DELVE
+ Abstract In this paper different methods for training radial basis function (RBF) networks for regression problems are described and illustrated.  Then, using data from the DELVE archive, they are empirically compared with each other and with some other well known methods for machine learning.  Each of the RBF methods performs well on at least one DELVE task, but none are as consistent as the best of the other non-RBF methods.

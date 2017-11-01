@@ -1,0 +1,2 @@
+Adaptive Scale Filtering: A General Method for Obtaining Shape From Texture
+ We introduce adaptive scale filtering, a general method for deriving shape from texture under perspective projection without recourse to prior segmentation of the image into geometric texture elements (texels), and without thresholding of filtered images.  If texels on a given surface can be identified in an image then the orientation of that surface can be obtained [11].  However,

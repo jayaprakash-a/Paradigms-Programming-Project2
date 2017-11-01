@@ -1,0 +1,2 @@
+STOCHASTIC ALGORITHMS FOR EXPLORATORY DATA ANALYSIS: DATA CLUSTERING AND DATA VISUALIZATION
+ Abstract.  Iterative, EM-type algorithms for data clustering and data visualization are derived on the basis of the maximum entropy principle.  These algorithms allow the data analyst to detect structure in vectorial or relational data.  Conceptually, the clustering and visualization procedures are formulated as combinatorial or continuous optimization problems which are solved by stochastic optimization.

@@ -1,0 +1,2 @@
+Machine-Learning Research
+ Abstract Machine Learning research has been making great progress in many directions.  This article summarizes four of these directions and discusses some current open problems.  The four directions are (a) improving classification accuracy by learning ensembles of classifiers, (b) methods for scaling up supervised learning algorithms, (c) reinforcement learning, and (d) learning complex stochastic models.

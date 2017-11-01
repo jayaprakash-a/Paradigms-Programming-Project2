@@ -1,0 +1,2 @@
+Word learning as Bayesian inference
+ Abstract We apply a computational theory of concept learning based on Bayesian inference (Tenenbaum, 1999) to the problem of learning words from examples.  The theory provides a framework for understanding how people can generalize meaningfully from just one or a few positive examples of a novel word, without assuming that words are mutually exclusive or map only onto basic-level categories.  We also describe experiments with adults and children designed to evaluate the model.

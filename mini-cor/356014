@@ -1,0 +1,2 @@
+ANALYSIS AND CLASSIFICATION OF INTERNAL PIPELINE IMAGES
+ ABSTRACT Recently developed optical inspection tools provide images from the inside of natural gas pipelines to monitor pipeline integrity.  The vast amounts of data generated prohibits human inspection of the resulting images.  We designed an image processing and classification method to identify abnormal events.  Non-overlapping image blocks are classified into twelve categories:

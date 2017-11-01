@@ -1,0 +1,2 @@
+Improved Analysis of Greedy Mapping
+ Abstract We analyze Greedy Mapping, a simple mapping method that has successfully been used on mobile robots.  Greedy Mapping moves the robot from its current location on a shortest path towards a closest unvisited, unscanned or informative location, until the terrain is mapped.  Previous work has resulted in upper and lower bounds on its worst-case travel distance but there was a large gap between the bounds.  In this paper, we reduce the gap substantially by decreasing the upper bound from O(

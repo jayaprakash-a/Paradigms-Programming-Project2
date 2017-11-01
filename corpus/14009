@@ -1,2 +1,2 @@
-Discovery of Fraud Rules for Telecommunications - Challenges and Solutions
-
+1996 SPIE Symposium on Visual Communications and Image Processing Adaptive Scale Detection
+ Abstract Most image processing and computer vision algorithms assume knowledge of the proper spatial scale in the image.  We propose an automatic technique that adaptively sets the proper spatial scale based on the size of local features in the image.  We discuss an analog VLSI circuit implementation that uses this method to automatically determine the proper scale based on a dynamical system model that continuously searches scale space.  Though this technique is motivated by analog circuit concepts, we show results for a digital implementation for image enhancements of mamograms.  Digital implementations must discretizes the scale space and perform an optimization over this finite set.

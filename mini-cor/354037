@@ -1,0 +1,2 @@
+Fast Connected Components Algorithms for the EREW PRAM
+ Abstract We present fast and efficient parallel algorithms for finding the connected components of an undirected graph.  These algorithms run on the exclusive-read, exclusive-write (EREW) PRAM.  On a graph with n vertices and m edges, our randomized algorithm runs in O(log n) time using (m+n 1+ffl )= log n EREW processors (for any fixed ffl ? 0).  A variant uses (m+n)= log n processors and runs in O(log n log log n) time.  A deterministic version of the algorithm runs in O(log 1:5 n) time using m+ n EREW processors.

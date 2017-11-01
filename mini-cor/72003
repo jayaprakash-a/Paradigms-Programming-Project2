@@ -1,0 +1,2 @@
+Data Centering in Feature Space
+ Abstract This paper presents a family of methods for data translation in feature space, to be used in conjunction with kernel machines.  The translations are performed using only kernel evaluations in input space.  We use the methods to improve the numerical properties of kernel machines.  Experiments with synthetic and real data demonstrate the effectiveness of data centering and highlight other interesting aspects of translation in feature space.

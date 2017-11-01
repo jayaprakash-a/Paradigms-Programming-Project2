@@ -1,0 +1,2 @@
+TOPIC-BASED LANGUAGE MODELS USING EM
+ ABSTRACT In this paper, we propose a novel statistical language model to capture topic-related long-range dependencies.  Topics are modeled in a latent variable framework in which we also derive an EM algorithm to perform a topic factor decomposition based on a segmented training corpus.  The topic model is combined with a standard language model to be used for on-line word prediction.  Perplexity results indicate an improvement over previously proposed topic models, which unfortunately has not translated into lower word error.

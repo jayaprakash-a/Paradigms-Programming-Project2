@@ -1,0 +1,2 @@
+Simultaneous Word and Document Clustering
+ Abstract --- In this paper we outline some of our current research on unsupervised learning algorithms for clustering words and documents.  The focus of our work is on the use of statistical methods and builds upon previous work on mutual information word clustering, document clustering, and feature selection for text classification.

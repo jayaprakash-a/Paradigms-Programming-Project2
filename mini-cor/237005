@@ -1,0 +1,2 @@
+Curve Analogies
+ Abstract This paper describes a method for learning statistical models of 2D curves, and shows how these models can be used to design line art rendering styles by example.  A user can create a new style by providing an example of the style, e. g.  by sketching a curve in a drawing program.  Our method can then synthesize random new curves in this style, and modify existing curves to have the same style as the example.  This method can incorporate position constraints on the resulting curves.

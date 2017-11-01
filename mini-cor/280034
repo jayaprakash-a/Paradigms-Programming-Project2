@@ -1,0 +1,2 @@
+Image Segmentation
+ Abstract This chapter describes a method of segmenting MR images into different tissue classes, using a modified Gaussian Mixture Model.  By knowing the prior spatial probability of each voxel being grey matter, white matter or cerebro-spinal fluid, it is possible to obtain a more robust classification.  In addition, a step for correcting intensity non-uniformity is also included, which makes the method more applicable to images corrupted by smooth intensity variations.

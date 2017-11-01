@@ -1,0 +1,2 @@
+Advances in Boosting
+ Abstract Boosting is a general method of generating many simple classification rules and combining them into a single, highly accurate rule.  This paper reviews the AdaBoost boosting algorithm and some of its underlying theory, and then looks at some of the challenges of applying AdaBoost to bidding in complicated auctions and to human-computer spoken-dialogues systems.

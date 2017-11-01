@@ -1,0 +1,2 @@
+Statistical Models for Text Segmentation
+ Abstract.  This paper introduces a new statistical approach to automatically partitioning text into coherent segments.  The approach is based on a technique that incrementally builds an

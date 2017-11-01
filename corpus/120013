@@ -1,0 +1,2 @@
+An Improved Predictive Accuracy Bound for Averaging Classifiers
+ Abstract We present an improved bound on the difference between training and test errors for voting classifiers.  This improved averaging bound provides a theoretical justi#cation for popular averaging techniques such as Bayesian classification, Maximum Entropy discrimination, Winnow and Bayes point machines and has implications for learning algorithm design.

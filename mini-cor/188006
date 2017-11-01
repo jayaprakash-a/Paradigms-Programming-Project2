@@ -1,0 +1,2 @@
+Audio feedback for gesture recognition
+ Abstract A general framework for producing formative audio feedback for gesture recognition is presented, including the dynamic and semantic aspects of gestures.  The beliefs states are probability density functions conditioned on the trajectories of the observed variables.  We describe example implementations of gesture recognition based on Hidden Markov Models and a dynamic programming recognition algorithm.  Granular synthesis is used to present the audio display of the changing probabilities and observed states.

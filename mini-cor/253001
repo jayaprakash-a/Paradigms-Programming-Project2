@@ -1,0 +1,2 @@
+Multi-Protocol Visualization A Tool Demonstration
+ ABSTRACT This paper describes a system for the visualization of multiple protocols.  The visualizer makes possible the identification of both intra and inter-protocol behaviour.  This tool has become a critical resource in the development of our multi-protocol monitoring system; allowing the verification of the monitoring system, identification of new modes of behaviour and the easy visualization of potentially overwhelming quantities of information 1 .

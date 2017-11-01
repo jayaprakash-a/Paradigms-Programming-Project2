@@ -1,0 +1,2 @@
+A Hopfield learning rule with high capacity storage of time-correlated patterns
+ Abstract A new local and incremental learning rule is examined for its ability to store patterns from a time series in an attractor neural network.  This learning rule has a higher capacity than the Hebb rule, and suffers significantly less capacity loss as the correlation between patterns increases.

@@ -1,0 +1,2 @@
+Mean Field Theory for Sigmoid Belief Networks
+ Abstract We develop a mean field theory for sigmoid belief networks based on ideas from statistical mechanics.  Our mean field theory provides a tractable approximation to the true probability distribution in these networks; it also yields a lower bound on the likelihood of evidence.  We demonstrate the utility of this framework on a benchmark problem in statistical pattern recognition---the classification of handwritten digits.

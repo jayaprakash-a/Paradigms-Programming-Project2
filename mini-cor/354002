@@ -1,0 +1,2 @@
+A scalable location service for geographic ad hoc routing
+ Simple geographic forwarding combined with GLS compares favorably with Dynamic Source Routing (DSR): in larger networks (over 200 nodes) our approach delivers more packets, but consumes fewer network resources.

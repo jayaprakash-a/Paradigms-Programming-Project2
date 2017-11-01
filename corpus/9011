@@ -1,2 +1,2 @@
-\Fast multiple antenna differential
-
+IMPROVING STATISTICAL SPEECH RECOGNITION
+ ABSTRACT In this paper we summarise the theory underlying our hybrid connectionist/HMM continuous speech recognition systems and report some recent experimental results and further theoretical developments.  Highlights include: 1.  Experimental results indicating that our connectionist methods can significantly improve the performance of a context independent HMM system (to a performance close to that of state of the art context dependent systems of much higher complexity); 2.  Experimental results demonstrating that a state of the art context dependent HMM system (SRI's DECIPHER) can be significantly improved by interpolating context independent connectionist probability estimates; 3.  The development of a principled network decomposition method that allows the efficient and parsimonious modelling of context-dependent phones, with no independence assumptions.

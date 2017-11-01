@@ -1,0 +1,2 @@
+Complexity Approximation Principle
+ Abstract We propose a new inductive principle, which we call Complexity Approximation Principle.  This principle is a natural generalization of Rissanen's MDL principle and Wallace's MML principle and is based on the notion of predictive complexity, a recent generalization of Kolmogorov complexity.  Like the MDL principle, Complexity Approximation Principle can be regarded as an explication of Occam's razor.  The subject of this note is another inductive principle, which can be regarded as a direct generalization of

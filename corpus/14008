@@ -1,2 +1,2 @@
-Boosting Density Estimation
- Abstract Several authors have suggested viewing boosting as a gradient descent search for a good fit in function space.  We apply gradient-based boosting methodology to the unsupervised learning problem of density estimation.  We show convergence properties of the algorithm and prove that a strength of weak learnability property applies to this problem as well.  We illustrate the potential of this approach through experiments with boosting Bayesian networks to learn density models.
+Efficient Object Recognition Using Color
+ Abstract A real-time prototype system for identifying soda cans uses histogram indexing with only 16 colors, with excellent results.  The final implementation

@@ -1,0 +1,2 @@
+Finding Topics in Dynamical Text: Application to Chat Line Discussions
+ ABSTRACT The problem of analysing dynamically evolving textual data has recently arisen.  An example of such data is the discussion appearing in Internet chat lines.  In this paper a recently introduced method, termed complexity pursuit, is used to extract the topics of a dynamical chat line discussion.  Experimental results demonstrate that meaningful topics can be found and also suggest the applicability of the method to query-based retrieval from a temporally changing text stream.

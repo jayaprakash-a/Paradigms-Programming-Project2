@@ -1,0 +1,2 @@
+Adding Dense, Weighted Connetions to WORDNET
+ Abstract WORDNET, a ubiquitous tool for natural language processing, suffers from sparsity of connections between its component concepts (synsets).  Through the use of human annotators, a subset of the connections between 1000 hand-chosen synsets was assigned a value of "evocation" representing how much the first concept brings to mind the second.  These data, along with existing similarity measures, constitute the basis of a method for predicting evocation between previously unrated pairs.

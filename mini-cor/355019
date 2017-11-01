@@ -1,0 +1,2 @@
+Towards Semi-Supervised Classification with Markov Random Fields
+ Abstract We investigate the use of Boltzmann machines in semi-supervised classification.  We treat the labeled / unlabeled dataset as a Markov random field, and derive a Boltzmann machine learning algorithm for it to learn the feature weights, label noise and labels for unlabeled data all at once.  We present some Markov chain Monte Carlo methods needed for learning, and discuss the need to regularize model parameters.  Preliminary experimental results are presented.

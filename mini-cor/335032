@@ -1,0 +1,2 @@
+ON PLANNING IMMOBILIZING FIXTURES FOR THREE-DIMENSIONAL POLYHEDRAL PARTS
+ Abstract: We propose a simple three-dimensional modular fixturing device and present an algorithm for enumerating all of the immobilizing fixtures of a polyhedral object that can be achieved with this device and four frictionless contacts.  Our approach is based on the second-order mobility theory of Rimon and Burdick [19, 20, 21].

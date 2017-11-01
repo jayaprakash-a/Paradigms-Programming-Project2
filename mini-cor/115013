@@ -1,0 +1,2 @@
+Skew Detection via Principal Components Analysis
+ Abstract Skew detection via principal components is proposed as an effective method for images which contain other parts than text.  It is shown that the negative of the image leads to much more robust results, and that the computation time involved is still practical.  This method is also shown to be effective for single word skew detection.

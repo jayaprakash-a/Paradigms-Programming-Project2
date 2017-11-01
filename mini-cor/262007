@@ -1,0 +1,2 @@
+Fast String Kernels using Inexact Matching for Protein Sequences
+ Abstract We describe several families of k-mer based string kernels related to the recently presented mismatch kernel and designed for use with support vector machines (SVMs) for classification of protein sequence data.  These new kernels -- restricted gappy kernels, substitution kernels, and wildcard kernels -- are based on feature spaces indexed by k-length subsequences ("k-mers") from the string alphabet S.  However, for all kernels we define here, the kernel value K(x,y) can be computed in O(c K (

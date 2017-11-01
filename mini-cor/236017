@@ -1,0 +1,2 @@
+Markov Properties for Acyclic Directed Mixed Graphs
+ Abstract We consider acyclic directed mixed graphs, in which directed edges (x ! y) and bi-directed edges (x $ y) may occur.  A simple extension of Pearl's d-separation criterion, called m-separation, is applied to these graphs.  We introduce a local Markov property which is equivalent to the global property resulting from the m-separation criterion.

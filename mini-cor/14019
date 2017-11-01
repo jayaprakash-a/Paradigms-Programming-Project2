@@ -1,0 +1,2 @@
+A Subthreshold-CMOS Chaotic Oscillator
+ Abstract This paper reports on the design of a subthreshold-CMOS chaotic oscillator based on Chua's circuit.  The circuit is autonomous and generates chaotic signals from three state variables in a manner analogous to a Chua circuit.  Previous CMOS IC versions of the Chua

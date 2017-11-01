@@ -1,0 +1,2 @@
+EVALUATION OF KERNEL METHODS FOR SPEAKER VERIFICATION AND IDENTIFICATION
+ ABSTRACT Support vector machines are evaluated on speaker verification and speaker identification tasks.  We compare the polynomial kernel, the Fisher kernel, a likelihood ratio kernel and the pair hidden Markov model kernel with baseline systems based on a discriminative polynomial classifier and generative Gaussian mixture model classifiers.  Simulations were carried out on the YOHO database and some promising results were obtained.

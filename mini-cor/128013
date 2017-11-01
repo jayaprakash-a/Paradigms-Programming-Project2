@@ -1,0 +1,2 @@
+Making Decisions with Probability Models
+ Abstract This paper considers the problem of classification based on a minimum number of measurements.  We compare two different approaches.  The first approach is to determine the optimal measurements as it is done in decision tree algorithms.  The second is to estimate a probability distribution from a database and to determine the optimal measurements from this distribution.  Test results indicate that the method using probability models results in better classifying trees.

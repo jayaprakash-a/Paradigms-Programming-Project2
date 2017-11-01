@@ -1,2 +1,2 @@
-Manuscript: 1646 Recurrent Sampling Models for the Helmholtz Machine
- Abstract Many recent analysis-by-synthesis density estimation models of cortical learning and processing have made the crucial simplifying assumption that units within a single layer are mutually independent given the states of units in the layer below or the layer above.  In this paper, we suggest using either a Markov random field or an alternative stochastic sampling architecture to capture explicitly particular forms of dependence within each layer.  We develop the architecture in the context of real and binary Helmholtz machines.  Recurrent sampling can be used to capture correlations within layers in the generative or the recognition models, and we also show how these can be combined.
+Improved Key Management for Digital Watermark Monitoring
+ ABSTRACT In this article we propose

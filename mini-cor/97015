@@ -1,0 +1,2 @@
+Planning in Cost-Paired Markov Decision Process Games
+ Abstract We describe applications and theoretical results for a new class of two-player planning games.  In these games, each player plans in a separate Markov Decision Process (MDP), but the costs associated with a policy in one of the MDPs depend on the policy selected by the other player.  These costpaired MDPs represent an interesting and computationally tractable subset of adversarial planning problems.  To solve them, we extend the Double Oracle Algorithm of [3].

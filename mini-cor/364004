@@ -1,0 +1,2 @@
+Learning Hierarchical Models of Activity
+ Abstract--- This paper investigates learning hierarchical statistical activity models in indoor environments.  The Abstract Hidden Markov Model (AHMM) is used to represent behaviors in stochastic environments.  We train the model using both labeled and unlabeled data and estimate the parameters using Expectation Maximization (EM).  Results are shown on three datasets: data collected in lab, entryway, and home environments.  The results show that hierarchical models outperform flat models.

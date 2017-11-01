@@ -1,0 +1,2 @@
+VC Dimension Bounds for Networks of Spiking Neurons
+ Abstract.  We calculate bounds on the VC dimension and pseudo dimension for networks of spiking neurons.  The connections between network nodes are parameterized by transmission delays and synaptic weights.  We provide bounds in terms of network depth and number of connections that are almost linear.  For networks with few layers this yields better bounds than previously established results for networks of unrestricted depth.

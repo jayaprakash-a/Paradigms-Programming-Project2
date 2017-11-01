@@ -1,0 +1,2 @@
+On tempo tracking: Tempogram Representation and Kalman filtering
+ Abstract We formulate tempo tracking in a Bayesian framework where a tempo tracker is modeled as a stochastic dynamical system.  The tempo is modeled as a hidden state variable of the system and is estimated from a MIDI performance by Kalman filtering and smoothing.  We also introduce the Tempogram representation, a wavelet-like multiscale expansion of a real performance, on which the Kalman filter operates.

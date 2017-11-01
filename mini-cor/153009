@@ -1,0 +1,2 @@
+Integrating Tempo Tracking and Quantization using Particle Filtering
+ Abstract We present a probabilistic switching state space model for timing deviations in expressive music performance.  We formulate tempo tracking and automatic transcription (rhythm quantization) as filtering and maximum a posteriori (MAP) state estimation tasks.  The resulting model is suitable for real-time tempo tracking and transcription and hence useful in a number of music applications such as adaptive automatic accompaniment and score typesetting.

@@ -1,0 +1,2 @@
+AN ADAPTIVE SILICON SYNAPSE
+ ABSTRACT We present an analog circuit for implementing models of synapses with short--term adaptation, derive analytical solutions for spiking input signals, and present experimental results measured from a chip fabricated using a standard 1. 5m CMOS technology.  The circuit is suitable for integration in large arrays of integrate--and--fire neurons and consequently for evaluating computational roles of short-term adaptation at the network level.

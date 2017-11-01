@@ -1,0 +1,2 @@
+On the Design of Low-Density Parity-Check Codes within 0
+0045 dB of the Shannon Limit.  Abstract---We develop improved algorithms to construct good low-density parity-check codes that approach the Shannon limit very closely.  For rate 1/2, the best code found has a threshold within 0. 0045 dB of the Shannon limit of the binary-input additive white Gaussian noise channel.  Simulation results with a somewhat simpler code show that we can achieve within 0. 04 dB of the Shannon limit at a bit error rate of 10 6 using a block length of 10 7 .

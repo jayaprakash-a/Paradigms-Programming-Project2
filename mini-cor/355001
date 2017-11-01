@@ -1,0 +1,2 @@
+Model Selection with Unlabeled Data for Maximum Entropy Models
+ Abstract We tried to apply the Pythagorean property on a sequence of increasingly complex maximum entropy models to detect overfitting, and hence select the model with the appropriate level of complexity.  It didn't work.

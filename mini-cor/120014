@@ -1,0 +1,2 @@
+PAC-MDL Bounds
+ Abstract.  We point out that a number of standard sample complexity bounds (VC-dimension, PAC-Bayes, and others) are all related to the number of bits required to communicate the labels given the unlabeled data for a natural communication game.  Motivated by this observation, we give a general sample complexity bound based on this game that allows us to unify these different bounds in one common framework.

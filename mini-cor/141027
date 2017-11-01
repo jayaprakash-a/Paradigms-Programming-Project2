@@ -1,0 +1,2 @@
+A New Incremental Learning Technique
+ Abstract We present a new type of constructive algorithm for incremental learning.  The algorithm overcomes many of the problems associated with standard back propagation such as speed and optimum network size.  We investigate the ability of the network to learn and test the resulting generalisation of the network.

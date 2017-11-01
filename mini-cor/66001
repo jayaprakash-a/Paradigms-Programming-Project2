@@ -1,0 +1,2 @@
+Statistical Suciency for Classes in Empirical
+ Abstract We explore the notion of " sucient linear statistics for a class of real valued functions.  We show that for function classes with a polynomial rate of the Parametric Pollard dimension one can find a set of linear empirical functionals of polynomial size in the dimension that are sucient for " approximation of any function in the class.  We also present a probabilistic scheme for producing those functionals.

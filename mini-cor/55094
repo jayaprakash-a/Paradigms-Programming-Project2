@@ -1,0 +1,2 @@
+In Proceedings of the Fifteenth Annual Conference on Uncertainty in Artificial Intelligence (
+ Abstract The clique tree algorithm is the standard method for doing inference in Bayesian networks.  It works by manipulating clique potentials --- distributions over the variables in a clique.  While this approach works well for many networks, it is limited by the need to maintain an exact representation of the clique potentials.  This paper presents a new unified approach that combines approximate inference and the clique tree algorithm,

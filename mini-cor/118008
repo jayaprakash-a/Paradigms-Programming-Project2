@@ -1,0 +1,2 @@
+Convergence and asymptotic normality of variational Bayesian approximations for exponential family models with missing values
+ Abstract We study the properties of variational Bayes approximations for exponential family models with missing values.  It is shown that the iterative algorithm for obtaining the variational Bayesian estimator converges locally to the true value with probability 1 as the sample size becomes indefinitely large.  Moreover, the variational posterior distribution is proved to be asymptotically normal.

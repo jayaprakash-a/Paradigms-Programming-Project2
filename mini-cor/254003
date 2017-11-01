@@ -1,0 +1,2 @@
+The Keyword Lexicon - An accent-independent lexicon for automatic speech recognition
+ ABSTRACT Recent work at the Centre for Speech Technology Research (CSTR) at the University of Edinburgh has developed an accent-independent lexicon for speech synthesis (the Unisyn project).  The main purpose of this lexicon is to avoid the problems and cost of writing a new lexicon for every new accent needed for synthesis.  Only recently [1], a first attempt has been made to use the Keyword Lexicon for automatic speech recognition.

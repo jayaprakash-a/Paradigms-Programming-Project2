@@ -1,0 +1,2 @@
+Structural Representation of Speech for Phonetic Classification
+ Abstract This paper explores the issues involved in using symbolic metric algorithms for automatic speech recognition (ASR), via a structural representation of speech.  This representation is based on a set of phonological distinctive features which is a linguistically well-motivated alternative to the "beads-on-a-string" view of speech that is standard in current ASR systems.  We report the promising results of phoneme classification experiments conducted on a standard continuous speech task.

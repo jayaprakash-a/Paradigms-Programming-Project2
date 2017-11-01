@@ -1,0 +1,2 @@
+A Machine Learning Architecture for Optimizing Web Search Engines
+ documents.  In this paper, we describe a wide range of such heuristics---including a novel one inspired by reinforcement learning techniques for propagating rewards through a graph---which can be used to affect a search engine's rankings.  We then demonstrate a system which learns to combine these heuristics automatically, based on feedback collected unintrusively from users, resulting in much improved rankings.

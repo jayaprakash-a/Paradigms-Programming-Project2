@@ -1,0 +1,2 @@
+Speech Translation for Low-Resource Languages: The Case of Pashto
+ Abstract We present a number of challenges and solutions that have arisen in the development of a speech translation system for American English and Pashto, highlighting those specific to a very low resource language.  In particular, we address issues posed by Pashto in the areas of written representation, corpus creation, speech recognition, speech synthesis, and grammar development for translation.

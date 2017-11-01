@@ -1,2 +1,2 @@
-Recognizing Temporal Trajectories Using the Condensation Algorithm
- Abstract The recognition of human gestures in image sequences is an importantand challengingproblem that enables a host of human-computer interaction applications.  This paper describes an incremental recognition strategy that is an extension of the "Condensation" algorithm proposed by Isard and Blake (ECCV'96).  Gestures are modeled as temporal trajectories of some estimated parameter over time (in this case velocity).  The condensation algorithm is used to incrementally match the gesture models to the inputdata.  The method is demonstrated with an example of an augmented office whiteboard in which a user makes simple hand gestures to grab regions of the board, print them, save them, etc.
+"Damped Newton Algorithms for Matrix Factorization with Missing Data,
+

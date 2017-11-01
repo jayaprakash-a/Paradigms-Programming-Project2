@@ -1,0 +1,2 @@
+Limits in Learning Machine Accuracy Imposed by Data Quality
+ Abstract Random errors and insufficiencies in databases limit the performance of any classifier trained from and applied to the database.  In this paper we propose a method to estimate the limiting performance of classifiers imposed by the database.  We demonstrate this technique on the task of predicting failure in telecommunication paths.

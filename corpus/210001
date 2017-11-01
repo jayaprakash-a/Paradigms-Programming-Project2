@@ -1,0 +1,2 @@
+Motion Textures CS 533B Project Report
+ This randomness helps to create the impression of a natural motion.  To avoid discontinuities of the generated motion due to the transitions, I smoothly blend the motions in the transition phase.  The probabilities for transitions are based on the similarity between different parts of the motion clip.  I propose a novel distance metric for measuring these distances.

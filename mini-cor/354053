@@ -1,0 +1,2 @@
+Building peer-to-peer systems with Chord, a distributed lookup service
+ Abstract We argue that the core problem facing peer-to-peer systems is locating documents in a decentralized network and propose Chord, a distributed lookup primitive.  Chord provides an efficient method of locating documents while placing few constraints on the applications that use it.  As proof that Chord's functionality is useful in the development of peer-to-peer applications, we outline the implementation of a peer-to-peer file sharing system based on Chord.

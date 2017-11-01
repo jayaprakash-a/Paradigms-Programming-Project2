@@ -1,0 +1,2 @@
+Local Search Characteristics of Incomplete SAT Procedures
+ Abstract Effective local search methods for finding satisfying assignments of CNF formulae exhibit several systematic characteristics in their search.  We identify a series of measurable characteristics of local search behavior that are predictive of problem solving efficiency.  These measures are shown to be useful for diagnosing inefficiencies in given search

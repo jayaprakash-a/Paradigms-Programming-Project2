@@ -1,0 +1,2 @@
+Detecting Stop Consonants in Continuous Speech
+ Abstract We consider the problem of implementing a detector for stop consonants in continuously spoken speech.  We pose the problem as one of finding an optimal filter (linear or non-linear) that operates on a particular appropriately chosen representation, and ideally outputs a 1 when a stop occurs and 0 otherwise.  We discuss the performance of several variants of a canonical stop detector and consider its implications for human and machine speech recognition.

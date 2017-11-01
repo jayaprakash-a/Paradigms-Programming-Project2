@@ -1,0 +1,2 @@
+Shape Representation via Harmonic Embedding
+ Abstract We present a novel representation of shape for closed planar contours explicitly designed to possess a linear structure.  This greatly simplifies linear operations such as averaging, principal component analysis or di#erentiation in the space of shapes.  The representation relies upon embedding the contour on a subset of the space of harmonic functions of which the original contour is the zero level set.

@@ -1,0 +1,2 @@
+SECOND ORDER BLIND SOURCE SEPARATION BY RECURSIVE SPLITTING OF SIGNAL SUBSPACES
+ ABSTRACT We present an approach to blind source separation based on delayed correlations.  This method recursively splits separation space into subspaces spanned by groups of sources.  The inner loop consists of repeated application of a standard eigenvalue decomposition.  When the number of sources is large this algorithm is significantly faster than joint diagonalization of cross-covariance matrices.

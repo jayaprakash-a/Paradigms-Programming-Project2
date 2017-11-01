@@ -1,2 +1,2 @@
-3-D Motion Estimation Using Linear and Bilinear Constraints
- Abstract This paper examines the use of the EM algorithm to perform motion segmentation on image sequences that contain independent object motion.  The input data are linear constraints on 3-D translational motion and bilinear
+Automatic 3D model acquisition and generation of new images from video sequences,
+

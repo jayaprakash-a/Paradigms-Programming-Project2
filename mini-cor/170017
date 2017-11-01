@@ -1,0 +1,2 @@
+Traffic Light Control Using SARSA with Three State Representations
+ Abstract SARSA is applied to a simulated traffic light control problem and compared with a fixed-duration strategy and a simple, rule-based strategy.  The performance of SARSA with three different representations of the current state of traffic is analyzed.  SARSA is shown to be superior to the best, fixed-duration light timing and close to optimal for the simulation used in this article.

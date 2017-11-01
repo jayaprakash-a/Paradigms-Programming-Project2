@@ -1,0 +1,2 @@
+Visibility-Based Pursuit-Evasion with Limited Field of View
+ Abstract We study a form of the pursuit-evasion problem, in which one or more searchers must move through a given environment so as to guarantee detection of any and all evaders, which can move arbitrarily fast.  Our goal is to develop techniques for coordinating teams of robots to execute this task in

@@ -1,0 +1,2 @@
+ONLINE EXPECTATION-MAXIMIZATION TYPE ALGORITHMS FOR PARAMETER ESTIMATION IN GENERAL STATE SPACE MODELS
+ ABSTRACT In this paper we present new online algorithms to estimate static parameters in nonlinear non Gaussian state space models.  These algorithms rely on online Expectation-Maximization (EM) type algorithms.  Contrary to standard Sequential Monte Carlo (SMC) methods recently proposed in the literature, these algorithms do not degenerate over time.

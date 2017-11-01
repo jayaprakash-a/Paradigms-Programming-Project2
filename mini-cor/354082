@@ -1,0 +1,2 @@
+On the Dynamic Multicast Problem for Coded Networks
+ Abstract--- We consider the problem of finding minimum-cost time-varying subgraphs that can deliver continuous service to dynamic multicast groups in coded networks (i. e.  networks that use network coding).  This problem is relevant for applications such as real-time media distribution.  We formulate the problem within the framework of dynamic programming and apply dynamic programming theory to suggest how it may be solved.

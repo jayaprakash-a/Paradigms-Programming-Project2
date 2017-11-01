@@ -1,0 +1,2 @@
+A Note on Platt's Probabilistic Outputs for Support Vector Machines
+ Abstract Platt's probabilistic outputs for Support Vector Machines [6] has been popular for applications that require posterior class probabilities.  In this note, we propose an improvement which theoretically converges and avoids numerical difficulties.  A simpler and ready-to-use pseudo code is included.

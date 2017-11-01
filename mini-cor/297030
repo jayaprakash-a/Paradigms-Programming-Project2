@@ -1,0 +1,2 @@
+The Complexity of Node Counting on Undirected Graphs
+ Abstract We analyze the complexity of Node Counting, a graph-traversal method.  On many graphs arising in control problems in Artificial Intelligence, Node Counting performs as efficiently as other methods which are known to be of polynomial complexity in the number of states (e. g. , Learning Real-Time A* method).  We show that complexity of Node Counting on undirected graphs is #(n p n ), which is not polynomial in the number of states.  This solves an open problem from the literature.

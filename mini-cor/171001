@@ -1,0 +1,2 @@
+On Kernel Principal Component Regression with Covariance Inflation Criterion for Model Selection
+ and other 'kernel' regression techniques is given and two benchmark problems demonstrate the comparable performance of CIC to cross-validation techniques.  In all reported experiments CIC provides the models with equal performance in comparison to Kernel RR.  Moreover, on a significant real world application, Kernel PCR with CIC resulted in smaller model compared to Kernel PCR with the cross-validation technique employed for the selection of principal components.

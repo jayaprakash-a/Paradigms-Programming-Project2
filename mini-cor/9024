@@ -1,0 +1,2 @@
+CONFIDENCE MEASURES FOR HYBRID HMM/ANN SPEECH RECOGNITION
+ ABSTRACT In this paper we introduce four acoustic confidence measures which are derived from the output of a hybrid HMM/ANN large vocabulary continuous speech recognition system.  These confidence measures, based on local posterior probability estimates computed by an ANN, are evaluated at both phone and word levels, using the North American Business News corpus.

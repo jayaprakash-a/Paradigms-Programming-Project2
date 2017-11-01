@@ -1,2 +1,2 @@
-The role of expression and identity in the face-selective responses of neurons in the temporal visual cortex of the monkey
-
+Texture Recognition Using a Non-parametric Multi-Scale Statistical Model
+ Abstract We describe a technique for using the joint occurrence of local features at multiple resolutions to measure the similarity between texture images.  Though superficially similar to a number of "Gabor" style techniques, which recognize textures through the extraction of multi-scale feature vectors, our approach is derived from an accurate generative model of texture, which is explicitly multiscale and non-parametric.  The resulting recognition procedure is similarly non-parametric, and can model complex non-homogeneous textures.  We report results on publicly available texture databases.  In addition, experiments indicate that this approach may have sufficient discrimination power to perform target detection in synthetic aperture radar images (SAR).

@@ -1,0 +1,2 @@
+Computing the Maximum Bichromatic Discrepancy, with applications to Computer Graphics and Machine Learning
+ Abstract Computing the maximum bichromatic discrepancy is an interesting theoretical problem with important applications in computational learning theory, computational geometry and computer graphics.  In this paper we give algorithms to compute the maximum bichromatic discrepancy for simple geometric ranges, including rectangles and halfspaces.  In addition, we give extensions to other discrepancy problems.

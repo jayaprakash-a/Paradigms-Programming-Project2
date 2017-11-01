@@ -1,0 +1,2 @@
+Inpainting from Multiple Views
+ Abstract Inpainting refers to the task of filling in missing or damaged regions of an image.  In this paper, we are interested in the inpainting problem where the missing regions are so large that local inpainting methods fail.  As an alternative to the local principle, we make use of other images with related global information to enable a reasonable inpainting.  Our method has roughly three phases: landmark matching, interpolation, and copying.  The experimental results are promising.

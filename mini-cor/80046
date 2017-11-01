@@ -1,0 +1,2 @@
+Machine Learning: Proceedings of the Nineteenth International Conference, 2002
+ Incorporating Prior Knowledge into Boosting.  Abstract We describe a modification to the AdaBoost algorithm that permits the incorporation of prior human knowledge as a means of compensating for a shortage of training data.  We give a convergence result for the algorithm, and we describe experiments on four datasets showing that prior knowledge can substantially improve performance.

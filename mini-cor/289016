@@ -1,0 +1,2 @@
+Preconditioning Dense Linear Systems from Large-Scale Semidefinite Programming Problems
+ Abstract In this paper we show semidefinite programming (SDP) could be a resource for large dense systems.  The preconditioned conjugate gradient method is used to solve fully dense linear systems during each iteration of an optimization algorithm.  An incomplete Cholesky factorization is proposed, and some numerical results are obtained.  These results generate better lower bounds for the quadratic assignment problem, an application of SDP.

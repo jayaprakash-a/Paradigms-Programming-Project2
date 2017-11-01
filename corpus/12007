@@ -1,2 +1,2 @@
-Reductions Between Classification Tasks
- Abstract.  A reduction converts a solver for one task into a solver for another task.  We introduce a notion of reduction and analyze reductions between different classification tasks.
+Automatic Object Recognition as Part of an Integrated Supervisory Control System
+ Abstract This paper consists of two main contributions.  First, a generic object recognition algorithm based on affinely invariant regions is proposed.  Next, this algorithm is used in an Integrated Supervisory Control System (ISCS), with special attention to the human machine interaction.  Experiments on an industrial robotic system are included, performing simple tasks such as ``Go to object O 1 '' or ``Put object O 2 on top of object O 3 '', where an object is simply modeled by one or more images thereof.

@@ -1,0 +1,2 @@
+A model of scan paths applied to face recognition
+ Abstract We develop a model of scan path generation based on the output of low level filters.  The highest variance of Gabor jet filters computed over orientations are used as the object of attention.  These points are held in a feature map which is inhibited as attention points are visited, creating a new attention point elsewhere.  Scan paths generated this way can be used for recognition purposes where "single-shot" methods, such as PCA, would fail because the image is not registered.

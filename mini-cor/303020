@@ -1,0 +1,2 @@
+Discriminative Model Selection for Density Models
+ Abstract Density mode s are a popu ar too for bui ding c assifiers.  When using density mode s to bui d a c assifier, one typica y earns a separate density mode for each c ass of interest.  These density mode s are then combined to make a c assifier through the use of Bayes' ru e uti izing the prior distribution over the c asses.  In this paper, we provide a discriminative method for choosing among a ternative density mode s for each c ass to improve c assification accuracy.

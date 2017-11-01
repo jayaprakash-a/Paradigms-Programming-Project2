@@ -1,0 +1,2 @@
+Segmentation from Motion: Combining Gabor- and Mallat-Wavelets to Overcome Aperture and Correspondence Problem \Lambda
+ Abstract A segmentation-from-motion algorithm is presented, which is designed to be part of a general object recognition system.  The key idea is to integrate information from Gabor- and Mallat-wavelet transform to overcome the aperture and the correspondence problem.  The assumption is made that objects move fronto-parallel.

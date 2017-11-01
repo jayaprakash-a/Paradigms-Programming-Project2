@@ -1,2 +1,2 @@
-Recovery of Egomotion and Segmentation of Independent Object Motion Using the EM Algorithm
- Abstract This paper examines the use of the EM algorithm to perform motion segmentation on image sequences that contain independent object motion.  The input data are linear constraints on 3-D translational motion and bilinear constraints on 3-D translation and rotation, derived from computed optical flow using subspace methods.  The problems of outlier detection, deciding how many processes, and the initial guesses for the EM algorithm are considered.  Results obtained from an image sequence are presented.
+High-level model acquisition from range images
+

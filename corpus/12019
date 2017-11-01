@@ -1,2 +1,2 @@
-Competitive Analysis of the Explore/Exploit Tradeoff
- Abstract We investigate the explore/exploit trade-off in reinforcement learning using competitive analysis applied to an abstract model.  We state and prove lower and upper bounds on the competitive ratio.  The essential conclusion of our analysis is that optimizing the explore/exploit trade-off is much easier with a few pieces of extra knowledge such as the stopping time or upper and lower bounds on the value of the optimal exploitation policy.
+Matching affinely invariant regions for visual servoing
+

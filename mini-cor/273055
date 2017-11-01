@@ -1,0 +1,2 @@
+C5
+1. 5 Bayesian Classification.  Abstract Bayesian classification addresses the classification problem by learning the distribution of instances given differentclassvalues.  We review the basic notion of Bayesian classification, describe in some detail the naive Bayesian classifier, and briefly discuss some extensions.

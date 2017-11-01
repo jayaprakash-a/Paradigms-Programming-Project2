@@ -1,0 +1,2 @@
+Evolving Sorting Networks using Genetic Programming and Rapidly Reconfigurable Field-Programmable Gate Arrays
+ ABSTRACT This paper describes ongoing work involving the use of the Xilinx XC6216 rapidly reconfigurable fieldprogrammable gate array to evolve sorting networks using genetic programming.  We successfully evolved a network for sorting seven items that employs two fewer steps than the sorting network described in a l962 patent and that has the same number of steps as the seven-sorter devised by Floyd and Knuth subsequent to the patent.

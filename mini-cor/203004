@@ -1,0 +1,2 @@
+To appear in Maximum Entropy and Bayesian Methods,
+ Abstract.  The maximum entropy method has recently been successfully introduced to a variety of natural language applications.  In each of these applications, however, the power of the maximum entropy method is achieved at the cost of a considerable increase in computational requirements.  In this paper we present a technique, closely related to the classical cluster expansion from statistical mechanics, for reducing the computational demands necessary to calculate conditional maximum entropy language models.

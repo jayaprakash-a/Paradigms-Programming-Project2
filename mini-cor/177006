@@ -1,0 +1,2 @@
+Blind separation of sources that have spatiotemporal variance dependencies
+ Abstract In blind source separation methods, the sources are typically assumed to be independent.  Some methods are

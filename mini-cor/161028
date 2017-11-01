@@ -1,0 +1,2 @@
+Online Policy Adaptation for Ensemble Classifiers
+ Abstract.  Ensemble algorithms can improve the performance of a given learning algorithm through the combination of multiple base classifiers into an ensemble.  In this paper, the idea of using an adaptive policy for training and combining the base classifiers is put forward.  The eectiveness of this approach for online learning is demonstrated by experimental results on several UCI benchmark databases.

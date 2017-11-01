@@ -1,0 +1,2 @@
+Chord: a scalable peer-to-peer lookup protocol for internet applications
+ the node to which the key maps.  Chord adapts efficiently as nodes join and leave the system, and can answer queries even if the system is continuously changing.  Results from theoretical analysis and simulations show that Chord is scalable: communication cost and the state maintained by each node scale logarithmically with the number of Chord nodes.

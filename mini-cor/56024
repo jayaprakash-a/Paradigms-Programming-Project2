@@ -1,0 +1,2 @@
+Accurate Unlexicalized Parsing
+ Abstract We demonstrate that an unlexicalized PCFG can parse much more accurately than previously shown, by making use of simple, linguistically motivated state splits, which break down false independence assumptions latent in a vanilla treebank grammar.  Indeed, its performance of 86. 36% (LP/LR F 1 ) is better than that of early

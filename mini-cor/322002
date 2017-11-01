@@ -1,0 +1,2 @@
+Content-Based Audio Classification and Retrieval Using SVM Learning
+ Abstract In this paper, a support vector machines (SVMs) based method is proposed for content-based audio classification and retrieval.  Given a feature set, which in this work is composed of perceptual and cepstral feature, optimal class boundaries between classes are learned from training data by using SVMs.  Matches are ranked by using distances from boundaries.  Experiments are presented to compare various classification methods and feature sets.

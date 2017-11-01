@@ -1,0 +1,2 @@
+Combining Heterogeneous Classifiers for Word-Sense Disambiguation
+ Abstract This paper discusses ensembles of simple but heterogeneous classifiers for word-sense disambiguation, examining the Stanford-CS224N system entered in the SENSEVAL-2 English lexical sample task.  First-order classifiers are combined by a

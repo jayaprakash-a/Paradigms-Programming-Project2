@@ -1,0 +1,2 @@
+IBM's 10x Real-time Broadcast News Transcription System Used in the 1999 Hub4 Evaluation
+ ABSTRACT We describe the system used by IBM in the 1999 HUB4 Evaluation under the 10 times real-time constraint.  We detail the system architecture and show that the performance of this system is over 20 percent more accurate at the same speed than the system used in the 1998 Evaluation.  Furthermore, we have closed the gap between our unlimited resource system and our 10 times real time system from 45 percent to 14 percent.

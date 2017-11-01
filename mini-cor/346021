@@ -1,0 +1,2 @@
+Recognizing Algebraic Surfaces from their Outlines
+ Abstract.  The outline in a single picture of a generic algebraic surface of degree three or greater completely determines the projective geometry of the surface.  The result holds for a generic perspective view of ageneric algebraic surface, where the camera calibration parameters and the focal point are unknown.  Known camera calibration appears not to reduce the projectiveambiguity. The result is constructive.

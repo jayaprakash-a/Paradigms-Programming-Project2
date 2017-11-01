@@ -1,0 +1,2 @@
+Linear Manifold Regularization for Large Scale Semi-supervised Learning
+ Abstract The enormous wealth of unlabeled data in many applications of machine learning is beginning to pose challenges to the designers of semi-supervised learning methods.  We are interested in developing linear classification algorithms to efficiently learn from massive partially labeled datasets.  In this paper,

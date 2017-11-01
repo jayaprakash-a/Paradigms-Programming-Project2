@@ -1,0 +1,2 @@
+White Point Estimation for Uncalibrated Images
+ Abstract Color images often must be color balanced to remove unwanted color casts.  We extend previous work on using a neural network for illumination, or white-point, estimation from the case of calibrated images to that of uncalibrated images of unknown origin.  The results show that the chromaticity of the ambient illumination can be estimated with an average CIE Lab error of 5DE.  Comparisons are made to the grayworld and white patch methods.

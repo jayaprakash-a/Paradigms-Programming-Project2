@@ -1,0 +1,2 @@
+Localized Boosting
+ Abstract We introduce and analyze LocBoost, a new boosting algorithm, which leads to the incremental construction of a mixture of experts type architecture.  We provide upper bounds on the expected loss of such models in terms of the smoothness properties of the gating functions appearing in the mixture of experts model.  Furthermore, an incremental algorithm is proposed for the construction of the classifier, based on a maximum-likelihood approach and the EM algorithm.  Preliminary numerical results appear to be promising.

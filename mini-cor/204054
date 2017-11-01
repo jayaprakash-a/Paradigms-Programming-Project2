@@ -1,0 +1,2 @@
+Automatic Optimization of Dialogue Management
+ Abstract Designing the dialogue strategy of a spoken dialogue system involves many nontrivial choices.  This paper presents a reinforcement learning approach for automatically optimizing dialogue strategy.  We first present a practical methodology that addresses the technical challenges in applying reinforcement learning to a working dialogue system with human users.  We then demonstrate how we have used this methodology to measurably improve performance in a large-scale experimental system.

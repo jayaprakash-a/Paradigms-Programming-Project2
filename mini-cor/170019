@@ -1,0 +1,2 @@
+On the Use of Neural Networks to Guide Software Testing Activities
+ Abstract As test case automation increases, the volume of tests can become a problem.  Further, it may not be immediately obvious whether the test generation tool generates effective test cases.  Indeed, it might be useful to have a mechanism that is able to learn, based on past history, which test cases are likely to yield more failures versus those that are not likely to uncover any.  We present experimental results on using a neural network for pruning a testcase set while preserving its effectiveness.

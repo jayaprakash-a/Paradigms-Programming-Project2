@@ -1,0 +1,2 @@
+How Useful Is Relevance?
+ Abstract Eliminating irrelevant attributes prior to induction boosts the performance of many learning algorithms.  Relevance, however, is no guarantee of usefulness to a particular learner.  We test two methods of finding relevant attributes, FOCUS and RELIEF, to see how the attributes they select perform with ID3/C4. 5 on two learning problems from a calendar scheduling domain.  A more direct attribute selection procedure, hillclimbing in attribute space, finds superior attribute sets.

@@ -1,0 +1,2 @@
+Data assimilation with an extended Kalman filter for impact-produced shock-wave dynamics
+ Abstract Model assimilation of data strives to determine optimally the state of an evolving physical system from a limited number of observations.  The present study represents the first attempt of applying the extended Kalman filter (EKF) method of data assimilation to shock-wave dynamics induced by a high-speed impact.  EKF solves the full nonlinear state evolution and estimates its associated error-covariance matrix in time.  The state variables obtained by the

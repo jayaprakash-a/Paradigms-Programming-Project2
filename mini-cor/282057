@@ -1,0 +1,2 @@
+Adaptive Mixtures of Probabilistic Transducers
+ Abstract We describe and analyze a mixture model for supervised learning of probabilistic transducers.  We devise an on-line learning algorithm that efficiently infers the structure and estimates the parameters of each probabilistic transducer in the mixture.  Theoretical analysis and comparative simulations indicate that the learning algorithm tracks the best transducer from an arbitrarily large (possibly infinite) pool of models.  We also present an application of the model for inducing a noun phrase recognizer.

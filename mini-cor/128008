@@ -1,0 +1,2 @@
+EM Algorithms for Self-Organizing Maps
+ Abstract Self-organizing maps are popular algorithms for unsupervised learning and data visualization.  Exploiting the link between vector quantization and mixture modeling, we derive EM algorithms for selforganizing maps with and without missing values.  We compare self-organizing maps with the elastic-net approach and explain why the former is better suited for the visualization of high-dimensional data.  Several extensions and improvements are discussed.

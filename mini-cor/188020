@@ -1,0 +1,2 @@
+Local Model Networks and Local Learning
+ Abstract: The Local Model Networks (networks composed of locally accurate models, where the output is interpolated by smooth locally active basis functions) described in this paper provide a solid basis for practical modelling tasks.

@@ -1,0 +1,2 @@
+Client Dependent GMM-SVM Models for Speaker Verification
+ Support Vector Machines to postprocess scores obtained by the GMMs.  A cross-validation method is also used in the baseline system to increase the number of client scores in the training phase, which enhances the results of the SVM models.  Experiments carried out on the XM2VTS and PolyVar databases confirm the interest of this hybrid approach.

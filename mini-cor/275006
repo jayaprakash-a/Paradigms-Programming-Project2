@@ -1,0 +1,2 @@
+Deterministic Calibration and Nash Equilibrium
+ Abstract.  We provide a natural learning process in which the joint frequency of empirical play converges into the set of convex combinations of Nash equilibria.  In this process, all players rationally choose their actions using a public prediction made by a deterministic, weakly calibrated algorithm.  Furthermore, the public predictions used in any given round of play are frequently close to some Nash equilibrium of the game.

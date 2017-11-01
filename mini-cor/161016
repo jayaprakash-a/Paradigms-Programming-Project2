@@ -1,0 +1,2 @@
+Estimation of Conditional Distributions using Gaussian Mixture Models
+ March 2002 submitted for publication Abstract.  This paper proposes the use of Gaussian Mixture Models to estimate conditional probability density functions.  A conditional Gaussian Mixture Model has been compared to the geostatistical method of Sequential Gaussian Simulations.  The data set used is a part of the digital elevation model of Switzerland.

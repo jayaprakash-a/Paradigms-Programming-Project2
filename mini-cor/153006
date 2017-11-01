@@ -1,0 +1,2 @@
+Dynamic feature linking in stochastic networks with short range interactions
+ Abstract.  It is well established that cortical neurons display synchronous firing for some stimuli and not for others.  The resulting synchronous subpopulation of neurons is thought to form the basis of object perception.  In this paper this 'dynamic linking' phenomenon is demonstrated in networks of binary neurons with stochastic dynamics.  Feed-forward connections implement feature detectors and lateral connections implement memory traces or cell assemblies.

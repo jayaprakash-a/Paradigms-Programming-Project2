@@ -1,0 +1,2 @@
+Real-Time Feature Tracking and Outlier Rejection with Changes in Illumination
+ Abstract We develop an efficient algorithm to track point features supported by image patches undergoing affine deformations and changes in illumination.  The algorithm is based on a combined model of geometry and photometry that is used to track features as well as to detect outliers in a hypothesis testing framework.  The algorithm runs in real time on a personal computer, and is available to the public.

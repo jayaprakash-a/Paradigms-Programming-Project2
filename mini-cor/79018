@@ -1,0 +1,2 @@
+Natural Regularization in SVMs
+ Abstract We provide a regularization-theoretic analysis of a class of SV kernels {called natural kernels{ based on generative models with density p(xj#), such as the Fisher kernel proposed in [5].  In particular, we show that the latter corresponds to a regularization operator (prior) penalizing the L 2 (p)-norm of the estimated function.  Moreover, we compute the corresponding eigendecompositions and show that they isotropically map the input space into feature space.

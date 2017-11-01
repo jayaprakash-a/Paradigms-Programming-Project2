@@ -1,0 +1,2 @@
+Adaptive Noise Injection for Input Variables Relevance Determination
+ Abstract.  In this paper we consider the application of training with noise in multi-layer perceptron to input variables relevance determination.  Noise injection is modified in order to penalize irrelevant features.  The proposed algorithm is attractive as it requires the tuning of a single parameter.  This parameter controls the penalization of the inputs together with the complexity of the model.  After the presentation of the method, experimental evidences are given on simulated data sets.

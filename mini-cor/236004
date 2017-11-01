@@ -1,0 +1,2 @@
+Multiple-antenna signal constellations for fading channels
+ Abstract In this paper we show that the problem of designing ecientmultiple-antenna signal constellations for fading channels can be related to the problem of finding packings with large minimum distance in the complex Grassmannian space.  We describe a numerical optimization procedure for finding good packings in the complex Grassmannian space and report the best signal constellations found by this procedure.  These constellations improve significantly upon previously known results.

@@ -1,2 +1,2 @@
-"Fast multiple antenna differential decoding," tech
- rep. ,.
+Automatic summarization of voicemail messages using lexical and prosodic features
+ Abstract This paper presents trainable methods for extracting principal content words from voicemail messages.  The short text summaries generated are suitable for mobile messaging applications.  The system uses a set of classifiers to identify the summary words, with each word being identified by a vector of lexical and prosodic features.  We use an ROC-based algorithm, Parcel, to select input features (and classifiers).  We have performed a series of objective and subjective evaluations using unseen data from two different speech recognition systems, as well as human transcriptions of voicemail speech.

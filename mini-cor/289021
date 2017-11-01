@@ -1,0 +1,2 @@
+Analysis of Nonstationary Time Series Using Support Vector Machines
+ Abstract.  Time series from alternating dynamics have many important applications.  In [5], the authors propose an approach to solve the drifting dynamics.  Their method directly solves a non-convex optimization problem.  In this paper, we propose a strategy which solves a sequence of convex optimization problems by using modified support vector regression.  Experimental results showing its practical viability are presented and we also discuss the advantages and disadvantages of the proposed approach.

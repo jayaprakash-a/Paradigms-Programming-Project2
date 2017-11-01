@@ -1,2 +1,2 @@
-Piecewise linear regularized solution paths
-
+A Continuous-Time Analog Circuit for Computing Time Delays Between Signals
+ Abstract--We describe an analog VLSI circuit that computes the time delay between an arbitrary input signal and its delayed version.  Versions of this circuit will be used as the basic computational elements for human auditory localization models in both the horizontal and vertical directions.  Since the circuit uses subthreshold CMOS circuitry, chip measurements show that delays ranging over five orders of magnitude can be recovered.  The circuit delays the first input signal by two distinct time-constants and correlates each with the second input signal.  The correlation values at the two points are then integrated and used to compute a finite-difference derivative that dynamically adjusts the time constants until an optimal delay is found.  This paper describes the first continuous-time circuit for computing delays between arbitrary signals.

@@ -1,0 +1,2 @@
+Information Extraction with HMMs and Shrinkage
+ Abstract Hidden Markov models (HMMs) are a powerful probabilistic tool for modeling time series data, and have been applied with success to many language-related tasks such as part of speech tagging, speech recognition, text segmentation and topic detection.  This paper describes the application of HMMs to another language related task

@@ -1,2 +1,2 @@
-EEG-based Brain Computer Interface (BCI),
-
+A unifying computational framework for motor control and social interaction
+ Recent empirical studies have implicated the use of the motor system during action observation, imitation and social interaction.  In this paper, we explore the computational parallels between the processes that occur in motor control and in action observation, imitation, social interaction and theory of mind.  In particular, we examine the extent to which motor commands acting on the body can be equated with communicative signals acting on other people and suggest that computational solutions for motor control may have been extended to the domain of social interaction.

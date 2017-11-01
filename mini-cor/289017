@@ -1,0 +1,2 @@
+LIBSVM: a Library for Support Vector Machines
+ Abstract LIBSVM is a library for support vector machines (SVM).  Its goal is to help users to easily use SVM as a tool.  In this document, we present all its implementation details.  For the use of LIBSVM, the README file included in the package and the LIBSVM FAQ provide the information.

@@ -1,0 +1,2 @@
+Automatic Model Construction, Pose Estimation, and Object Recognition from Photographs Using Triangular Splines
+ Abstract: This paper proposes a method for automatically constructing triangular G 1 spline models of complex three-dimensional objects from a few registered photographs.  These models are used for pose estimation from monocular silhouette data and they form the basis for a simple recognition strategy.  The proposed approach is demonstrated by several experiments.

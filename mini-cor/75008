@@ -1,0 +1,2 @@
+Distributed Source Coding Using Serially-Concatenated-Accumulate Codes
+ Abstract We describe a practical method for distributed compression of q-ary sources using multi-level serially-concatenated-accumulate codes.  Our approach works well at high compression rates, and allows for graceful and incremental rate-adaptivity.  Simulations show that the compression efficiency is near the information-theoretic limits for correlations between sources that obey a Gaussian or Laplacian distribution.

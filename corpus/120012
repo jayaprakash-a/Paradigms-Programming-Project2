@@ -1,0 +1,2 @@
+Provably Secure Steganography
+ Abstract Informally, steganography is the process of sending a secret message from Alice to Bob in such a way that an eavesdropper (who listens to all communications) cannot even tell that a secret message is being sent.  In this work, we initiate the study of steganography from a complexity-theoretic point of view.  We introduce definitions based on computational indistinguishability and we prove that the existence of one-way functions implies the existence of secure steganographic protocols.

@@ -1,0 +1,2 @@
+Efficient Non-Parametric Function Induction in Semi-Supervised Learning
+ Abstract There has been an increase of interest for semi-supervised learning recently, because of the many datasets with large amounts of unlabeled examples and only a few labeled ones.  This paper follows up on proposed non-parametric algorithms which provide an estimated continuous label for the given unlabeled examples.  It extends them to function induction algorithms that correspond to the minimization

@@ -1,0 +1,2 @@
+What's needed for lexical databases? Experiences with Kirrkirr
+ Abstract This paper discusses what is required from dictionary databases, and one approach, based on experience with Kirrkirr, a dictionary browser originally developed for Warlpiri, an Indigenous Australian language.  The paper suggests that there is something of a disconnect between the data access needs of lexical databases and most work on semi-structured databases within the database community.

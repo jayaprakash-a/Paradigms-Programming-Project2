@@ -1,0 +1,2 @@
+Toward Evolution of Electronic Animals Using Genetic Programming
+ Abstract This paper describes an automated process for designing an optimal food-foraging controller for a lizard.  The controller consists of an analog electrical circuit that is evolved using the principles of natural selection, sexual recombination, and developmental biology.  Genetic programming creates both the topology of the controller circuit and the numerical values for each electrical component.

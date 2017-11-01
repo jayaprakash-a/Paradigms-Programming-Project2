@@ -1,0 +1,2 @@
+INTEGRATED TRANSCRIPTION AND IDENTIFICATION OF NAMED ENTITIES IN BROADCAST SPEECH
+ ABSTRACT This paper presents an approach to integrating functions for both transcription and named entity (NE) identification into a large vocabulary continuous speech recognition system.  It builds on NE tagged language modelling approach, which was recently applied for development of the statistical NE annotation system.  We also present results for proper name identification experiment using the Hub-4 evaluation data.

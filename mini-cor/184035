@@ -1,0 +1,2 @@
+Evolution of a Tri-State Frequency Discriminator for the Source Identification Problem using Genetic Programming
+ KEYWORDS Genetic programming, Automated design of analog electrical circuits, Source identification problem, Frequency discrimination ABSTRACT Automated synthesis of analog electronic circuits is recognized as a difficult problem.  Genetic programming was used to evolve both the topology and the sizing (numerical values) for each component of a circuit that can perform source identification by correctly classify an incoming signal into categories.

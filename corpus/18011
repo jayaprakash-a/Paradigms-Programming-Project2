@@ -1,2 +1,2 @@
-Classification on Proximity Data with LP--Machines
- Abstract We provide a new linear program to deal with classification of data in the case of data given in terms of pairwise proximities.  This allows to avoid the problems inherent in using feature spaces with indefinite metric in Support Vector Machines, since the notion of a margin is purely needed in input space where the classification actually occurs.  Moreover in our approach we can enforce sparsity in the proximity representation by sacrificing training error.  This turns out to be favorable for proximity data.  Similar to --SV methods, the only parameter needed in the algorithm is the (asymptotical) number of data points being classified with a margin.  Finally, the algorithm is successfully compared with --SV learning in proximity space and K--nearest-neighbors on real world data from Neuroscience and molecular biology.
+Computation of real quadratic fields with class number one,
+

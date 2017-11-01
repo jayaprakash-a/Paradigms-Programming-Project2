@@ -1,0 +1,2 @@
+Investigation on using Kernels with Q-learning for gait adaptation on visually guided walking robots
+ Abstract.  In this work we apply a reinforcement learning algorithm (Q-learning) to a simulated walking robot to "teach" it to step over hurdle-type obstacles.  Two ways to achieve this are described in detail.  The first method uses a gait model-based approach; the second explores the state-action space thoroughly by using a non-zero probability of a random transition.  Finally we use a kernel (radial basis) function to speed up the learning process.

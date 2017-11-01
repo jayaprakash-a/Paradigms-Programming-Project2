@@ -1,0 +1,2 @@
+Calculate databases with `simplicity'
+ Abstract # Effort to replace " ` a la Codd" database schema design (normalization etc) by calculation based on simple (dually, injective) binary relations.  # Simple relations relevant because database entities can be modelled as finite such relations.

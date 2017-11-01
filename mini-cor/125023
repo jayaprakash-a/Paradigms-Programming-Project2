@@ -1,0 +1,2 @@
+Exploring Evidence for Shallow Parsing
+ Abstract Significant amount of work has been devoted recently to develop learning techniques that can be used to generate partial (shallow) analysis of natural language sentences rather than a full parse.  In this work we set out to evaluate whether this direction is worthwhile by comparing a learned shallow parser to one of the best learned full parsers on tasks both can perform 

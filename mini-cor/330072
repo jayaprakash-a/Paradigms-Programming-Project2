@@ -1,0 +1,2 @@
+Nonlinear Component Analysis as a Kernel Eigenvalue Problem
+ A new method for performing a nonlinear form of principal component analysis is proposed.  By the use of integral operator kernel functions, one can efficiently compute principal components in high-dimensional feature spaces, related to input space by some nonlinear map---for instance, the space of all possible five-pixel products in 1616 images.  We give the derivation of the method and present experimental results on polynomial feature extraction for pattern recognition.

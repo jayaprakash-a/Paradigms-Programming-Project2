@@ -1,0 +1,2 @@
+Online Learning with Kernels
+ Abstract We consider online learning in a Reproducing Kernel Hilbert Space.  Our method is computationally efficient and leads to simple algorithms.  In particular we derive update equations for classification, regression, and novelty detection.  The inclusion of the #-trick allows us to give a robust parameterization.  Moreover, unlike in batch learning where the #-trick only applies to the "-insensitive loss function we are able to derive general trimmed-mean types of estimators such as for Huber's robust loss.

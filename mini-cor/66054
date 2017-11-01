@@ -1,0 +1,2 @@
+Extraction of Protein Domains and Signatures through Unsupervised Statistical Sequence Segmentation
+ Abstract We present a novel information theoretic method for protein domain and statistical signature extraction.  We apply a new algorithm [20] for unsupervised segmentation of sequences into alternating Variable Memory Markov sources, to families of protein sequences.  The algorithm is based on competitive learning between Markov models, implemented as Prediction Suffix Trees [18], which we have shown in earlier works to model well protein families [6, 7].

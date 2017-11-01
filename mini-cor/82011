@@ -1,0 +1,2 @@
+Selection of Examples for a Linear Classifier
+ Abstract.  We investigate the problem of selecting an informative subsample out of a neural network's training data.  Using the replica method of statistical mechanics, we calculate the performance of a heuristic selection algorithm for a linear neural network which avoids overfitting.

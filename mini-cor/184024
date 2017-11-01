@@ -1,0 +1,2 @@
+Evolution of a Time-Optimal Fly-To Controller Circuit using Genetic Programming
+ ABSTRACT Most problem-solving techniques used by engineers involve the introduction of analytical and mathematical representations and techniques that are entirely foreign to the problem at hand.  Genetic programming offers the possibility of solving problems in a more direct way using the given ingredients of the problem.  This idea is explored by considering the problem of designing an electrical controller to implement a solution to the time-optimal fly-to control problem.

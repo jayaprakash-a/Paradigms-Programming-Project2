@@ -1,0 +1,2 @@
+CAPTCHA: Using Hard AI Problems for Security
+ Abstract.  We introduce captcha, an automated test that humans can pass, but current computer programs can't pass: any program that has high success over a captcha can be used to solve a hard, unsolved Artificial Intelligence (AI) problem.

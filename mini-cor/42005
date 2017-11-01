@@ -1,0 +1,2 @@
+Multi-Agent Influence Diagrams for Representing and Solving Games
+ Abstract The traditional representations of games using the extensive form or the strategic (normal) form obscure much of the structure that is present in real-world games.  In this paper, we propose a new representation language for general multiplayer games --- multi-agent influence diagrams (MAIDs).

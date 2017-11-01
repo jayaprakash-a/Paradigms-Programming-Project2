@@ -1,0 +1,2 @@
+Bayesian Learning in Feed Forward Neural Networks
+ Abstract Bayesian methods are applicable to complex modeling tasks.  In this review, the principles of Bayesian inference are presented and applied to neural network models.  Several approximate implementations are discussed, and their advantages over conventional frequentist model training and selection are outlined.  It is argued that Bayesian methods are preferable to traditional approaches, although empirical evidence for this is still sparse.

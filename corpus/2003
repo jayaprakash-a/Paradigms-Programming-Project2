@@ -1,2 +1,2 @@
-Modeling Systematic Variations in Pronunciation via a Language-Dependent Hidden Speaking Mode
- ABSTRACT This paper describes the research efforts of the "Hidden Speaking Mode" group participating in the 1996 summer workshop on speech recognition.  The goal of this project is to model pronunciation variations that occur in conversational speech in general and, more specifically, to investigate the use of a hidden speaking mode to represent systematic variations that are correlated with the word sequence (e. g.  predictable from syntactic structure).  This paper describes the theoretical formulation of hidden mode modeling, as well as some results in error analysis, language modeling and pronunciation modeling.
+Rules and exemplars in category learning
+

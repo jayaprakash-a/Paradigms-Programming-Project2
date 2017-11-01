@@ -1,0 +1,2 @@
+Switching Kalman Filters
+ Abstract We show how many different variants of Switching Kalman Filter models can be represented in a unified way, leading to a single, general-purpose inference algorithm.  We then show how to find approximate Maximum Likelihood Estimates of the parameters using the EM algorithm, extending previous results on learning using EM in the non-switching case [DRO93, GH96a] and in the switching, but fully observed, case [Ham90].

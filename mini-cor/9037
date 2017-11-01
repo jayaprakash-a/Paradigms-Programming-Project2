@@ -1,0 +1,2 @@
+BAYESIAN REGULARISATION METHODS IN A HYBRID MLP--HMM SYSTEM
+ ABSTRACT We have applied Bayesian regularisation methods to multi-layer perceptron (MLP) training in the context of a hybrid MLP-HMM (hidden Markov model) continuous speech recognition system.  The Bayesian framework adopted here allows an objective setting of the regularisation parameters, according to the training data.  Experiments were carried out on the ARPA Resource Management database.

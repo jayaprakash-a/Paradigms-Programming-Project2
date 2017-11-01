@@ -1,0 +1,2 @@
+Efficient clustering of high-dimensional data sets with application to reference matching
+ ABSTRACT Many important problems involve clustering large datasets.  Although naive implementations of clustering are computationally expensive, there are established ecient techniques for clustering when the dataset has either (1) a limited number of clusters, (2) a low feature dimensionality, or (3) a small number of data points.  However, there has been much less work on methods of eciently clustering datasets that are large in all three ways at once

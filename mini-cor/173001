@@ -1,0 +1,2 @@
+Exponential Decomposition Using Displacement Structure
+ ABSTRACT In this paper, we present a novel approach to the problem of exponential decomposition.  This method can compute the knots in O(n 2 ) floating-point operations and O(n) storage, where n is the length of the signal sequence.

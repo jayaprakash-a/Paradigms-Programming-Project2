@@ -1,2 +1,2 @@
-People Recognition and Pose Estimation in Image Sequences
-
+Tree-Based Batch Mode Reinforcement Learning
+ Abstract Reinforcement learning aims to determine an optimal control policy from interaction with a system or from observations gathered from a system.  In batch mode, it can be achieved by approximating the so-called Q-function based on a set of four-tuples (x

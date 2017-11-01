@@ -1,0 +1,2 @@
+A Protection Scheme for a CORBA Environment
+ A prototype has been implemented on top of the Orbix system.  Preliminary experiments with simple distributed applications have shown the feasibility and the advantage of this method.

@@ -1,0 +1,2 @@
+Bounds for Averaging Classifiers
+ Abstract We present a generalized PAC bound for averaging classifiers which applies to base hypotheses with a bounded real valued output.  In addition, we discuss several methods for quantitatively tightening the bound.  In the process, a tightened version of the PAC-Bayes bound [5] is proved.

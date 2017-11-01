@@ -1,0 +1,2 @@
+Stochastic Resonance and Multi-modal Firing Patterns in Single-neuron Models
+ Abstract In analyzing data from experiments on periodically stimulated neurons, the interspike interval histogram shows a multi-modal distribution and under certain conditions, stochastic resonance.  We discuss a simple integrate and fire model of a single neuron which is capable of describing these two features.  As input for the neuron we use a periodic signal combined with poisson noise, this gives results that resemble data from experiments.

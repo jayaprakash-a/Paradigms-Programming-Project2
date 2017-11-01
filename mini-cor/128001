@@ -1,0 +1,2 @@
+Lab-Test Selection in Diagnosis of Anaemia
+ Abstract.  Two problems are discussed.  The first one is how to deal with incomplete data, and what to do if the data is insufficient to make a reliable diagnosis.  The second problem is how to combine training data and expert knowledge if either of them is insufficient for good modelling.  We show that both problems can be dealt with when probabilistic models are used.  The proposed methods are applied in an advisory sytem for anaemia.

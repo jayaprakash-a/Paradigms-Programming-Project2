@@ -1,0 +1,2 @@
+Bayesian Real-time Adaptation for Interactive Performance Systems
+ Abstract We introduce Bayesian online learning for real time parameter adaptation on a tempo tracking task.  We employ a variational extension of the Expectation-Maximization algorithm for online parameter estimation.  Simulation results on a real dataset indicate that online adaptation has the potential of capturing performer specific features in real time.

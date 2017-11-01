@@ -1,0 +1,2 @@
+Optimizing Local Probability Models for Statistical Parsing
+ Abstract.  This paper studies the properties and performance of models for estimating local probability distributions which are used as components of larger probabilistic systems --- history-based generative parsing models.  We report experimental results showing that memory-based learning outperforms many commonly used methods for this task (

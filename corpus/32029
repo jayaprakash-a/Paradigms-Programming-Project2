@@ -1,2 +1,2 @@
-In Proceedings of the 1st Meeting of the North American Chapter of the ACL
- Abstract This paper describes a method for estimating conditional probability distributions over the parses of iunication-basedj grammars which can utilize auxiliary distributions that are estimated by other means.  We show how this can be used to incorporate information about lexical selectional preferences gathered from other sources into Stochastic iUnicationbasedj Grammars (SUBGs).  While we apply this estimator to a Stochastic Lexical-Functional Grammar, the method is general, and should be applicable to stochastic versions of HPSGs, categorial grammars and transformational grammars.
+Attention Driven Memory
+ Abstract Categorization is a skill which is extensively used in everyday life and therefore an important aspect of

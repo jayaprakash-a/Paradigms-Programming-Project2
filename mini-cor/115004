@@ -1,0 +1,2 @@
+A SPECIAL SKELETONIZATION ALGORITHM FOR CURSIVE WORDS
+ We present a novel approach for finding a pseudo-skeleton of a cursive word's image.  This pseudo-skeleton preserves all the necessary components of a cursive word such as: loops, curves, junctions, end-points etc.  It is expected to be useful for cursive word recognition.

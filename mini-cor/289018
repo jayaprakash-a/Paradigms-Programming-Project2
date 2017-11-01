@@ -1,0 +1,2 @@
+Probability Estimates for Multi-Class Classification by Pairwise Coupling
+ Abstract Pairwise coupling is a popular multi-class classification method that combines together all pairwise comparisons for each pair of classes.  This paper presents two approaches for obtaining class probabilities.  Both methods can be reduced to linear systems and are easy to implement.  We show conceptually and experimentally that the proposed approaches are more stable than two existing popular methods: voting and [3].

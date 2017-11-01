@@ -1,2 +1,2 @@
-Unpublished technical report Feudal Q-Learning
- Abstract One popular way of exorcising the d#mon of dimensionality in dynamic programming is to consider spatial and temporal hierarchies for representing the value functions and policies.  This paper develops a hierarchical method for Qlearning which is based on the familiar notion of a recursive feudal serfdom, with managers setting tasks and giving rewards and punishments to their juniors and in their turn receiving tasks and rewards and punishments from their superiors.  We showhow one such system performs in a navigation task, based on a manual division of state-space at successively coarser resolutions.  Links with other hierarchical systems are discussed.
+Access control and key management for mobile agents
+

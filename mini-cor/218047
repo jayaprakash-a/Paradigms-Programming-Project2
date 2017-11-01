@@ -1,0 +1,2 @@
+Probabilistic kernel regression models
+ Abstract We introduce a class of flexible conditional probability models and techniques for classification/regression problems.  Many existing methods such as generalized linear models and support vector machines are subsumed under this class.  The flexibility of this class of techniques comes from the use of kernel functions as in support vector machines, and the generality from dual formulations of standard regression models.

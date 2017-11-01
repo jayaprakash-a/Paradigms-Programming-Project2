@@ -1,0 +1,2 @@
+Bagging Regularizes
+ Abstract Intuitively, we expect that averaging --- or bagging --- different regressors with low correlation should smooth their behavior and be somewhat similar to regularization.  In this note we make this intuition precise.  Using an almost classical definition of stability, we prove that a certain form of averaging provides generalization bounds with a rate of convergence of the same order as Tikhonov regularization --- similar to fashionable RKHSbased learningalgorithms.

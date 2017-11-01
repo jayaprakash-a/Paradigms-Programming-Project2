@@ -1,0 +1,2 @@
+TRANSCRIPTION OF BROADCAST NEWS SHOWS WITH THE IBM LARGE VOCABULARY SPEECH RECOGNITION SYSTEM
+ ABSTRACT This paper gives an overview of the IBM Large Vocabulary Continuous Speech Recognition system used in the 1996 Hub4 evaluation.  It describes the acoustic and language models and adaptation techniques in the partitioned and unpartitioned evaluations.  Evaluation results, analysis and further experiments are reported.

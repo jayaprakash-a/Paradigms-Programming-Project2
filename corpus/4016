@@ -1,2 +1,2 @@
-Properties of Support Vector Machines
-
+On the Complexity of Solving Markov Decision Problems
+ Abstract Markov decision problems (MDPs) provide the foundations for a number of problems of interest to AI researchers studying automated planning and reinforcement learning.  In this paper, we summarize results regarding the complexity of solving MDPs and the running time of MDP solution algorithms.  We argue that, although MDPs can be solved efficiently in theory, more study is needed to reveal practical algorithms for solving large problems quickly.  To encourage future research, we sketch some alternative methods of analysis that rely on the structure of MDPs.

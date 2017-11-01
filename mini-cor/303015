@@ -1,0 +1,2 @@
+Perfect Markov Trees
+ Summary We show that if a strictly positive joint probability distribution for a set of binary random variables factors according to a tree, then vertex separation represents all and only the independence relations encoded in the distribution.  The same result is shown to hold also for multivariate strictly positive normal distributions.  Our proof uses a new conditional independence property that holds for these two classes of probability distributions.
