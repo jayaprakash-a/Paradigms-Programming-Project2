@@ -1,0 +1,2 @@
+Kernel PCA Feature Extraction of Event-Related Potentials for Human Signal Detection Performance
+ Abstract In this paper, we propose the application of the Kernel PCA technique for feature selection in high-dimensional feature space where input variables are mapped by a Gaussian kernel.  The extracted features are employed in the regression problem of estimating human signal detection performance from brain event-related potentials elicited by task relevant signals.  We report the superiority of Kernel PCA for feature extraction over linear PCA.

@@ -1,0 +1,2 @@
+A unifying framework for invariant pattern recognition
+ Abstract We introduce a group-theoretic model of invariant pattern recognition, the Group Representation Network.  We show that many standard invariance techniques can be viewed as GRNs, including the DFT power spectrum, higher order neural network and fast translation-invariant transform.

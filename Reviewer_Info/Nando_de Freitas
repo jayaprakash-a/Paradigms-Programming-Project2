@@ -1,0 +1,111 @@
+Nonparametric Bayesian Logic.
+Adaptive MCMC with Bayesian Optimization.
+"Name That Song!" A Probabilistic Approach to Querying on Music and Text.
+Sequential Monte Carlo for model selection and estimation of neural networks.
+Reversible Jump MCMC Simulated Annealing for Neural Networks.
+New inference strategies for solving Markov Decision Processes using reversible jump MCMC.
+Intracluster Moves for Constrained Discrete-Space MCMC.
+Reversible Jump MCMC Simulated Annealing for Neural Networks
+Proceedings of the Twenty-Eighth Conference on Uncertainty in Artificial Intelligence, Catalina Island, CA, USA, August 14-18, 2012
+Extraction of Salient Sentences from Labelled Documents.
+Target-directed attention: Sequential decision-making for gaze planning.
+A Machine Learning Perspective on Predictive Coding with PAQ8.
+Learning where to Attend with Deep Architectures for Image Tracking
+Prediction and Fault Detection of Environmental Signals with Uncharacterised Faults.
+Preference galleries for material design.
+Nonparametric Bayesian Logic
+Intracluster Moves for Constrained Discrete-Space MCMC
+Learning attentional policies for tracking and recognition in video with deep networks.
+Conditional mean field.
+Adaptive Hamiltonian and Riemann Manifold Monte Carlo.
+Deep Multi-Instance Transfer Learning.
+From Fields to Trees.
+Linear and Parallel Learning of Markov Random Fields.
+Bayesian Optimization in a Billion Dimensions via Random Embeddings
+The Unscented Particle Filter.
+Learning to Learn and Compositionality with Deep Recurrent Neural Networks: Learning to Learn and Compositionality.
+Hedging Strategies for Bayesian Optimization
+On correlation and budget constraints in model-based bandit optimization with application to automatic machine learning.
+Consistency of Online Random Forests.
+Deep Fried Convnets.
+Asymptotic Efficiency of Deterministic Estimators for Discrete Energy-Based Models: Ratio Matching and Pseudolikelihood.
+Bayesian Optimization in High Dimensions via Random Embeddings.
+Robust Full Bayesian Learning for Radial Basis Networks.
+Toward Practical N2 Monte Carlo: the Marginal Particle Filter.
+Learning to learn by gradient descent by gradient descent.
+A Deep Architecture for Semantic Parsing.
+A Bayesian Interactive Optimization Approach to Procedural Animation Design.
+Theoretical Analysis of Bayesian Optimisation with Unknown Gaussian Process Hyper-Parameters.
+A Constrained Semi-supervised Learning Approach to Data Association.
+Beat Tracking the Graphical Model Way.
+Bayesian Policy Learning with Trans-Dimensional MCMC.
+Bayesian Multi-Scale Optimistic Optimization.
+Decentralized, Adaptive, Look-Ahead Particle Filtering
+An interior-point stochastic approximation method and an L1-regularized delta rule.
+Best arm identification via Bayesian gap-based exploration
+Learning to Recognize Objects with Little Supervision.
+Rao-Blackwellised Particle Filtering via Data Augmentation.
+Bayesian Feature Weighting for Unsupervised Learning, with Application to Object Recognition.
+Learning about individuals from group statistics
+A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning
+On Autoencoders and Score Matching for Energy Based Models.
+Fast particle smoothing: if I had a million particles.
+Exponential Regret Bounds for Gaussian Process Bandits with Deterministic Observations.
+From Group to Individual Labels Using Deep Features.
+Inductive Principles for Restricted Boltzmann Machine Learning.
+Active Preference Learning with Discrete Choice Data.
+A Machine Learning Perspective on Predictive Coding with PAQ
+Learning about Individuals from Group Statistics.
+A tutorial on stochastic approximation algorithms for training Restricted Boltzmann Machines and Deep Belief Nets.
+Bayesian Optimization in a Billion Dimensions via Random Embeddings.
+ACDC: A Structured Efficient Linear Layer.
+Variational MCMC.
+Modelling, Visualising and Summarising Documents with a Single Convolutional Neural Network.
+Fast Krylov Methods for N-Body Learning.
+Hot Coupling: A Particle Approach to Inference and Normalization on Pairwise Undirected Graphs.
+Rao-Blackwellised Particle Filtering for Dynamic Bayesian Networks
+A Blessing of Dimensionality: Measure Concentration and Probabilistic Inference.
+Unbounded Bayesian Optimization via Regularization.
+Herded Gibbs Sampling
+Proceedings of the Twenty-Eighth Conference on Uncertainty in Artificial Intelligence (2012)
+Dueling Network Architectures for Deep Reinforcement Learning.
+Fast Computational Methods for Visually Guided Robots.
+A Semi-supervised Learning Approach to Object Recognition with Spatial Integration of Local Features and Segmentation Cues.
+Predicting Parameters in Deep Learning.
+A Boosted Particle Filter: Multitarget Detection and Tracking.
+Analysis of Particle Methods for Simultaneous Robot Localization and Mapping and a New Algorithm: Marginal-SLAM.
+Robust Visual Tracking for Multiple Targets.
+Large-Flip Importance Sampling.
+Active Policy Learning for Robot Planning and Exploration under Uncertainty.
+Self-Avoiding Random Dynamics on Integer Complex Systems.
+A Statistical Model for General Contextual Object Recognition.
+An Expectation Maximization Algorithm for Continuous Markov Decision Processes with Arbitrary Reward.
+Rao-Blackwellised Particle Filtering for Dynamic Bayesian Networks.
+Efficient Learning of Practical Markov Random Fields with Exact Inference.
+Variational MCMC
+Learning to Communicate to Solve Riddles with Deep Distributed Recurrent Q-Networks.
+Neural Programmer-Interpreters.
+Distributed Parameter Estimation in Probabilistic Graphical Models.
+Inference and Learning for Active Sensing, Experimental Design and Control.
+On Sparse, Spectral and Other Parameterizations of Binary Probabilistic Models.
+Taking the Human Out of the Loop: A Review of Bayesian Optimization.
+Learning Where to Attend with Deep Architectures for Image Tracking.
+An Entropy Search Portfolio for Bayesian Optimization.
+An Introduction to MCMC for Machine Learning.
+Heteroscedastic Treed Bayesian Optimisation.
+Asymptotic Efficiency of Deterministic Estimators for Discrete Energy-Based Models: Ratio Matching and Pseudolikelihood
+Bayesian Optimization with an Empirical Hardness Model for approximate Nearest Neighbour Search.
+Narrowing the Gap: Random Forests In Theory and In Practice.
+Recklessly Approximate Sparse Coding
+Real-Time Monitoring of Complex Industrial Processes with Particle Filters.
+The Sound of an Album Cover: A Probabilistic Approach to Multimedia.
+New inference strategies for solving Markov Decision Processes using reversible jump MCMC
+A Bayesian exploration-exploitation approach for optimal online sensing and planning with a visually guided mobile robot.
+Regret Bounds for Deterministic Gaussian Process Bandits
+Learning to Communicate with Deep Multi-Agent Reinforcement Learning.
+Large-Flip Importance Sampling
+Portfolio Allocation for Bayesian Optimization.
+Matching Words and Pictures.
+Toward Practical N2 Monte Carlo: the Marginal Particle Filter
+From Fields to Trees
+Fast maximum a-posteriori inference on Monte Carlo state spaces.

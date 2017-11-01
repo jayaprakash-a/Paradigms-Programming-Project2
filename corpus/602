@@ -1,0 +1,2 @@
+DBN BASED MULTI-STREAM MODELS FOR SPEECH
+ ABSTRACT We propose dynamic Bayesian network (DBN) based synchronous and asynchronous multi-stream models for noise-robust automatic speech recognition.  In these models, multiple noise-robust features are combined into a single DBN obtain better performance than any single feature system alone.  Results on the Aurora 2. 0 noisy speech task show significant improvements our synchronous model over both single stream models and over a ROVER based fusion method.

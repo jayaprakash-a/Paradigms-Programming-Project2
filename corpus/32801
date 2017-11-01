@@ -1,0 +1,2 @@
+Optimal tuning curves for neurons spiking as a Poisson process
+ Abstract.  We calculate the information capacity of a neuron emitting as a Poisson process in response to a static stimulus, and the stimulus distribution required to reach the capacity, in the case of a constraint on the average frequency.  These optimal stimulus distributions (i. e.  the ones reaching the information capacity) are then reexpressed in terms of `tuning curves' for neurons with a continuous response to a scalar stimulus.

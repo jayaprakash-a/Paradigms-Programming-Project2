@@ -1,0 +1,2 @@
+Improving upon probability weighting for household size \Lambda
+ Abstract By comparing data from national telephone polls to Census figures on household size (number of adults in household), we find large differences between population and sample, even after weighting respondents proportional to household size.  This presumably occurs because larger households are easier to reach and more likely to respond to the survey.  If a user wishes to weight on household size, we recommend poststratification on known population proportions of household size instead.

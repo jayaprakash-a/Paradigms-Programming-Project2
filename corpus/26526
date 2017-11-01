@@ -1,0 +1,2 @@
+A LOW-POWER ADAPTIVE INTEGRATE-AND-FIRE NEURON CIRCUIT
+ ABSTRACT We present a low-power analog circuit for implementing a model of a leaky integrate and fire neuron.  Next to being optimized for low-power consumption, the proposed circuit includes elements for implementing spike frequency adaptation, for setting an arbitrary refractory period and for modulating the neuron's threshold voltage.  We present experimental data from a prototype chip, implemented using a standard 1. 5m CMOS process.

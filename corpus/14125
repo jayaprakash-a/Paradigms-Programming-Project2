@@ -1,0 +1,2 @@
+Estimating the Moments of a Random Vector with Applications
+ Abstract -- A general result about the quality of approximation of the mean of a distribution by its empirical estimate is proven that does not involve the dimension of the feature space.  Using the kernel trick this gives also bounds the quality of approximation of higher order moments.  A number of applications are derived of interest in learning theory including a new novelty detection algorithm and rigorous bounds on the Robust Minimax Classification algorithm.

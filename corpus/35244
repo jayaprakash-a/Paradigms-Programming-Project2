@@ -1,0 +1,2 @@
+Optimizing Similarity Using Multi-Query Relevance Feedback
+ Abstract We propose a novel method for automatically adjusting parameters in ranked-output text retrieval systems to improve retrieval performance.  A ranked-output text retrieval system implements a ranking function which orders documents, placing documents

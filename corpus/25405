@@ -1,0 +1,2 @@
+Named Entity Extraction from Word Lattices
+ Abstract We present a method for named entity extraction from word lattices produced by a speech recogniser.  Previous work by others on named entity extraction from speech has used either a manual transcript or 1-best recogniser output.  We describe how a single Viterbi search can recover both the named entity sequence and the corresponding word sequence from a word lattice, and further that it is possible to trade off an increase in word error rate for improved named entity extraction.

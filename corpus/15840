@@ -1,0 +1,2 @@
+Almost k-wise independence versus k-wise independence
+ Abstract We say that a distribution over f0; 1g n is almost k-wise independent if its restriction to every k coordinates results in a distribution that is close to the uniform distribution.  A natural question regarding almost k-wise independent distributions is how close they are to some k-wise independent distribution.  We show that the latter distance is essentially n \Theta(k) times the former distance.

@@ -1,0 +1,2 @@
+Likelihood--based Boosting
+ Abstract We present a probabilistic interpretation of `boosting' in terms of a mixture of experts model, and give a boosting algorithm that is a crippled maximum likelihood algorithm.  Boosting is a method for training multiple classifiers on a dataset and combining their outputs to make predictions for new cases (

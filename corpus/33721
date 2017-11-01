@@ -1,0 +1,2 @@
+Bayes Point Machines
+ the improvement over support vector machines is shown to be reduced.  Finally, we demonstrate that the realvalued output of single Bayes points on novel test points is a valid confidence measure and leads to a steady decrease in generalisation error when used as a rejection criterion.

@@ -1,0 +1,2 @@
+Using Learning for Approximation in Stochastic Processes
+ Abstract To monitor or control a stochastic dynamic system, we need to reason about its current state.  Exact inference for this task requires that we maintain a complete joint probability distribution over the possible states, an impossible requirement for most processes.  Stochastic simulation algorithms provide an alternative solution by approximating the distribution at time t via a (relatively small) set of samples.

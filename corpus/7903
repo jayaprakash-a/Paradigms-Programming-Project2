@@ -1,0 +1,2 @@
+Layered Representations for Human Activity Recognition
+ Abstract We present the use of layered probabilistic representations using Hidden Markov Models for performing sensing, learning, and inference at multiple levels of temporal granularity.  We describe the use of the representation in a system that diagnoses states of a user's activity based on real-time streams of evidence from video, acoustic, and computer interactions.  We review the representation, present an implementation, and report on experiments with the layered representation in an office-awareness application.

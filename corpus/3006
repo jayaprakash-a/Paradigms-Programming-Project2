@@ -1,0 +1,2 @@
+Investigating the Influence of Depth and Degree of Genotypic Change on Fitness in Genetic Programming
+ Abstract In this paper we investigate the influence of (a) the amount of variation generated in the genotype and (b) the depth of application of variation operators on the offspring fitness in genetic programming.  Simulation results on three common test problems indicate that for certain features of the fitness distribution the location of the variation may play as important a role as the choice of the applied operators.

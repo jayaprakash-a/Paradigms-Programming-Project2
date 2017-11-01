@@ -1,0 +1,35 @@
+An Angular Quantising Self Organising Map for Scale Invariant Classification| Abstract We use a simple network that uses negative feedback of activation and simple Hebbian learning to self organise in such a way as to produce a feature map which has the property of identifying the relative proportions of the components of the input data.  Thus, it evaluates the angular properties of the input data space and ignores the magnitude of the input data.  We have previously shown[1] that we can easily find a one dimensional mapping of input data; we now present an improved algorithm which finds a two dimensional mapping of the data.  When we train this network on uniformly distributed artificial data, we can observe convergence to the shape of a sphere which exhibits the scale invariant classifying properties previously seen in the network. 
+Trends in Unsupervised Learning| Abstract.  We review the trends in unsupervised learning towards the search for (in)dependence rather than (de)correlation, towards the use of global objective functions, towards a balancing of cooperation and competition and towards probabilistic, particularly Bayesian methods. 
+Negentropy and Kurtosis as Projection Pursuit Indices Provide Generalised ICA Algorithms| Abstract We develop a generalised form of the independent component analysis (ICA) algorithm introduced by Bell and Sejnowski [1], Amari et al [2] and lately by Pearlmutter and Parra [3] and also MacKay [4].  Motivated by information theoretic indices for exploratory projection pursuit (EPP) we show that maximisation by natural gradient ascent of the divergence of a multivariate distribution from normality, using the negentropy as a distance measure, yields a generalised ICA.  We introduce a form of nonlinearity which has an inherently simple form and exhibits the Bussgang property [30] within the algorithm.  We show that this is sufficient to perform ICA on data which has latent variables exhibiting either unimodal or bimodal probability density functions (PDF) or both.  Kurtosis has been used as a moment based projection pursuit index and as a contrast for ICA [5, 6, 7].  We introduce a simple adaptive nonlinearity which is formed by on-line estimation of the latent variable kurtosis and demonstrate the removal of the standard ICA constraint of latent variable pdf modality uniformity. 
+A Unified Information Extraction and Coding Network| Abstract A new form of neural network is introduced which is shown to be capable of performing a topology preserving feature mapping.  The mapping is performed in 2 steps: firstly the network performs a Principal Component Analysis, and then secondly makes a coding of each Principal Component.  The network uses only simple Hebbian learning in each section and is characterised by simplicity, homogeneity, locality of information use and parallelism.  A biologically more plausible variation of the original model is shown to be capable of the same mapping but at a loss of some simplicity. 
+Generalised independent component analysis through unsupervised learning with emergent bussgang properties|
+Extraction of independent signal sources using a deflationary exploratory projection pursuit network with lateral inhibition,|
+Modelling the Evolution of Linguistic Diversity|
+Nonlinear data structure extraction using simple Hebbian networks|
+Finding compact and sparse distributed representations of visual images|
+Kernel and Nonlinear Canonical Correlation Analysis|
+A neural implementation of canonical correlation analysis|
+ICA using kernel canonical correlation analysis|
+Canonical correlation analysis using artificial neural networks|
+An extended exploratory projection pursuit network with linear and nonlinear anti-hebbian lateral connections applied to the cocktail party problem|
+Modelling multiple-cause structure using rectification constraints,|
+Special issue on Independence and Artificial Neural Networks,|
+iStochastic ICA contrast maximisation using Oja's nonlinear PCA algorithm,j submitted|
+A Temporal Model of Linear Anti-Hebbian Learning|
+Unsupervised neural networks for the identification of minimum overcomplete basis in visual data|
+Negentropy and kurtosis as projection pursuit indices provide generalized ICA algorithms,|
+Automatic extraction of phase and frequency information from raw voice data|
+Radial feature mapping|
+iA temporal model of linear anti-hebbian learning,j|
+iInvariant feature maps for analysis of orientations in image data,j|
+Blind separation of sources using exploratory projection pursuit networks",|
+Independent component analysis against camouflage|
+A Neural Network for PCA and Beyond|
+Noise to extract independent causes|
+Pca properties of interneurons|
+Asymmetric learning in interneurons|
+Interneurons which identify principal components|
+Exploratory projection pursuit: an artificial neural network approach,|
+A General Exploratory Projection Pursuit Network,|
+Diversity in Learned Commmunication,|
+Telematics: the `language of possibility',|

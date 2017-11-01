@@ -1,0 +1,2 @@
+Incorporating Invariances in Support Vector Learning Machines
+ Abstract.  Developed only recently, support vector learning machines achieve high generalization ability by minimizing a bound on the expected test error; however, so far there existed no way of adding knowledge about invariances of a classification problem at hand.  We present a method of incorporating prior knowledge about transformation invariances by applying transformations to support vectors, the training examples most critical for determining the classification boundary.

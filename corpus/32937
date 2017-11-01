@@ -1,0 +1,2 @@
+A Linguistic Feature Vector for the Visual Interpretation of Sign Language
+ Independent Component Analysis.  We demonstrate classification rates as high as 97. 67% for a lexicon of 43 words using only single instance training outperforming previous approaches where thousands of training examples are required.

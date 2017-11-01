@@ -1,0 +1,2 @@
+On Discriminative vs
+ Generative Classifiers: A comparison of logistic regression and naive Bayes.  Abstract We compare discriminative and generative learning as typified by logistic regression and naive Bayes.  We show, contrary to a widelyheld belief that discriminative classifiers are almost always to be preferred, that there can often be two distinct regimes of performance as the training set size is increased, one in which each algorithm does better.  This stems from the observation

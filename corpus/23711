@@ -1,0 +1,2 @@
+Machine Learning for Computer Graphics: A Manifesto and Tutorial
+ Abstract I argue that computer graphics can benefit from a deeper use of machine learning techniques.  I give an overview of what learning has to offer the graphics community, with an emphasis on Bayesian techniques.  I also attempt to address some misconceptions about learning, and to give a very brief tutorial on Bayesian reasoning.

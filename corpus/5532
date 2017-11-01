@@ -1,0 +1,2 @@
+Generalizing Plans to New Environments in Relational MDPs
+ Abstract A longstanding goal in planning research is the ability to generalize plans developed for some set of environments to a new but similar environment, with minimal or no replanning.  Such generalization can both reduce planning time and allow us to tackle larger domains than the ones tractable for direct planning.  In this paper, we present an approach to the generalization problem based on a new framework of relational Markov Decision Processes (RMDPs).  An RMDP

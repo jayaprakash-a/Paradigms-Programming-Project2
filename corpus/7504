@@ -1,0 +1,2 @@
+Replica Shuffled Belief Propagation Decoding of LDPC Codes
+ Abstract Replica shuffled belief propagation decoders of low-density parity-check codes are presented.  The proposed decoders converge faster than standard and shuffled belief propagation decoders.  Simulations show that the new decoders offer good performance versus complexity trade-offs.

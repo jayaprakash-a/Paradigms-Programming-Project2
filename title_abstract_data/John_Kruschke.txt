@@ -1,0 +1,22 @@
+The Role of Base Rates in Category Learning| ABSTRACT: Previous researchers have discovered perplexing inconsistencies in how human subjects appear to utilize knowledge of category base rates when making category judgments.  In particular, Medin and Edelson (1988) found an "inverse base rate effect" in which subjects tended to select a rare category when tested with a combination of conflicting cues, and Gluck and Bower (1988) reported apparent "base rate neglect" in which subjects tended to select a rare category when tested with a single symptom whose objective diagnosticity was equal for all categories.  In this article I suggest that two principles underlie those effects: First, base rate information is learned and consistently deployed during all training and testing cases.  Second, the dominant effect of base rates is to cause frequent categories to be learned before rare categories, so that the common categories are encoded in terms of their typical features, and the rare categories are encoded by whichever features distinguish them relative to the already-learned, common categories.  Four new experiments are reported which confirm those principles.  Experiment 1 replicates and extends the basic inverse base rate effect and establishes a standard for subsequent experiments and modeling.  Experiment 2 shows that pre-training on a subset of categories has comparable effects as giving those categories high base rates during training.  Experiment 3 shows that apparent "base rate neglect" is simply an attenuated case of the "inverse base rate effect," hence any model of one effect should account for the other.  Experiment 4 uses probabilistic categories, and shows that apparent "base rate neglect" can be obtained even for cues that occur in less than 50% of the rare category's exemplars, and that cues that are not associated with any category decrease the base-rate bias.  The principles are formalized in a new connectionist model that modifies attention to stimulus features based on the network's current knowledge.  Quantitative fits to the empirical data are reported, and provide additional support for the principles. 
+Learning of rules that have high-frequency exceptions: New empirical data and a hybrid connectionist model|
+Rules and exemplars in category learning|
+Toward a unified model of attention in associative learning|
+Three principles for models of category learning|
+ALCOVE: An exemplarbased connectionist model of category learning|
+Combining exemplar-based category representations and connectionist learning rules|
+Human Category Learning: Implications for Backpropagation Models|
+Investigations of an exemplar-based connectionist model of category learning|
+ALCOVE: A Connectionist Model of Human Category Learning|
+Base rates in category learning|
+Shifting attention in cued recall|
+ALCOVE: A exemplar-based connectionist model of category learning",|
+Decision boundaries in one-dimensional categorization|
+Distributed bottlenecks for improved generalization in back-propagation networks|
+A model of probabilistic category learning,|
+theory to connectionist models and human categorization|
+The perception of causality: Feature binding in interacting objects|
+A connectionist model of human category learning|
+Dimensional attention learning in models of human categorization|
+Five principles for models of category learning|
+Blocking and backward blocking involve learned inattention|

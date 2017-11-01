@@ -1,0 +1,32 @@
+Ensemble Learning and Linear Response Theory for ICA| Abstract We propose a general Bayesian framework for performing independent component analysis (ICA) which relies on ensemble learning and linear response theory known from statistical physics.  We apply it to both discrete and continuous sources.  For the continuous source the underdetermined (overcomplete) case is studied.  The naive mean-field approach fails in this case whereas linear response theory--which gives an improved estimate of covariances--is very efficient.  The examples given are for sources without temporal correlations.  However, this derivation can easily be extended to treat temporal correlations.  Finally, the framework offers a simple way of generating new ICA algorithms without needing to define the prior distribution of the sources explicitly. 
+Expectation Consistent Free Energies for Approximate Inference| Abstract We propose a novel a framework for deriving approximations for intractable probabilistic models.  This framework is based on a free energy (negative log marginal likelihood) and can be seen as a generalization of adaptive TAP [1, 2, 3] and expectation propagation (EP) [4, 5].  The free energy is constructed from two approximating distributions which encode different aspects of the intractable model such a single node constraints and couplings and are by construction consistent on a chosen set of moments.  We test the framework on a difficult benchmark problem with binary variables on fully connected graphs and 2D grid graphs.  We find good performance using sets of moments which either specify factorized nodes or a spanning tree on the nodes (structured approximation).  Surprisingly, the Bethe approximation gives very inferior results even on grids. 
+TAP Gibbs Free Energy, Belief Propagation and Sparsity| Abstract The adaptive TAP Gibbs free energy for a general densely connected probabilistic model with quadratic interactions and arbritary single site constraints is derived.  We show how a specific sequential minimization of the free energy leads to a generalization of Minka's expectation propagation.  Lastly, we derive a sparse representation version of the sequential algorithm.  The usefulness of the approach is demonstrated on classification and density estimation with Gaussian processes and on an independent component analysis problem. 
+Incremental Gaussian Processes| Abstract In this paper, we consider Tipping's relevance vector machine (RVM) [1] and formalize an incremental training strategy as a variant of the expectation-maximization (EM) algorithm that we call subspace EM.  Working with a subset of active basis functions, the sparsity of the RVM solution will ensure that the number of basis functions and thereby the computational complexity is kept low.  We also introduce a mean field approach to the intractable classification model that is expected to give a very good approximation to exact Bayesian inference and contains the Laplace approximation as a special case.  We test the algorithms on two large data sets with O(10 3 10 4 ) examples.  The results indicate that Bayesian learning of large data sets, e. g.  the MNIST database is realistic. 
+Variational Linear Response| Abstract A general linear response method for deriving improved estimates of correlations in the variational Bayes framework is presented.  Three applications are given and it is discussed how to use linear response as a general principle for improving mean field approximations. 
+The Variational Transition Kernel| Abstract We introduce a new Monte Carlo algorithm for performing inference with latent variable models.  The key to our method is a variational approximation to the transition kernel of a Markov chain that has the parameter posterior as invariant distribution.  The transition kernel allows us to circumvent the explicit latent variable sample that is common in twostage Gibbs sampling for latent variable models.  By averaging over latent variables, we find it easier to escape trapping states and smooth over local minima in the latent variable space, giving a more robust sampling method.  The variational kernel is adaptive and fast to calculate from a closed-form solution.  Samples can either be taken from the resulting approximate chain and corrected with an importance-weight, or the variational kernel can be used as a Metropolis-Hastings proposal distribution.  We demonstrate the new algorithm on a mixture modeling problem and on real data and compare with two related methods: two-stage Gibbs sampling and variational Bayes. 
+Gaussian Processes for Classification: Mean-Field Algorithms|
+Efficient Approaches to Gaussian Process Classification|
+Gaussian processes and SVM: Mean field and leave-one-out|
+Tractable approximations for probabilistic models: The adaptive Thouless-Anderson-Palmer mean field approach,|
+Adaptive and self-averaging Thouless-Anderson-Palmer mean field theory for probabilistic modeling,|
+editors,|
+Bayesian Mean Field Algorithms for Neural Networks and Gaussian Processes|
+Independent component analysis for understanding multimedia content|
+DTU: Toolbox| ISP Group at Institute of Informatics and Mathematical Modelling at the Technical University of Denmark.  Internet. 
+From naive mean field theory to the TAP equations|
+Adaptive TAP equations|
+Gaussian process classification and SVM: Mean field results and leave-one-out estimator|
+Adaptive TAP equations| Advanced Mean Field Methods - Theory and Practice.  MIT Press. 
+A Mean Field Algorithm for Bayes Learning in Large Feed-forward Neural Networks|
+Ensemble Learning and Linear Response Theory for ICA|
+Analysis of functional neuroimages using ICA with adaptive binary sources|
+Mean field implementation of Bayesian ICA,|
+GP classification and SVM: Mean field results and leave-one-out estimator|
+Mean-Field Approaches to Independent Component Analysis|
+Scientific quality of clinical research: an analysis of 40 research projects in pharmacology / pharmacotherapy",|
+Mean Field Methods for Classification with Gaussian Processes|
+TAP Gibbs Free Energy, Belief Propagation and Sparsity|
+The Effect of Correlated Input Data on the Dynamics of Learning|
+"The Role of Projects in Engineering Education",|
+Optimal perceptron learning: an online Bayesian approach|
+Mean Field Approach to Bayes Learning in Feedforward Neural Networks|

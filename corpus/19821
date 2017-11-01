@@ -1,0 +1,2 @@
+Diagnostic checks for discrete-data regression models using posterior predictive simulations \Lambda
+ Abstract Model checking with discrete data regressions can be difficult because usual methods such as residual plots have complicated reference distributions that depend on the parameters in

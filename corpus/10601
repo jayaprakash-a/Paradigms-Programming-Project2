@@ -1,0 +1,2 @@
+Low-Power Silicon Spiking Neurons and Axons
+ Abstract This paper presents low-power versions of two circuits often used in analog VLSI models of neural systems.  The circuits model the spiking behavior of the axon hillock and the pulse propagation of axons.

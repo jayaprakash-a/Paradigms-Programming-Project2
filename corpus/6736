@@ -1,0 +1,2 @@
+A decision-tree-based symbolic rule induction system for text categorization
+ Abstract We present a decision-tree-based symbolic rule induction system whose purpose is to categorize text documents automatically.  Our method for rule induction involves the novel combination of (1) a fast decision tree induction algorithm especially suited to text data and (2) a new method for converting a decision tree to a rule set that is simplified, but still logically equivalent to, the original tree.  We report experimental results on the use of this system on some practical problems.

@@ -1,0 +1,2 @@
+Microchoice Bounds and Self Bounding Learning Algorithms
+ Abstract We prove adaptive bounds for learning algorithms that operate by making a sequence of choices.  These adaptive bounds, which we call Microchoice bounds, can be used to make these algorithms self-bounding in the style of Freund [Fre98].  Furthermore, we can combine these bounds with Freund's more sophisticated query-tree approach, producing a modified query-tree structure that yields similar bounds to those in [Fre98] but that permits a much more efficient algorithmic approximation.

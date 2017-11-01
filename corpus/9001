@@ -1,0 +1,2 @@
+Fast Multiple Antenna Differential Decoding
+ Abstract We present an algorithm based on lattice reduction for the fast decoding of diagonal differential modulation across multiple antenna.  While the complexity of the maximum likelihood algorithm is exponential both in the number of antenna and the rate, the complexity of our approximate lattice algorithm is polynomial in the number of antennas and the rate.  We show that the error performance of our lattice algorithm is very close to the maximum likelihood algorithm.

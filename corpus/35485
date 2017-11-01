@@ -1,0 +1,2 @@
+(De)randomized Construction of Small Sample Spaces in \calNC
+ Abstract Koller and Megiddo introduced the paradigm of constructing compact distributions that satisfy a given set of constraints, and showed how it can be used to efficiently derandomize certain types of algorithm.  In this paper, we significantly extend their results in two ways.  First, we show how their approach can be applied to deal with more general expectation constraints.  More importantly, we provide the first

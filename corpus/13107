@@ -1,0 +1,2 @@
+A system for automated site model acquisition \Lambda
+ ABSTRACT A system has been developed to acquire, extend and refine 3D geometric site models from aerial imagery.  The system hypothesizes potential building roofs in an image, automatically locates supporting geometric evidence in other images, and determines the precise shape and position of the new buildings via multi-image triangulation.  Projectively warped image intensity maps are associated with the faces of each recovered building, allowing realistic rendering of the scene from new viewpoints.

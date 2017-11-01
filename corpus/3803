@@ -1,0 +1,2 @@
+Model Selection for Small Sample Regression
+ Abstract.  Model selection is an important ingredient of many machine learning algorithms, in particular when the sample size in small, in order to strike the right trade-off between overfitting and underfitting.  Previous classical results for linear regression are based on an asymptotic analysis.  We present a new penalization

@@ -1,0 +1,2 @@
+Centralized broadcast in multihop radio networks
+ Abstract We show that for any radio network there exists a schedule of a broadcast whose time is O(D+log 5

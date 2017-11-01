@@ -1,0 +1,2 @@
+Efficient Nash Computation in Large Population Games with Bounded Influence
+ Abstract We introduce a general representation of largepopulation games in which each player's influence on the others is centralized and limited, but may otherwise be arbitrary.  This representation significantly generalizes the class known as congestion games in a natural way.  Our main results are provably correct and efficient algorithms for computing and learning approximate Nash equilibria in this general framework.

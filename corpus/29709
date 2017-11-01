@@ -1,0 +1,2 @@
+Minimizing Localization Travel Distance (regular paper)
+ Delayed Planning Architecture [4],[9], [8], we find that its performance ratio is poor, ranging between #(n) and #(n= log 2 n), depending on sensor and domain type.  In contrast, the algorithm's performance is good when measured in terms of travel cost, on discretized domains such as grid graphs.  On graphs with n vertices, the algorithm's worst-case travel cost is between #(n log n= log log n)) and O(n log n).  As a corollary we find that the total distance traveled by the greedy mapping algorithm is also O(n log n).

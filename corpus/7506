@@ -1,0 +1,2 @@
+Rateless Codes on Noisy Channels
+ Abstract We study the performance of the newly invented rateless codes (LT- and Raptor codes) on noisy channels such as the BSC and the AWGN channel.  We find that Raptor codes outperform LT codes, and have good performance on a wide variety of noisy channels.

@@ -1,0 +1,2 @@
+DYNAMICAL LEARNING WITH THE EM ALGORITHM FOR NEURAL NETWORKS
+ Abstract In this paper, we derive an EM algorithm for nonlinear state space models.  We use it to estimate jointly the neural network weights, the model uncertainty and the noise in the data.  In the E-step we apply a forward-backward Rauch-Tung-Striebel smoother to compute the network weights.  For the M-step, we derive expressions to compute the model uncertainty and the measurement noise.  We find that the method is intrinsically very powerful, simple and stable.

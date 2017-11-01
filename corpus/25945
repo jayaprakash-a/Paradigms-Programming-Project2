@@ -1,0 +1,2 @@
+A Framework for Programming Embedded Systems: Initial Design and Results
+ Abstract This paper describes CES, a proto-type of a new programming language for robots and other embedded systems, equipped with sensors and actuators.  CES contains two new ideas, currently not found in other programming languages: support of computing with uncertain information, and support of adaptation and teaching as a means of programming.  These innovations facilitate the rapid development of software for embedded systems, as demonstrated by two mobile robot applications.

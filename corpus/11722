@@ -1,0 +1,2 @@
+Exponential Families for Conditional Random Fields
+ Abstract In this paper we define conditional random fields in reproducing kernel Hilbert spaces and show connections to Gaussian Process classification.  More specifically, we prove decomposition results for undirected graphical models and we give constructions for kernels.  Finally we present efficient means of solving the optimization problem using reduced rank decompositions and we show how stationarity can be exploited efficiently in the optimization process.

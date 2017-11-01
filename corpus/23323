@@ -1,0 +1,2 @@
+The Rules Behind Roles: Identifying Speaker Role in Radio Broadcasts
+ Abstract Previous work has shown that providing information about story structure is critical for browsing audio broadcasts.  We investigate the hypothesis that Speaker Role is an important cue to story structure.  We implement an algorithm that classifies story segments into three Speaker Roles based on several content and duration features.  The algorithm correctly classifies about 80% of segments (compared with a baseline frequency of 35. 4%) when applied to ASR derived transcriptions of broadcast data.

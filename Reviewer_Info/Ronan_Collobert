@@ -1,0 +1,60 @@
+Learning to Segment Object Candidates.
+Joint RNN-Based Greedy Parsing and Word Composition.
+Half Transductive Ranking.
+Wav2Letter: an End-to-End ConvNet-based Speech Recognition System.
+Speech & face based biometric authentication at IDIAP.
+SVMTorch: Support Vector Machines for Large-Scale Regression Problems.
+Implementing Neural Networks Efficiently.
+Large scale manifold transduction.
+Recurrent Convolutional Neural Networks for Scene Parsing.
+Semi-Supervised Sequence Labeling with Self-Learned Features.
+N-gram-Based Low-Dimensional Representation for Document Classification.
+From image-level to pixel-level labeling with Convolutional Networks.
+Curriculum learning.
+Learning to Refine Object Segments.
+Large Scale Transductive SVMs.
+Inference with the Universum.
+Neural Network-based Word Alignment through Score Aggregation.
+Deep Neural Networks for Syntactic Parsing of Morphologically Rich Languages.
+Deep learning via semi-supervised embedding.
+Supervised Semantic Indexing.
+Weakly Supervised Semantic Segmentation with Convolutional Networks.
+Joint phoneme segmentation inference and classification using CRFs.
+ProNet: Learning to Propose Object-specific Boxes for Cascaded Neural Networks.
+Deep Learning for Efficient Discriminative Parsing.
+Rehabilitation of Count-Based Models for Word Vector Representations.
+A unified architecture for natural language processing: deep neural networks with multitask learning.
+Learning to rank with (a lot of) word features.
+A Parallel Mixture of SVMs for Very Large Scale Problems.
+Rehabilitation of Count-based Models for Word Vector Representations.
+"The Sum of Its Parts": Joint Learning of Word and Phrase Representations with Autoencoders.
+Phrase-based Image Captioning.
+Combining labeled and unlabeled data with word-class distribution learning.
+Video (language) modeling: a baseline for generative models of natural videos.
+Deep learning from temporal coherence in video.
+Natural Language Processing (almost) from Scratch
+Natural Language Processing (Almost) from Scratch.
+End-to-end Phoneme Sequence Recognition using Convolutional Neural Networks.
+Deep Learning for Character-Based Information Extraction.
+Scaling Large Learning Problems with Hard Parallel Mixtures.
+Deep Learning via Semi-supervised Embedding.
+A gentle Hessian for efficient gradient descent.
+Estimating phoneme class conditional probabilities from raw speech signal using convolutional neural networks.
+Recurrent Greedy Parsing with Neural Networks.
+Polynomial Semantic Indexing.
+Recurrent Convolutional Neural Networks for Scene Labeling.
+Supervised semantic indexing.
+Phrase Representations for Multiword Expressions.
+Convolutional Neural Networks-based continuous speech recognition using raw speech signal.
+Learning linearly separable features for speech recognition using convolutional neural networks.
+Analysis of CNN-based speech recognition system using raw speech as input.
+Links between perceptrons, MLPs and SVMs.
+Trading convexity for scalability.
+Learning Structured Embeddings of Knowledge Bases.
+Introduction to the special issue on learning semantics.
+Estimating Phoneme Class Conditional Probabilities from Raw Speech Signal using Convolutional Neural Networks
+Fast Semantic Extraction Using a Novel Neural Network Architecture.
+Word Embeddings through Hellinger PCA.
+Semi-supervised Abstraction-Augmented String Kernel for Multi-level Bio-Relation Extraction.
+Towards Understanding Situated Natural Language.
+Simple Image Description Generator via a Linear Phrase-Based Approach.

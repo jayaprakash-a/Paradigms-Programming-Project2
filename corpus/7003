@@ -1,0 +1,2 @@
+A Contract-Based Model for Directed Network Formation
+ Abstract We consider a network game where the nodes of the network wish to form a graph to route traffic between themselves.  We present a model where costs are incurred for routing traffic, as well as for a lack of network connectivity.  We focus on directed links and the link stability equilibrium concept, and characterize connected link stable equilibria.  The structure of connected link stable networks is analyzed for several special cases.

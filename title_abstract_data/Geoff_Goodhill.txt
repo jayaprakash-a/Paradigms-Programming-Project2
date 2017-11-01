@@ -1,0 +1,16 @@
+Cortical Columns| Definition In many regions of the cortex, neuronal response properties remain relatively constant as one moves perpendicular to the surface of the cortex, while they vary in a direction parallel to the cortex.  Such columnar organization is particularly evident in the visual system, in the form of ocular dominance and orientation columns. 
+The Role of Weight Normalization in Competitive Learning| Abstract The effect of different kinds of weight normalization on the outcome of a simple competitive learning rule is analysed.  It is shown that there are important differences in the representation formed depending on whether the constraint is enforced by dividing each weight by the same amount ("divisive enforcement"), or subtracting a fixed amount from each weight ("subtractive enforcement").  For the divisive cases weight vectors spread out over the space so as to evenly represent "typical" inputs, whereas for the subtractive cases the weight vectors tend to the axes of the space, so as to represent "extreme" inputs.  The consequences of these differences are examined. 
+The influence of lateral connections on the structure of cortical maps| Abstract Maps of ocular dominance and orientation in primary visual cortex have a highly characteristic structure.  The factors that determine this
+To appear in NEURAL COMPUTATION Elastic Net Model of Ocular Dominance: Overall Stripe Pattern and Monocular Deprivation| Abstract The elastic net [Durbin & Willshaw 1987] can account for the development of both topography and ocular dominance in the mapping from the lateral geniculate nucleus to primary visual cortex [Goodhill & Willshaw 1990].  Here it is further shown for this model that (a) the overall pattern of stripes produced is strongly influenced by the shape of the cortex: in particular stripes with a global order similar to that seen biologically can be produced under appropriate conditions, and (b) the observed changes in stripe width associated with monocular deprivation are reproduced in the model. 
+Are visual cortex maps optimised for coverage?| Abstract The elegant regularity of maps of variables such as ocular dominance, orientation and spatial frequency
+Computational Neuroanatomy: Principles and Methods (G| A.  Abstract Many features of visual scenes are represented in the visual cortex in the form of maps.  The best studied of these are the maps of features such as ocular dominance and orientation in primary visual cortex (V1). 
+Quantifying neighbourhood preservation in topographic mappings|
+A Unifying Objective Function for Topographic Mappings|
+Application of the elastic net algorithm to the formation of ocular dominance stripes|
+Axon Guidance: Stretching Gradients to the Limit|
+Gradients for Retinotectal Mapping|
+A Mathematical Model of Axon Guidance by Diffusible Factors|
+Quantifying neighbourhood preservation in topographic mappings, Proceedings of the 3rd Joint Symposium on Neural Computation,|
+Analysis of the elastic net model applied to the formation of ocular dominance and orientation columns|
+Elastic net model of ocular dominance: Overall stripe pattern and monocular deprivation|
+Are Visual Cortex Maps Optimized for Coverage?|

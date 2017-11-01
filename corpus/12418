@@ -1,0 +1,2 @@
+The Bayesian Committee Support Vector Machine
+ Abstract.  Empirical evidence indicates that the training time for the support vector machine (SVM) scales to the square of the number of training data points.  In this paper, we introduce the Bayesian committee support vector machine (BC-SVM) and achieve an algorithm for training the SVM which scales linearly in the number of training data points.  We verify the good performance of the BC-SVM using several data sets.

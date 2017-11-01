@@ -1,0 +1,2 @@
+Trading in Markovian Price Models
+ Abstract We examine a Markovian model for the price evolution of a stock, in which the probability of local upward or downward movement is arbitrarily dependent on the current price itself (and perhaps some auxiliary state information).  Our main result is a "universally profitable" trading strategy --- a single fixed strategy whose profitability competes with the optimal strategy, which knows all of the underlying parameters of the infinite and possibly nonstationary Markov process.

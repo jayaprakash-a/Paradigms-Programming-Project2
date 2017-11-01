@@ -1,0 +1,2 @@
+Agent Mediated Electronic Commerce IV: Designing Mechanisms and#Systems, Springer Verlag
+ This approach is fully implemented as ATTac-2001, a top-scoring agent in the second Trading Agent Competition (TAC-01).  ATTac-2001 uses boosting techniques to learn conditional distributions of auction clearing prices.  We present experiments demonstrating the effectiveness of this predictor relative to several reasonable alternatives.

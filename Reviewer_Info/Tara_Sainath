@@ -1,0 +1,65 @@
+Sparse representation features for speech recognition.
+Locally-connected and convolutional neural networks for small footprint speaker recognition.
+Low-rank matrix factorization for Deep Neural Network training with high-dimensional output targets.
+Gradient steepness metrics using extended Baum-Welch transformations for universal pattern recognition tasks.
+An evaluation of posterior modeling techniques for phonetic recognition.
+Deep scattering spectra with deep neural networks for LVCSR tasks.
+Deep convolutional neural networks for LVCSR.
+A Sinusoidal Model Approach to Acoustic Landmark Detection and Segmentation for Robust Segment-Based Speech Recognition.
+Bayesian compressive sensing for phonetic classification.
+Large vocabulary automatic speech recognition for children.
+Speaker location and microphone spacing invariant acoustic modeling from raw multichannel waveforms.
+Kalman filtering for compressed sensing.
+Data selection for language modeling using sparse representations.
+Query-by-example keyword spotting using long short-term memory networks.
+Exemplar-Based Processing for Speech Recognition: An Overview.
+Deep Convolutional Neural Networks for Large-scale Speech Tasks.
+Improvements to filterbank and delta learning within a deep neural network framework.
+Learning compact recurrent neural networks.
+Kernel methods match Deep Neural Networks on TIMIT.
+Acoustic modelling with CD-CTC-SMBR LSTM RNNS.
+Exemplar-based Sparse Representation phone identification features.
+A generalized family of parameter estimation techniques.
+An analysis of sparseness and regularization in exemplar-based methods for speech classification.
+Optimization Techniques to Improve Training Speed of Deep Neural Networks for Large Speech Tasks.
+Developing speech recognition systems for corpus indexing under the IARPA Babel program.
+Reducing Computational Complexities of Exemplar-Based Sparse Representations with Applications to Large Vocabulary Speech Recognition.
+Island-driven search using broad phonetic classes.
+Factored spatial and spectral multichannel raw waveform CLDNNs.
+Auto-encoder bottleneck features using deep belief networks.
+A comparison of broad phonetic and acoustic units for noise robust segment-based phonetic recognition.
+Learning Compact Recurrent Neural Networks.
+A voice-commandable robotic forklift working alongside humans in minimally-prepared outdoor environments.
+Improved pre-training of Deep Belief Networks using Sparse Encoding Symmetric Machines.
+Deep Scattering Spectrum with deep neural networks.
+N-best entropy based data selection for acoustic modeling.
+Automatic gain control and multi-style training for robust small-footprint keyword spotting with deep neural networks.
+Improving training time of Hessian-free optimization for deep neural networks using preconditioning and sampling.
+Learning filter banks within a deep neural network framework.
+Parallel deep neural network training for LVCSR tasks using blue gene/Q.
+Unsupervised Audio Segmentation using Extended Baum-Welch Transformations.
+Convolutional neural networks for small-footprint keyword spotting.
+Joint training of convolutional and non-convolutional neural networks.
+Convolutional, Long Short-Term Memory, fully connected Deep Neural Networks.
+Improvements to deep convolutional neural networks for LVCSR.
+A convex hull approach to sparse representations for exemplar-based speech recognition.
+Convergence of Line Search A-Function Methods.
+Parallel Deep Neural Network Training for Big Data on Blue Gene/Q.
+A-Functions: A generalization of Extended Baum-Welch transformations to convex optimization.
+Deep Belief Networks using discriminative features for phone recognition.
+Making Deep Belief Networks effective for large vocabulary continuous speech recognition.
+Generalization of extended baum-welch parameter estimation for discriminative training and decoding.
+Improving deep neural networks for LVCSR using rectified linear units and dropout.
+Enhancing Exemplar-Based Posteriors for Speech Recognition Tasks.
+Incorporating sparse representation phone identification features in automatic speech recognition using exponential families.
+The Use of isometric transformations and bayesian estimation in compressive sensing for fMRI classification.
+Scalable Minimum Bayes Risk Training of Deep Neural Network Acoustic Models Using Distributed Hessian-free Optimization.
+Improvements to Deep Convolutional Neural Networks for LVCSR.
+Application specific loss minimization using gradient boosting.
+An exploration of large vocabulary tools for small vocabulary phonetic recognition.
+Sparse representations for text categorization.
+Audio classification using extended baum-welch transformations.
+Broad phonetic class recognition in a Hidden Markov model framework using extended Baum-Welch transformations.
+Learning the speech front-end with raw waveform CLDNNs.
+Accelerating Hessian-free optimization for Deep Neural Networks by implicit preconditioning and sampling.
+Structured Transforms for Small-Footprint Deep Learning.

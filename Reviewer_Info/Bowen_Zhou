@@ -1,0 +1,98 @@
+Improving online incremental speaker adaptation with eigen feature space MLLR.
+Classifying Relations by Ranking with Convolutional Neural Networks.
+A phrase-level machine translation approach for disfluency detection using weighted finite state transducers.
+Empirical Study on Deep Learning Models for Question Answering.
+Pointing the Unknown Words.
+Stereo hidden Markov modeling for noise robust speech recognition.
+Clustering of bootstrapped acoustic model with full covariance.
+Constrained Phrase-based Translation Using Weighted Finite State Transducer.
+Improved Neural Network-based Multi-label Classification with Better Initialization Leveraging Label Co-occurrence.
+IBM Mastor: Multilingual Automatic Speech-To-Speech Translator.
+Simple Question Answering by Attentive Convolutional Neural Network.
+Applying log linear model based context dependent machine translation techniques to grapheme-to-phoneme conversion.
+Statistical Machine Translation for Speech: A Perspective on Structures, Learning, and Decoding.
+Applying deep learning to answer selection: A study and an open task.
+An EM algorithm for SCFG in formal syntax-based translation.
+WuKong: automatically detecting and localizing bugs that manifest at large system scales.
+Combining many alignments for speech to speech translation.
+A Context Sensitive Offloading Scheme for Mobile Cloud Computing Service.
+Reinforcing language model for speech translation with auxiliary data.
+Diversify and Combine: Improving Word Alignment for Machine Translation on Low-Resource Languages.
+Using Features from Topic Models to Alleviate Over-Generation in Hierarchical Phrase-Based Translation.
+The Impact of ASR on Speech-to-Speech Translation Performance.
+Speechfind: an experimental on-line spoken document retrieval system for historical audio archives.
+A novel algorithm for rapid speaker adaptation based on structural maximum likelihood eigenspace mapping.
+Rapid integration of Parts of Speech information to improve reordering model for English-Farsi Speech to Speech Translation.
+Orion: Scaling Genomic Sequence Matching with Fine-Grained Parallelization.
+Recent advances of IBM's handheld speech translation system.
+Improved Representation Learning for Question Answer Matching.
+Two Methods for Extending Hierarchical Rules from the Bilingual Chart Parsing.
+Intelligent injection liquid particle inspection machine based on two-dimensional Tsallis Entropy with modified pulse-coupled neural networks.
+An investigation of heuristic, manual and statistical pronunciation derivation for Pashto.
+Vrisha: using scaling properties of parallel programs for bug detection and localization.
+Mitigating interference in cloud services by middleware reconfiguration.
+Anchor Graph: Global Reordering Contexts for Statistical Machine Translation.
+Debugging high-performance computing applications at massive scales.
+Flexible and Efficient Hypergraph Interactions for Joint Hierarchical and Forest-to-String Decoding.
+Enlisting the Ghost: Modeling Empty Categories for Machine Translation.
+Soft Syntactic Constraints for Hierarchical Phrase-Based Translation Using Latent Syntactic Distributions.
+ABCNN: Attention-Based Convolutional Neural Network for Modeling Sentence Pairs.
+A study of bootstrapping with multiple acoustic features for improved automatic speech recognition.
+Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation.
+Stereo-based stochastic mapping with context using probabilistic PCA for noise robust automatic speech recognition.
+Finding Needle in a Million Metrics: Anomaly Detection in a Large-scale Computational Advertising Platform.
+Tree-based Convolution for Sentence Modeling.
+Towards integrated machine translation using structural alignment from syntax-augmented synchronous parsing.
+Discriminative acoustic model using eigenspace mapping for rapid speaker adaptation.
+Applying Deep Learning to Answer Selection: A Study and An Open Task.
+Efficient representation and fast look-up of Maximum Entropy language models.
+Rapid speaker adaptation using multi-stream Structural Maximum Likelihood Eigenspace Mapping.
+Hidden Markov Acoustic Modeling With Bootstrap and Restructuring for Low-Resourced Languages.
+Audio stream phrase recognition for a national gallery of the spoken word: "one small step".
+A vision-based intelligent inspector for wine production.
+Dependency-based Convolutional Neural Networks for Sentence Embedding.
+Abstractive Text Summarization using Sequence-to-sequence RNNs and Beyond.
+An Empirical Study on Improving Hierarchical Phrase-Based Translation Using Alignment Features.
+Leveraging Sentence-level Information with Encoder LSTM for Natural Language Understanding.
+Discriminative Training of 150 Million Translation Parameters and Its Application to Pruning.
+Statistical natural language generation for speech-to-speech machine translation systems.
+Unsupervised Features from Text for Speech Synthesis in a Speech-to-Speech Translation System.
+Efficient Hyper-parameter Optimization for NLP Applications.
+Two-Neighbor Orientation Model with Cross-Boundary Global Contexts.
+Language modeling structures in audio transcription for retrieval of historical speeches.
+Towards speech Translation of Non Written Languages.
+Folsom: a Fast and Memory-Efficient Phrase-Based Approach to Statistical Machine Translation.
+What is Hidden among Translation Rules.
+LSTM-based Deep Learning Models for non-factoid answer selection.
+Attentive Pooling Networks.
+Improved structural maximum likelihood eigenspace mapping for rapid speaker adaptation.
+Sequence-to-Sequence RNNs for Text Summarization.
+Acoustic Modeling with Bootstrap and Restructuring Based on Full Covariance.
+Bifurcations of travelling wave solutions for the generalized (2+1)-dimensional Boussinesq-Kadomtsev-Petviashvili equation.
+Towards High Performance LVCSR in Speech-to-Speech Translation System on Smart Phones.
+A Machine Vision Intelligent Inspector for Injection.
+ABHRANTA: Locating Bugs that Manifest at Large System Scales.
+Rapid discriminative acoustic model based on eigenspace mapping for fast speaker adaptation.
+Multi-Scale Shaft Parts Image Edge Detection and Measurement Based on Wavelet Transform.
+MARS: A Statistical Semantic Parsing and Generation-Based Multilingual Automatic tRanslation System.
+Medical Synonym Extraction with Concept Space Models.
+Acoustic modeling with bootstrap and restructuring for low-resourced languages.
+Advances in syntax-based Malay-English speech translation.
+Good, Better, Best: Choosing Word Embedding Context.
+Unsupervised Deep Belief Features for Speech Translation.
+The IBM speech-to-speech translation system for smartphone: Improvements for resource-constrained tasks.
+A Corpus Level MIRA Tuning Strategy for Machine Translation.
+A Power Mean Based Algorithm for Combining Multiple Alignment Tables.
+Class-based named entity translation in a speech to speech translation system.
+Total variation based ampoule injection image denoising with universal gravity theory.
+Distributed Deep Learning for Answer Selection.
+Enriching SCFG rules directly from efficient bilingual chart parsing.
+WuKong: effective diagnosis of bugs at large system scales.
+On Efficient Coupling of ASR and SMT for Speech Translation.
+Optimizing Word Alignment Combination For Phrase Table Training.
+Lexicalized reordering in multiple-graph based statistical machine translation.
+Two-way speech-to-speech translation on handheld devices.
+Efficient audio stream segmentation via the combined T
+SpeechFind: Advances in Spoken Document Retrieval for a National Gallery of the Spoken Word.
+Unsupervised audio stream segmentation and clustering via the Bayesian information criterion.
+Structured Memory for Neural Turing Machines.

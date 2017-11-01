@@ -1,0 +1,107 @@
+AAAI 2008 Workshop Reports.
+Wikispeedia: An Online Game for Inferring Semantic Distances between Concepts.
+Proceedings of the 29th International Conference on Machine Learning (ICML-12)
+A formal framework for robot learning and control under model uncertainty.
+Towards robotic assistants in nursing homes: Challenges and results.
+Compressed Least-Squares Regression on Sparse Spaces.
+An Expectation-Maximization Algorithm to Compute a Stochastic Factorization From Data.
+Informing sequential clinical decision-making through reinforcement learning: an empirical study.
+Model-Based Bayesian Reinforcement Learning in Large Structured Domains.
+Applying Metric-Trees to Belief-Point POMDPs.
+PAC-Bayesian Model Selection for Reinforcement Learning.
+Active Learning for Developing Personalized Treatment.
+PAC-Bayesian Policy Evaluation for Reinforcement Learning
+Anytime Point-Based Approximations for Large POMDPs
+SmartWheeler: A Robotic Wheelchair Test-Bed for Investigating New Models of Human-Robot Interaction.
+Hierarchical Neural Network Generative Models for Movie Dialogues.
+Efficient learning and planning with compressed predictive states.
+End-to-End Text Recognition with Hybrid HMM Maxout Models.
+Point-based value iteration: An anytime algorithm for POMDPs.
+Active Learning for Developing Personalized Treatment
+Robotic Assistance During Ambulation by Older Adults.
+Incremental Stochastic Factorization for Online Reinforcement Learning.
+A survey of point-based POMDP solvers.
+An Empirical Analysis of Off-policy Learning in Discrete MDPs.
+Goal-Directed Online Learning of Predictive Models.
+Reinforcement learning with limited reinforcement: using Bayes risk for active learning in POMDPs.
+Policy-contingent abstraction for robust robot control.
+Reinforcement Learning using Kernel-Based Stochastic Factorization.
+Experiences with a Mobile Robotic Guide for the Elderly.
+Learning time series models for pedestrian motion prediction.
+Anytime Point-Based Approximations for Large POMDPs.
+Theoretical Analysis of Heuristic Search Methods for Online POMDPs.
+Multitask Generalized Eigenvalue Program.
+Planning under uncertainty in robotics.
+Methods of Moments for Learning Stochastic Languages: Unified Presentation and Empirical Comparison.
+Active learning for personalizing treatment.
+MDPs with Non-Deterministic Policies.
+Person tracking and following with 2D laser scanners.
+An Actor-Critic Algorithm for Sequence Prediction.
+Model-Based Bayesian Reinforcement Learning in Large Structured Domains
+Automatic Seizure Detection in an In-Vivo Model of Epilepsy.
+Treating Epilepsy by Reinforcement Learning Via Manifold-Based Simulation.
+The Ubuntu Dialogue Corpus: A Large Dataset for Research in Unstructured Multi-Turn Dialogue Systems.
+Lifelong Learning of Discriminative Representations.
+Design and Evaluation of a Flexible Interface for Spatial Navigation.
+Online Planning Algorithms for POMDPs.
+Automatically characterizing driving activities onboard smart wheelchairs from accelerometer data.
+Bayes-Adaptive POMDPs.
+Spoken Dialogue Management Using Probabilistic Reasoning.
+A bistable computational model of recurring epileptiform activity as observed in rodent slice preparations.
+Development and Validation of a Robust Speech Interface for Improved Human-Robot Interaction.
+Practical Kernel-Based Reinforcement Learning.
+Bayesian Reinforcement Learning: A Survey.
+Policy Iteration Based on Stochastic Factorization.
+Designing Intelligent Wheelchairs: Reintegrating AI.
+Learning Robust Features using Deep Learning for Automatic Seizure Detection.
+Improving the Design and Discovery of Dynamic Treatment Strategies Using Recent Results in Sequential Decision-Making.
+Online Ensemble Learning for Imbalanced Data Streams.
+POMDP Planning for Robust Robot Control.
+Automatically suggesting topics for augmenting text documents.
+Completing wikipedia's hyperlink structure through dimensionality reduction.
+Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models.
+Time Series Analysis Using Geometric Template Matching.
+Recurrent Boosting for Classification of Natural and Synthetic Time-Series Data.
+Treating Epilepsy via Adaptive Neurostimulation: a Reinforcement Learning Approach.
+Active Learning in Partially Observable Markov Decision Processes.
+Reinforcement learning with limited reinforcement: Using Bayes risk for active learning in POMDPs.
+Learning from Limited Demonstrations.
+On the Evaluation of Dialogue Systems with Next Utterance Classification.
+Bayesian reinforcement learning for POMDP-based dialogue systems.
+Mixed Observability Predictive State Representations.
+Analyzing Open Data from the City of Montreal.
+PAC-Learning of Markov Models with Hidden State.
+Socially Adaptive Path Planning in Human Environments Using Inverse Reinforcement Learning.
+Modelling Sparse Dynamical Systems with Compressed Predictive State Representations.
+Reinforcement Learning with Limited Reinforcement: Using Bayes Risk for Active Learning in POMDPs.
+A bayesian reinforcement learning approach for customizing human-robot interfaces.
+Fast reinforcement learning of dialog strategies.
+Generalized Dictionary for Multitask Learning with Boosting.
+Variable resolution decomposition for robotic navigation under a POMDP framework.
+Non-Deterministic Policies in Markovian Decision Processes.
+Bayes-Adaptive POMDPs: A New Perspective on the Explore-Exploit Tradeoff in Partially Observable Domains.
+Information Gathering and Reward Exploitation of Subgoals for POMDPs.
+Conditional Computation in Neural Networks for faster models.
+Manifold Embeddings for Model-Based Reinforcement Learning under Partial Observability.
+Maximum Mean Discrepancy Imitation Learning.
+Bellman Error Based Feature Generation using Random Projections on Sparse Spaces
+A Framework for Computing Bounds for the Return of a Policy.
+Efficient Learning and Planning with Compressed Predictive States.
+The Duality of State and Observation in Probabilistic Transition Systems.
+Online Boosting Algorithms for Anytime Transfer and Multitask Learning.
+Adaptive Treatment of Epilepsy via Batch-mode Reinforcement Learning.
+Apprentissage actif dans les processus décisionnels de Markov partiellement observables L'algorithme MEDUSA.
+A Survey of Available Corpora for Building Data-Driven Dialogue Systems.
+A Bayesian Approach for Learning and Planning in Partially Observable Markov Decision Processes.
+A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues.
+Representing Systems with Hidden State.
+Policy-contingent abstraction for robust robot control
+A Variance Analysis for POMDP Policy Evaluation.
+Bayesian reinforcement learning in continuous POMDPs with application to robot navigation.
+Multi-tasking SLAM.
+RRT-Plan: A Randomized Algorithm for STRIPS Planning.
+PAC-Bayesian Policy Evaluation for Reinforcement Learning.
+Building Adaptive Dialogue Systems Via Bayes-Adaptive POMDPs.
+Bellman Error Based Feature Generation using Random Projections on Sparse Spaces.
+How NOT To Evaluate Your Dialogue System: An Empirical Study of Unsupervised Evaluation Metrics for Dialogue Response Generation.
+On-line Reinforcement Learning Using Incremental Kernel-Based Stochastic Factorization.

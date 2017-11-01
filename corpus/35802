@@ -1,0 +1,2 @@
+STABILITY OF STOCHASTIC APPROXIMATION UNDER VERIFIABLE CONDITIONS
+ Abstract.  In this paper we address the problem of the stability and convergence of the stochastic approximation procedure #n+1 = fin + #n+1 [h(#n ) + #n+1 ].  The stability of such sequences {#n} is known to heavily rely on the behaviour of the mean field h at the boundary of the parameter set and the magnitude of the stepsizes used.  The conditions typically

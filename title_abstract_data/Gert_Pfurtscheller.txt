@@ -1,0 +1,88 @@
+A criterion for adaptive autoregressive models| Abstract - A criterion, similar to the information criterion of a stationary AR model, is introduced for an adaptive (non-stationary) autoregressive model.  It is applied to nonstationary EEG data.  It is shown that the criterion can be used to determine the update coefficient, the model order, and the estimation algorithm. 
+EOG AND ECG MINIMIZATION BASED ON REGRESSION ANALYSIS| Keywords: Sleep EEG, automatic analysis, EOG and ECG removal, regression analysis, Covariance method ABSTRACT: A method based on regression analysis is presented that can be used for automatic minimization of EOG and ECG artifacts in the sleep EEG. 
+Rapid Prototyping of an EEG-based Brain-Computer Interface (BCI)| This work was supported by the "Fonds zur Frderung der wissenschaftlichen Forschung", project P11208-MED, by the "Allgemeine Unfallversicherungsanstalt (AUVA)",
+Optimal spatial filtering of single trial EEG during imagined hand movement| Abstract The development of an EEG-based brain-computer interface (BCI) requires rapid and reliable discrimination of EEG patterns, e.  g. , associated with motor imagery.  One sided hand movement imagination results in EEG changes located at contra- and ipsilateral central areas.  We demonstrate that spatial filters for multi-channel EEG effectively extract discriminatory information from two populations of single-trial EEG, recorded during left and right hand movement imagery.  The best classification results for three subjects are 90. 8%, 92. 7%, and 99. 7%.  The spatial filters are estimated from a set of data by the method of Common Spatial Patterns and reflect the specific activation of cortical areas.  The method performs a weighting of the electrodes according to their importance for the classification task.  The high recognition rates and computational simplicity make it a promising method for an EEG-based brain-computer interface. 
+Conversion of EEG Activity Into Cursor Movement by a Brain--Computer Interface (BCI)| Abstract---The Wadsworth electroencephalogram (EEG)-based brain-computer interface (BCI) uses amplitude in mu or beta frequency bands over sensorimotor cortex to control cursor movement.  Trained users can move the cursor in one or two dimensions.  The primary goal of this research is to provide a new communication and control option for people with severe motor disabilities.  Currently, cursor movements in each dimension are determined 10 times/s by an empirically derived linear function of one or two EEG features (i. e. , spectral bands from different electrode locations).  This study used offline analysis of data collected during system operation to explore methods for improving the accuracy of cursor movement.  The data were gathered while users selected among three possible targets by controlling vertical [i. e. , one-dimensional (1-D)] cursor movement.  The three methods analyzed differ in the dimensionality of the cursor movement [1-D versus two-dimensional (2-D)] and in the type of the underlying function (linear versus nonlinear).  We addressed two questions: Which method is best for classification (i. e. , to determine from the EEG which target the user wants to hit)? How does the number of EEG features affect the performance of each method? All methods reached their optimal performance with 10--20 features.  In offline simulation, the 2-D linear method and the 1-D nonlinear method improved performance significantly over the 1-D linear method.  The 1-D linear method did not do so.  These offline results suggest that the 1-D nonlinear or the 2-D linear cursor function will improve online operation of the BCI system. 
+Presence research and EEG| Summary The fields of presence research and electroencephalography (EEG) are related in, at least, two ways.  Firstly, EEG can be used to analyse the neurophysiological phenomena related to presence research.  For example, EEG might be useful to investigate the question of `breaks in presence'.  Secondly, EEG can be used to control external devices with a so-called "brain computer interface" (BCI).  Such a BCI might be also used for controlling a virtual environment.  The basic properties of EEG and the state-of-the art of BCI research are reviewed.  An experiment with EEG-based feedback was performed and the amount of transferred information is presented.  Some consequences for using EEG in presence research are discussed. 
+SHORT COMMUNICATION Semantic memory retrieval: cortical couplings in object recognition in the N400 window| Abstract To characterize the regional changes in neuronal couplings and information transfer related to semantic aspects of object recognition in humans we used partial-directed EEG-coherence analysis (PDC).  We examined the differences of processing recognizable and unrecognizable pictures as reflected by changes in cortical networks within the time-window of a determined event-related potential (ERP) component, namely the N400.  Fourteen participants performed an image recognition task, while sequentially confronted with pictures of recognizable and unrecognizable objects.  The time-window of N400 as indicative of object semantics was defined from the ERP.  Differences of PDC in the beta-band between these tasks were represented topographically as patterns of electrical couplings, possibly indicating changing degrees of functional cooperation between brain areas.  Successful memory retrieval of picture meaning appears to be supported by networks comprising left temporal and parietal regions and bilateral frontal brain areas. 
+Using a Brain-Computer Interface in Highly-Immersive Virtual Reality| Abstract--- We are in the early stages of investigating the usage of a brain-computer interface in a CAVE-like virtual-reality environment.  Our goal is to evaluate how people respond to such an interface, and how their response is related to their sense of presence in the virtual environment.  In this presentation we will describe the system we are using and the motivation for this research. 
+The BCI Competition 2003: Progress and Perspectives in Detection and Discrimination of EEG Single Trials| Abstract--- Interest in developing a new method of man-tomachine communication---a brain-computer interface or BCI--has grown steadily over the past few decades.  BCIs create a new communication channel between the brain and an output device by bypassing conventional motor output pathways of nerves and muscles.  These systems use signals recorded from the scalp, the surface of the cortex, or from inside the brain to enable users to control a variety of applications including simple word-processing software and orthotics.  BCI technology could therefore provide a new communication and control option for individuals who cannot otherwise express their wishes to the outside world.  Signal processing and classification methods are essential tools in the development of improved BCI technology.  We organized the BCI Competition 2003 to evaluate the current state of the art of these tools.  Four laboratories well versed in EEG-based BCI research provided six data sets in a documented format.  We made these data sets (i. e. , labeled training sets and unlabeled test sets) and their descriptions available on the Internet.  The goal in the competition was to maximize the performance measure for the test labels.  Researchers worldwide tested their algorithms and competed for the best classification results.  This article describes the six data sets and the results and function of the most successful algorithms. 
+GDF - A GENERAL DATAFORMAT FOR BIOSIGNALS VERSION 1|25.  Last modification: April 15 th , 2004: Alois Schlgl, Inclusion of event table April 29 th , 2004: Alois Schlgl, typos in table 2 fixed May 06 th , 2004: Alois Schlgl, update online links to the EDF sites.  Aug 12 th , 2004: Alois Schlgl, include table of event codes Dez 7 th , 2004: Alois Schlgl, Samplerate associated with Events saved in Eventtable Mar 29 th , 2005: AS, typos fixed ABSTRACT Interdisciplinary and/or multi-centre research projects require a common format for data exchange.  The European data format for bio-signals (EDF) is a widely accepted standard.  This paper proposes modifications to overcome some limitations of EDF.  In addition to 16-bit integer numbers, various other data types including floating point numbers and strings are supported.  Moreover, the Y2K problem is addressed and an automatic overflow detection of the data is incorporated.  Data can be stored in time-based as well as in channel-based order.  Some preparatory measures for a quality management system in recording scientific data in the clinical routine are implemented, e. g.  fields for the identification of the equipment provider, serial number, lab, and technician included.  Since the modifications are not possible within the present definition of EDF, the proposed format is named "A General Data format for Biosignals" (GDF). 
+Real-time EEG analysis with subject-specific spatial patterns for a brain-computer interface (BCI),|
+EEG-based communication: Presence of an error potential,|
+Brain-computer interfaces for communication and control",|
+"EEG Classification by Learning Vector Classification|". 
+Selective averaging of the intracerebral click evoked responses in man: an improved method of measuring latencies and amplitudes,|
+Eventrelated cortical desynchronization detected by power measurements of scalp EEG|
+Automated feature selection with a distinction sensitive learning vector quantizer|
+Prompt Recognition of Brain States by their EEG Signals|
+Separability of EEG signals recorded during right and left motor imagery using adaptive autoregressive parameters|
+Motor imagery activates primary sensorimotor areas,|
+Graphical display and statistical evaluation of event-related desynchronization (ERD),"|
+Mapping procedures,|
+Designing optimal spatial filters for single-trial EEG classification in a movement task",|
+Mapping of event-related desynchronization and type of derivation|
+EEG-based discrimination between imagination of right and left hand movement,|
+Event-related EEG/MEG synchronization and desynchronization: basic principles|
+Phase relationships between different subdural electrode recordings in man,|
+Do changes in coherence always reflect changes in functional coupling?|
+Learning to classify biomedical signals|
+EEG-based Brain Computer Interface (BCI),|
+Enhancement of leftright sensorimotor EEG differences during feedback-regulated motor imagery,|
+Discovering Patterns in EEG-Signals: Comparative Study of a Few Methods|
+Motor imagery and direct brain-computer communication,|
+Hidden Markov models for online classification of single trial EEG data|
+Artefact detection in sleep EEG by the use of Kalman filtering|
+Using Time-Dependent Neural Networks for EEG Classification",|
+EEG-based communication: improved accuracy by response verification|
+Estimating the mutal information of an EEG-based brain-computer interface,"|
+Information Transfer Rate in a Five-Classes Brain-Computer Interface",|
+Current trends in graz brain-computer interface (bci) research|
+HMM used for the oine classification of EEG data,|
+Schlgl A, Obermaier B, Pregenzer M| Current trends in Graz Brain-Computer Interface (BCI) research. 
+Moter imagery and direct braincomputer communication,|
+Graz-BCI: State of the art and clinical applications,|
+"Navigation in virtual environments through motor imagery,|
+Brain-computer interface--A new communication device for handicapped persons,|
+Using adaptive autoregressive parameters for a brain-computer-interface experiment,|
+"Information transfer of an EEG-based brain-computer interface|
+BCI2000: A general purpose brain-computer interface,"|
+EEG-based communication: Evaluation of alternative signal prediction methods,|
+AI-based approach to automatic sleep classification|
+Evaluation of Event-Related Desynchronization (ERD) Preceding and Following Voluntary Self-Paced Movement|
+Frequency component selection for an EEG-based brain to computer interface|
+Human movement-related potentials vs desynchronization of EEG alpha rhythm: A high-resolution EEG study|
+Event-related coherence as a tool for studying dynamic interactions of brain regions|
+Hz oscillations during motor behavior in man|
+EEG-based brain computer communication: Improvement by Bayesian discriminant analysis,"|
+Classification of non-averaged EEG data by learning vector quantization and the influence of signal preprocessing,|
+Dynamic spectral analysis of event-related EEG data|
+On the realization of an analytic high-resolution EEG|
+Event-related changes of band power and coherence: methodology and interpretation|
+Differentiation Between Finger, Toe, and Tongue Movement in Man Based on 40 Hz EEG|
+Neural network based classification of non-averaged event-related EEG responses,|
+Considerations on adaptive autoregressive modelling in EEG Analysis,|
+Estimation of Adaptive Autoregressive Parameters using Kalman filtering|
+Automatic Differentiation of Multichannel EEG Signals",|
+Quality Control of polysomnographic Sleep Data by Histogram and Entropy Analysis|
+Adaptive autoregressive modeling used for singletrial EEG classification Biomedizinische Technik (submitted)|
+Alpha frequency and memory performance|
+Neural network-based predictions of hand movements using simulated and real EEG data|
+Prediction of the side of hand movements from single-trial multi-channel EEG data using neural networks|
+Suitability of learning vector quatization for on-line learning: A case study of EEG classification|
+Neural network based classification of single-trial EEG data|
+A new approach to a brain-computer-interface (BCI) based on learning vector quantization (LVQ3)|
+Feature selection with distinction sensitive learning vector quantisation and genetic algorithms|
+Graz Brain-Computer Interface (BCI) II|
+Toward a direct brain interface based on human subdural recordings and wavelet-packet analysis|
+EEG event-related desynchronization (ERD) and synchronization (ERS)|
+Event-related synchronization of mu rhythm in the EEG over the cortical hand area in man|
+Feature extraction for on-line EEG classification using principal components and linear discriminants,"|
+On-line EEG classification during externally-paced hand movements using a neural network-based classifier,"|
+Graz Brain-Computer Interface II: towards communication between humans and computers based on online classification of three different EEG patterns,"|
+Design of an EEG-based braincomputer interface (BCI) from standard components running in real-time under Windows,"|
+Lexical memory search during N400: cortical couplings in auditory comprehension|
+Computational model of thalamo-cortical networks: dynamical control of alpha rhythms in relation to focal attention|
+Sleep classification in infants by decision tree-based neural networks|
+Subject specific eeg patterns during motor imagery|
+Selection of Electrode Positions for an EEG-based Brain-Computer Interface|

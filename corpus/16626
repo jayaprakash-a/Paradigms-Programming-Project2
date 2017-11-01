@@ -1,0 +1,2 @@
+UCLA-CSD-TR030014 Dynamic Texture Segmentation
+ Abstract We address the problem of segmenting a sequence of images of natural scenes into disjoint regions that are characterized by constant spatio-temporal signatures.  We use simple linear-Gaussian models, and infer the signatures as well as the boundary of the regions in a variational optimization framework.  Our technique is effective in segmenting regions that differ in their dynamics even when spatial statistics are identical.

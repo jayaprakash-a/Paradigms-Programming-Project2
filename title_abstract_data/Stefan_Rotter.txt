@@ -1,0 +1,8 @@
+Learning input correlations through non-linear temporally asymmetric Hebbian plasticity|
+Inference of hand movements from local field potentials in monkey motor cortex|
+Analysis ofhigher-order neuronal interactions based on conditional inference,|
+Statistical Significance of Coincident Spikes: Count-Based Versus Rate-Based Statistics|
+Effect of variations in lipopolysaccharide on the fluidity of the outer membrane of Escherichia coli|
+Neural dynamics in cortical networks -- precision of joint-spiking events|
+Neural interactions in the frontal cortex of a behaving monkey: signs of dependence on stimulus context and behavioral state|
+Elimination of response latency variability in neuronal spike trains|

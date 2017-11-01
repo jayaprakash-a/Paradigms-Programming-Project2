@@ -1,0 +1,2 @@
+Online Fitted Reinforcement Learning
+ Abstract My paper in the main portion of the conference deals with fitted value iteration or Qlearning for offline problems, i. e. , those where we have a model of the environment so that we can examine arbitrary transitions in arbitrary order.  The same techniques also allow us to do Q-learning for an online problem, i. e. , one where we have no model but must instead perform experiments inside the MDP to gather data.  I will describe how.

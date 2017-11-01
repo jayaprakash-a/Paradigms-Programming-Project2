@@ -1,0 +1,2 @@
+Algorithms for GPS operation indoors and downtown
+ Abstract The proliferation of mobile devices and the emergence of wireless location-based services has generated consumer demand for availability of GPS in urban and indoor environments.  This demand calls for enhanced GPS algorithms that accommodate high degrees of signal attenuation and multipath effects unique to the "urban channel. " This paper overviews the market for location-based services and discusses algorithmic innovations that address challenges posed by urban environments.

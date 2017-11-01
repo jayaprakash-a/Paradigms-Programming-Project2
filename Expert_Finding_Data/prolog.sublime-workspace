@@ -1,0 +1,810 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"test",
+				"test_x"
+			],
+			[
+				"tes",
+				"test_y"
+			],
+			[
+				"train",
+				"train_index"
+			],
+			[
+				"bes",
+				"best_n_estimators"
+			],
+			[
+				"par",
+				"param_grid"
+			],
+			[
+				"max",
+				"max_features"
+			],
+			[
+				"tra",
+				"trained_model"
+			],
+			[
+				"counter",
+				"counter_index"
+			],
+			[
+				"su",
+				"suc_list"
+			],
+			[
+				"in",
+				"in_map"
+			],
+			[
+				"out",
+				"out_map_list"
+			],
+			[
+				"def",
+				"def_n"
+			],
+			[
+				"At",
+				"AtomRedBlackMap"
+			],
+			[
+				"use",
+				"use_map"
+			],
+			[
+				"A",
+				"AtomRedBlackMap"
+			],
+			[
+				"init",
+				"init_use_list"
+			],
+			[
+				"NO",
+				"Node"
+			],
+			[
+				"int",
+				"int_node_list"
+			],
+			[
+				"ord",
+				"ord_key"
+			],
+			[
+				"li",
+				"list"
+			],
+			[
+				"us",
+				"use_map"
+			],
+			[
+				"l",
+				"list_nodes"
+			],
+			[
+				"add_edge_",
+				"add_edge_succ"
+			],
+			[
+				"p",
+				"pred_graph"
+			],
+			[
+				"re",
+				"ready_process"
+			],
+			[
+				"rea",
+				"ready_index"
+			],
+			[
+				"REa",
+				"READY_LIST"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"no",
+				"noofpart"
+			],
+			[
+				"med",
+				"medium-hard"
+			],
+			[
+				"ea",
+				"easy-medium"
+			],
+			[
+				"fol",
+				"folder"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"res",
+				"result_dict"
+			],
+			[
+				"fil",
+				"file"
+			],
+			[
+				"di",
+				"dict_file"
+			],
+			[
+				"text_li",
+				"text_line_divided"
+			],
+			[
+				"text_l",
+				"text_line_divided"
+			],
+			[
+				"doc",
+				"document_word_count"
+			],
+			[
+				"clo",
+				"close"
+			],
+			[
+				"docum",
+				"document_word_count"
+			],
+			[
+				"rule_",
+				"rule_6"
+			],
+			[
+				"rul",
+				"rule_6"
+			],
+			[
+				"ru",
+				"rule_5"
+			],
+			[
+				"rule",
+				"rule_4"
+			],
+			[
+				"ter_",
+				"ter_three"
+			],
+			[
+				"ter",
+				"ter_one"
+			],
+			[
+				"non",
+				"non_ter_A"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"map",
+				"map_item"
+			],
+			[
+				"find",
+				"find_symbol_list"
+			],
+			[
+				"i",
+				"int"
+			],
+			[
+				"ma",
+				"malloc"
+			],
+			[
+				"fa",
+				"fahr_to_celsius"
+			],
+			[
+				"tim",
+				"time_temp"
+			],
+			[
+				"ce",
+				"celsius_greater_than_fifty"
+			],
+			[
+				"index_",
+				"index_two"
+			],
+			[
+				"index",
+				"index_two"
+			],
+			[
+				"file_index",
+				"file_index_two"
+			],
+			[
+				"fi",
+				"filename"
+			],
+			[
+				"tem",
+				"temp_dictionary"
+			],
+			[
+				"do",
+				"document_two_norm"
+			],
+			[
+				"resu",
+				"result_file_name"
+			],
+			[
+				"cl",
+				"close"
+			],
+			[
+				"so",
+				"sorted_result"
+			],
+			[
+				"en",
+				"ensure_dir"
+			],
+			[
+				"o",
+				"output_folder_path"
+			],
+			[
+				"document_",
+				"document_dictionary"
+			],
+			[
+				"fold",
+				"folder_path"
+			],
+			[
+				"t",
+				"tf_key"
+			],
+			[
+				"documen",
+				"document_dictionary"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"docu",
+				"document_word_count"
+			],
+			[
+				"w",
+				"document_word_count"
+			],
+			[
+				"key",
+				"keys"
+			],
+			[
+				"m",
+				"my_dictionary"
+			],
+			[
+				"cr",
+				"create_dictionary"
+			],
+			[
+				"s",
+				"string"
+			],
+			[
+				"min",
+				"min_quad"
+			],
+			[
+				"mi",
+				"minimum"
+			],
+			[
+				"wo",
+				"word"
+			],
+			[
+				"wor",
+				"word_file"
+			],
+			[
+				"dict",
+				"my_dictionary"
+			],
+			[
+				"te",
+				"text_document"
+			],
+			[
+				"n",
+				"norm_1"
+			],
+			[
+				"my",
+				"mydict2"
+			],
+			[
+				"myd",
+				"mydict2"
+			],
+			[
+				"de",
+				"delimiters"
+			],
+			[
+				"text",
+				"text_line"
+			],
+			[
+				"dif",
+				"difference_matrix"
+			],
+			[
+				"lin",
+				"lines_train_label"
+			],
+			[
+				"er",
+				"err_list"
+			],
+			[
+				"matr",
+				"matrix_diff"
+			],
+			[
+				"mt",
+				"matrix_diff"
+			],
+			[
+				"d",
+				"dot"
+			],
+			[
+				"to",
+				"total"
+			],
+			[
+				"e",
+				"error_train_matrix"
+			],
+			[
+				"matrix",
+				"matrix_to_be_inverted"
+			],
+			[
+				"err",
+				"error_output_matrix"
+			],
+			[
+				"we",
+				"weight_vector_prev"
+			],
+			[
+				"weigh",
+				"weight_vector_prev"
+			],
+			[
+				"weig",
+				"weight_vector_prev"
+			],
+			[
+				"wei",
+				"weight_vector"
+			],
+			[
+				"tr",
+				"transpose"
+			],
+			[
+				"gr",
+				"gradient_matrix"
+			],
+			[
+				"ra",
+				"range"
+			],
+			[
+				"row",
+				"row_number"
+			],
+			[
+				"lam",
+				"lam_list"
+			],
+			[
+				"c",
+				"close"
+			],
+			[
+				"file_v",
+				"file_valid_results"
+			],
+			[
+				"op",
+				"opt_hyper"
+			],
+			[
+				"fea",
+				"feature_validate_matrix"
+			],
+			[
+				"fe",
+				"feature_validate_matrix"
+			],
+			[
+				"f",
+				"feature_validate_matrix"
+			],
+			[
+				"ou",
+				"output_validate_matrix"
+			],
+			[
+				"Cou",
+				"Course"
+			],
+			[
+				"st",
+				"student_list"
+			],
+			[
+				"ge",
+				"get_courses"
+			],
+			[
+				"cou",
+				"course_code"
+			],
+			[
+				"cour",
+				"courses"
+			],
+			[
+				"mai",
+				"__main__"
+			],
+			[
+				"x",
+				"xpoints"
+			],
+			[
+				"sum",
+				"sum_integers"
+			],
+			[
+				"set",
+				"set_integer"
+			],
+			[
+				"list",
+				"list_integer"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/jayaprakash/Paradigms-of-programming/prolog/graph-color.pl",
+			"settings":
+			{
+				"buffer_size": 235,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/jayaprakash/Paradigms-of-programming/prolog/queen.pl",
+			"settings":
+			{
+				"buffer_size": 799,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 358.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"prolo",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"pac",
+				"Indentation: Convert to Spaces"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jayaprakash/Paradigms-of-programming/prolog"
+	],
+	"file_history":
+	[
+		"/home/jayaprakash/Paradigms-of-programming/prolog/test.pl",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-10/int6.spl",
+		"/home/jayaprakash/Downloads/os/s10 /exhandler.xsm",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-10/int7.spl",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-10/int5.spl",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-10/startup.spl",
+		"/home/jayaprakash/Downloads/s10 /int6.spl",
+		"/home/jayaprakash/Downloads/s10 /int7.spl",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-10/exhandler.spl",
+		"/home/jayaprakash/Downloads/os/s10 /exhn.spl",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-11/startup.spl",
+		"/home/jayaprakash/Downloads/os/s10 /os_startup.spl",
+		"/home/jayaprakash/Downloads/a51.sml",
+		"/home/jayaprakash/github projects/compilers-lab/compilers/Ass4/liveliness.sml",
+		"/home/jayaprakash/github projects/compilers-lab/compilers/Ass3/basicblock.sml",
+		"/home/jayaprakash/github projects/compilers-lab/compilers/Ass2/ass2.sml",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-11/wait.apl",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-11/int5.spl",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-11/int7.spl",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-11/int5.spl~",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-9/int5.spl",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-9/startup.spl",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-9/int7.spl",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-9/pid.apl",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-9/ppid.apl",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-9/menu.apl",
+		"/home/jayaprakash/github projects/myxos-personal/myxos/stage-9/load-instr.txt",
+		"/media/jayaprakash/Data/Github/Coding-contest/Codechef/Contests/LongChallenge/OCT17/balanced.cpp",
+		"/home/jayaprakash/Paradigms-of-programming/haskell/isPalindrome.hs",
+		"/home/jayaprakash/Paradigms-of-programming/haskell/cluster.hs",
+		"/home/jayaprakash/Paradigms-of-programming/haskell/mergesort.hs",
+		"/home/jayaprakash/Paradigms-of-programming/haskell/bubblesort.hs",
+		"/home/jayaprakash/string.cpp",
+		"/home/jayaprakash/github projects/Paradigms-Programming-Project1/dict.txt",
+		"/home/jayaprakash/github projects/Paradigms-Programming-Project1/temp.txt",
+		"/home/jayaprakash/github projects/Paradigms-Programming-Project1/dict_functions.py",
+		"/home/jayaprakash/github projects/Paradigms-Programming-Project1/create_dict.py",
+		"/home/jayaprakash/github projects/Paradigms-Programming-Project1/result.py",
+		"/home/jayaprakash/github projects/Paradigms-Programming-Project1/diff.py",
+		"/home/jayaprakash/Downloads/test.sml",
+		"/home/jayaprakash/cfg_type.sml"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/jayaprakash/Paradigms-of-programming/prolog"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/jayaprakash/Paradigms-of-programming/prolog/graph-color.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								31,
+								31
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Prolog/support/Prolog.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/jayaprakash/Paradigms-of-programming/prolog/queen.pl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								293
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Prolog/support/Prolog.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 272.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

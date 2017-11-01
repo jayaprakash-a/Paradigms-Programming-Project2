@@ -1,0 +1,2 @@
+IN-HAND MANIPULATION: GEOMETRY AND ALGORITHMS
+ Abstract: This paper addresses the problem of manipulating three-dimensional objects with a reconfigurable gripper.  A detailed analysis of the problem geometry in configuration space is used to devise a simple and efficient algorithm for manipulation planning.  The proposed approach has been implemented and preliminary simulation experiments are discussed.

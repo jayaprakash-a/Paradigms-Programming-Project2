@@ -1,0 +1,2 @@
+Forming beliefs about a changing world \Lambda
+ Abstract The situation calculus is a popular technique for reasoning about action and change.  However, its restriction to a firstorder syntax and pure deductive reasoning makes it unsuitable in many contexts.  In particular, we often face uncertainty, due either to lack of knowledge or to some probabilistic aspects of the world.  While attempts have been made to address aspects of this problem, most notably using nonmonotonic reasoning

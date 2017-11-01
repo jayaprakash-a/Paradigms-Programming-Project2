@@ -1,0 +1,2 @@
+Rhythmic Interaction with a Mobile Device
+ ABSTRACT We describe a rhythmic interaction mechanism for mobile devices.  A PocketPC with a three degree of freedom linear acceleration meter is used as the experimental platform for data acquisition.  Dynamic Movement Primitives are used to learn the limit cycle behavior associated with the rhythmic gestures.  We outline the open technical and user experience challenges in the development of usable rhythmic interfaces.

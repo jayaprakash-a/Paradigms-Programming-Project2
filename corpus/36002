@@ -1,0 +1,2 @@
+Phase Transition and Search Cost in the 2+p--SAT Problem
+ Jerusalem We give analytical and numerical results concerning a new Satisfiability problem for random Boolean expressions.  Our model smoothly interpolates between the polynomial 2--SAT problem and the NP--complete 3--SAT problem.  Possible consequences on the relationship between the statistical mechanics characterization of phase transitions -- particularly smooth second order RSB and first order RSB transitions -- and the onset of exponential behaviour in search algorithms are identified.

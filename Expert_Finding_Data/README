@@ -1,0 +1,18 @@
+
+This package consists of five text formatted files:
+
+titles.txt
+Titles and authors for papers from NIPS 2006.
+
+abstracts.txt
+Abstracts from those papers.
+
+reviewers.txt
+The reviewers each with an ID.
+
+training.txt
+This tab delimited file consist of slightly less than 15,000 author/paper
+pairs. The first column is the name of the author. The second column 
+contains the title of the paper and the abstract, if available. Papers that have more than one reviewer candidate as an author are duplicated, once for each author.
+
+

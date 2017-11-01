@@ -1,0 +1,2 @@
+Global Optimization of RBF Networks
+ Abstract Several modifications to parameter estimation in a Radial Basis Functions network are introduced.  These include a better initializing clustering algorithm and a full gradient descent on centers and weights after weights were found via a matrix inversion.  Performance comparison with other RBF algorithms is given on several data-sets.  It is found that The proposed method was found superior to Bishop's EM training algorithm, to Orr's method [1] for as well as a conventional implementation.

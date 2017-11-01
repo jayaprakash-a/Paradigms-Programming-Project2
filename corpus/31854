@@ -1,0 +1,2 @@
+Cost Functions and Model Combination for VaR--based Asset Allocation using Neural Networks
+ Abstract We introduce an asset-allocation framework based on the active control of the value-at-risk of the portfolio.  Within this framework, we compare two paradigms for making the allocation using neural networks.  The first one uses the network to make a forecast of asset behavior, in conjunction with a traditional mean-variance allocator for constructing the portfolio.  The second paradigm uses the network to directly make the portfolio allocation decisions.

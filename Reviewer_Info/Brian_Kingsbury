@@ -1,0 +1,86 @@
+A high-performance Cantonese keyword search system.
+The modulation spectrogram: in pursuit of an invariant representation of speech.
+Deep scattering spectra with deep neural networks for LVCSR tasks.
+Deep convolutional neural networks for LVCSR.
+Advances in speech transcription at IBM under the DARPA EARS program.
+Large vocabulary conversational speech recognition with the extended maximum likelihood linear transformation (EMLLT) model.
+Boosted MMI for model and feature-space discriminative training.
+Improvements to deep convolutional neural networks for LVCSR.
+Distributed speech recognition using noise-robust MFCC and traps-estimated manner features.
+An empirical study of confusion modeling in keyword search for low resource languages.
+Discriminative feature-space transforms using deep neural networks.
+Multilingual representations for low resource speech recognition and keyword search.
+The IBM 2004 Conversational Telephony System for Rich Transcription.
+Very deep multilingual convolutional neural networks for LVCSR.
+Large vocabulary conversational speech recognition with a subspace constraint on inverse covariance matrices.
+Machine translation in continuous space.
+Pseudo pitch synchronous analysis of speech with applications to speaker recognition.
+The IBM speech activity detection system for the DARPA RATS program.
+The IBM 2009 GALE Arabic speech transcription system.
+Scalable Minimum Bayes Risk Training of Deep Neural Network Acoustic Models Using Distributed Hessian-free Optimization.
+The IBM Attila speech recognition toolkit.
+Low-rank matrix factorization for Deep Neural Network training with high-dimensional output targets.
+Robust speech recognition using the modulation spectrogram.
+Evaluation of Proposed Modifications to MPE for Large Scale Discriminative Training.
+Recognizing reverberant speech with RASTA-PLP.
+A Comparison between Deep Neural Nets and Kernel Acoustic Models for Speech Recognition.
+Developing speech recognition systems for corpus indexing under the IARPA Babel program.
+Robust speech recognition in Noisy Environments: The 2001 IBM spine evaluation system.
+Exploiting diversity for spoken term detection.
+Very Deep Multilingual Convolutional Neural Networks for LVCSR.
+A comparison between deep neural nets and kernel acoustic models for speech recognition.
+Parallel deep neural network training for LVCSR tasks using blue gene/Q.
+Auto-encoder bottleneck features using deep belief networks.
+Order-free spoken term detection.
+Advances in Arabic Speech Transcription at IBM Under the DARPA GALE Program.
+Performance improvements through combining phone- and syllable-scale information in automatic speech recognition.
+Parallel Deep Neural Network Training for Big Data on Blue Gene/Q.
+The IBM 2006 Gale Arabic ASR System.
+SPERT-II: A Vector Microprocessor System and its Application to Large Problems in Backpropagation Training.
+A hybrid HMM/traps model for robust voice activity detection.
+Automated Quality Monitoring for Call Centers using Speech and NLP Technologies.
+Automatic speech recognition performance on a voicemail transcription task.
+Discriminative Training of Decoding Graphs for Large Vocabulary Continuous Speech Recognition.
+Efficient spoken term detection using confusion networks.
+System combination and score normalization for spoken term detection.
+New types of deep neural network learning for speech recognition and related applications: an overview.
+Data Augmentation for deep neural network acoustic modeling.
+Lattice-based optimization of sequence classification criteria for neural-network acoustic modeling.
+Recent improvements in neural network acoustic modeling for LVCSR in low resource languages.
+Trends and advances in speech recognition.
+Automated Quality Monitoring in the Call Center with ASR and Maximum Entropy.
+Fast decoding for open vocabulary spoken term detection.
+Improving deep neural network acoustic modeling for audio corpus indexing under the IARPA babel program.
+An architecture for rapid decoding of large vocabulary conversational speech.
+Arccosine kernels: Acoustic modeling with infinite neural networks.
+Learning filter banks within a deep neural network framework.
+Toward domain-independent conversational speech recognition.
+Mixtures of Bayesian joint factor analyzers for noise robust automatic speech recognition.
+Making Deep Belief Networks effective for large vocabulary continuous speech recognition.
+Rapid and inexpensive development of speech action classifiers for natural language call routing systems.
+Efficient one-vs-one kernel ridge regression for speech recognition.
+Audio-visual deep learning for noise robust speech recognition.
+Incorporating information from syllable-length time scales into automatic speech recognition.
+Artificial intelligence research at IBM.
+Spert-II: A Vector Microprocessor System.
+How to Scale Up Kernel Methods to Be As Good As Deep Neural Nets.
+An evaluation of a nonlinear feature transformation for conversational speech recognition.
+Discriminative graph training for ultra-fast low-footprint speech indexing.
+Compact kernel models for acoustic modeling via random feature selection.
+The IBM 2008 GALE Arabic speech transcription system.
+Deep Convolutional Neural Networks for Large-scale Speech Tasks.
+Improvements to filterbank and delta learning within a deep neural network framework.
+Recent improvements in speech recognition performance on large vocabulary conversational speech (voicemail and switchboard).
+Optimization Techniques to Improve Training Speed of Deep Neural Networks for Large Speech Tasks.
+fMPE: Discriminatively Trained Features for Speech Recognition.
+Data augmentation for deep convolutional neural network acoustic modeling.
+Improving training time of Hessian-free optimization for deep neural networks using preconditioning and sampling.
+Contructing Ensembles of ASR Systems Using Randomized Decision Trees.
+Data Augmentation for Deep Neural Network Acoustic Modeling.
+Monte Carlo model-space noise adaptation for speech recognition.
+Tied-Mixture Language Modeling in Continuous Space.
+Improvements to Deep Convolutional Neural Networks for LVCSR.
+The IBM 2011 GALE Arabic speech transcription system.
+Automatic keyword selection for keyword search development and tuning.
+Accelerating Hessian-free optimization for Deep Neural Networks by implicit preconditioning and sampling.
+A multi-region deep neural network model in speech recognition.

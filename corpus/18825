@@ -1,0 +1,2 @@
+Learning a Gaussian Process Model with Uncertain Inputs
+ Abstract Learning with uncertain inputs is well-known to be a difficult task.  In order to achieve this analytically using a Gaussian Process prior model, we expand the original process around the input mean (Delta method), assuming the random input is normally distributed.  We thus derive a new process whose covariance function accounts for the randomness of the input.  We illustrate the effectiveness of the proposed model on a simple static simulation example and on the modelling of a nonlinear noisy time-series.

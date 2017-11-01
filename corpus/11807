@@ -1,0 +1,2 @@
+Local convergence of variational Bayes estimators for mixing coefficients
+ Abstract In this paper we prove theoretically that for mixture models involving known component densities the variational Bayes estimator converges locally to the maximum likelihood estimator at the rate of O(1/n) in the large sample limit.

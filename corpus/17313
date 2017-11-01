@@ -1,0 +1,2 @@
+Computing the effective diffusivity using a spectral method
+ Abstract We developed a numerical method for computing the effective properties of a microstructure.  The method is particularly efficient and accurate for microstructures with a diffuse-interface description similar to those generated from phase-field simulations.  In particular, we considered the diffusive transport property of a microstructure by solving the steady-state diffusion equation using a Fourier -- Chebyshev spectral method.

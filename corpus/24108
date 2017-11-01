@@ -1,0 +1,2 @@
+Bayesian Support Vector Regression
+ Abstract We show that the Bayesian evidence framework can be applied to both ffl-support vector regression (ffl-SVR) and -support vector regression (-SVR) algorithms.  Standard SVR training can be regarded as performing level one inference of the evidence framework, while levels two and three allow automatic adjustments of the regularization and kernel parameters respectively, without the need of a validation set.

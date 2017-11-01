@@ -1,0 +1,2 @@
+Semantic Role Labeling Via Generalized Inference Over Classifiers
+ Abstract We present a system submitted to the CoNLL2004 shared task for semantic role labeling.  The system is composed of a set of classifiers and an inference procedure used both to clean the classification results and to ensure structural integrity of the final role labeling.  Linguistic information is used to generate features during classification and constraints for the inference process.

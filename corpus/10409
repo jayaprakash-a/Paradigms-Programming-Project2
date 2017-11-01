@@ -1,0 +1,2 @@
+Using Crude Corrective Movements to Learn Accurate Motor Programs for Reaching
+ Abstract A computational model that uses crude corrective movements to learn accurate reaching programs is presented.  The model learns a feed-forward motor program in the form of pulse-step commands which drive a dynamic, 2 DOF, planar arm.  The arm is actuated by two pairs of opposing muscles, which drive the shoulder and elbow joints.  The model is able to learn motor programs that accurately bring the arm to the target, while producing in many cases bell-shaped tangential velocity profiles.

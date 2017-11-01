@@ -1,0 +1,2 @@
+Generalized Belief Propagation
+ Abstract Belief propagation (BP) was only supposed to work for tree-like networks but works surprisingly well in many applications involving networks with loops, including turbo codes.  However, there

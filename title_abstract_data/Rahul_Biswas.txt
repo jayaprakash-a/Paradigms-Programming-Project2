@@ -1,0 +1,35 @@
+A Probabilistic Approach to Inference with Limited Information in Sensor Networks| ABSTRACT We present a methodology for a sensor network to answer queries with limited and stochastic information using probabilistic techniques.  This capability is useful in that it allows sensor networks to answer queries effectively even when present information is partially corrupt and when more information is unavailable or too costly to obtain.  We use a Bayesian network to model the sensor network and Markov Chain Monte Carlo sampling to perform approximate inference.  We demonstrate our technique on the specific problem of determining whether a friendly agent is surrounded by enemy agents and present simulation results for it. 
+Exceptionally directional sources with photonic-bandgap crystals| Three-dimensional photonic-bandgap crystals are used to design and fabricate uniquely directional sources and receivers.  By utilizing the resonances of a Fabry--Perot cavity formed with photonic-bandgap crystals, we were able to create exceptionally directional sources by placing the sources within such a cavity.  Very good agreement between finite-difference time-domain calculations and the experiment is obtained.  Radiation patterns with half-power beam widths of less than 12 degrees were obtained.  2001 Optical Society of America
+ICEBERG: An Internet-core Network Architecture for Integrated Communications| Abstract--- In the ICEBERG project at U.  C.  Berkeley, we are
+Learning Hierarchical Object Maps of Non-Stationary Environments with Mobile Robots| environments.  The approach outperforms a previously developed non-hierarchical algorithm that models objects but lacks class templates. 
+Quantum Phase Transitions Outside the Wilson Landau Ginzburg Paradigm| Abstract We review certain aspects of quantum phase transititions.  We then report on certain recent theoretical advances in the study of quantum phase transitions in the context of two dimensional quantum magnets, which do not fit into the Ginbzburg-Landau-Wilson (GLW) formalism usually used to study phase transitions. 
+Parallel, adaptive finite element methods for conservation laws|
+Mesh Quality Control for Multiply-Refined Tetrahedral Grids|
+Towards object mapping in dynamic environments with mobile robots|
+Dynamics Simulation of Dissociation Kinetics,"|
+Photonic band gaps in three dimensions: new layer-by-layer periodic structures,|
+A three-dimensional photonic crystal operating at infrared wavelengths,|
+Communication studies of dmp and smp machines|
+An Adaptive Mesh Moving and Refinement Procedure for One-Dimensional Conservation Laws,|
+Anomalous ion diusion in dense dipolar liquids",|
+Ionic mobility in alcohols: from dielectric friction to solvent Berg model",|
+Political Lobbying and Discretionary Finance in India: An Aspect of Regional Political Influence in a Representative Democracy," processed,|
+A passive approach to sensor network localization|
+Transferable tight-binding models for silicon|
+All-metallic threedimensional photonic crystals with large infrared bandgap,|
+Parallel computation with adaptive methods for elliptic and hyperbolic systems|
+A dynamic mesh adaptation procedure for unstructured hexahedral meshes|
+Tetrahedral and hexahedral mesh adaptation for CFD problems|
+"An Edge-Based Solution-Adaptive Method Applied to the AIRPLANE Code,"|
+An internetcore network architecture for integrated communications|
+Design of Unstructured Adaptive (UA) NAS Parallel Benchmark Featuring Irregular, Dynamic Memory Accesses,|
+"On rough sets and fuzzy rough sets," Bulletin of the Polish Academy of Sciences,|
+Waveguides in twodimensional photonic bandgap materials,|
+NAS Applications and Advanced Architectures|
+Metallic Photonic Crystals at Optical Wavelengths",|
+All Metallic, Absolute Photonic Band Gap Three-Dimensional Photonic-Crystals for Energy Applications",|
+Waveguides in 3-D Metallic Photonic Band Gap Materials,|
+Parallel and Adaptive Methods for Hyperbolic Partial Differential Systems|
+Dipole antennas on photonic band gap crystals: experiment and simulation,"|
+Measurement of a three-dimensional photonic band gap in a crystal structure made of dielectric rods,"|
+"Terahertz spectroscopy of three-dimensional photonic band gap crystal,|

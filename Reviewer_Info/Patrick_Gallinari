@@ -1,0 +1,247 @@
+Learning Scoring Functions with Order-Preserving Losses and Standardized Supervision.
+Probabilistic Model for Structured Document Mapping.
+Semi-Supervised Learning with Explicit Misclassification Modeling.
+Erratum: SGDQN is Less Careful than Expected.
+On the relations between discriminant analysis and multilayer perceptrons.
+Solving multiclass support vector machines with LaRank.
+Stroke level HMMs for on-line handwriting recognition.
+Multi-view clustering of multilingual documents.
+"On the (Non-)existence of Convex, Calibrated Surrogate Losses for Ranking".
+Report on INEX 2008.
+From characters to words: dynamical segmentation and predictive neural networks.
+Multi-Modal Segmental Models for On-Line Handwriting Recognition.
+Iterative Multi-label Multi-relational Classification Algorithm for complex social networks.
+Représentations et régularisations pour la classification de sentiments.
+Apprentissage de comportements utilisateurs de produits hypermédias.
+Variable selection with neural networks.
+A self-training method for learning to rank with unlabeled data.
+Apprentissage de représentation pour la diffusion d'Information dans les réseaux sociaux.
+Génération automatique d'une structure hiérarchique de concepts et de documents à partir de corpus.
+Overview of the INEX 2008 XML Mining Track.
+Using Belief Networks and Fisher Kernels for Structured Document Classification.
+Representation Learning for Information Diffusion through Social Networks: an Embedded Cascade Model.
+Modeling Relational Data via Latent Factor Blockmodel
+Local search and pseudoinversion: an hybrid approach to neural network training.
+Recommandation et analyse de sentiments dans un espace latent textuel.
+UPMC/LIP6 at ImageCLEF's WikipediaMM: An Image-Annotation Model for an Image Search-Engine.
+Clustering en haute dimension par accumulation de clusterings locaux.
+The use of unlabeled data to improve supervised learning for text summarization.
+Global discrimination for neural predictive systems based on N-best algorithm.
+Integrating heuristic preferences into a neural understanding system.
+A comparison of discriminative classifiers for web news content extraction.
+Sequence Models for Automatic Highlighting and Surface Information Extraction.
+Generalization error bounds for classifiers trained with interdependent data.
+A generic approach for on-line handwriting recognition.
+Apprentissage de conversion de documents semi-structurés à partir d'exemples.
+Computational Experience with Pseudoinversion-Based Training of Neural Networks Using Random Projection Matrices.
+Preventing adverse drug events by extracting information from drug fact sheets.
+Flexible Grid-Based Clustering.
+A Hidden Markov Models combination framework for handwriting recognition.
+Temporal link prediction by integrating content and structure information.
+The Importance of the Depth for Text-Image Selection Strategy in Learning-To-Rank.
+Learning for Sequence Extraction Tasks.
+A Flexible Recognition Engine for Complex On-line Handwritten Character Recognition.
+Precision recall with user modeling (PRUM): Application to structured information retrieval.
+Diagnosis Tools for Telecommunication Network Traffic Management.
+Predicting information diffusion on social networks with partial knowledge.
+Ranking with non-random missing ratings: influence of popularity and positivity on evaluation metrics.
+Data Driven Design of an ANN/HMM System for On-line Unconstrained Handwritten Character Recognition.
+Graph Anonymization Using Machine Learning.
+Un modèle statistique pour la classification de documents structurés.
+Twelve Numerical, Symbolic and Hybrid Supervised Classification Methods.
+LSHTC: A Benchmark for Large-Scale Text Classification.
+Rejection measures for handwriting sentence recognition.
+Coping with the Document Frequency Bias in Sentiment Classification.
+Text Classification: A Sequential Reading Approach.
+Probabilistic Multi-classifier by SVM from voting rule to voting features.
+Apprentissage de fonctions d'ordonnancement par classification de paires ordonnées et pondérées (OWPC).
+Ré-ordonnancement pour l'apprentissage de transformations de documents HTML.
+Identification of Atrophy Patterns in Alzheimer's Disease Based on SVM Feature Selection and Anatomical Parcellation.
+OCReP: An Optimally Conditioned Regularization for pseudoinversion based neural training.
+Link prediction via latent factor BlockModel.
+Linear Bandits in Unknown Environments.
+Fast Reinforcement Learning with Large Action Sets Using Error-Correcting Output Codes for MDP Factorization.
+Learning States Representations in POMDP.
+Dynamic Data Capture from Social Media Streams: A Contextual Bandit Approach.
+Automatic Text Summarization Based on Word-Clusters and Ranking Algorithms.
+Lecture Séquentielle de Documents pour la Classification.
+Deep Sequential Neural Network.
+Classification dans les graphes hétérogènes basée sur une représentation latente des noeuds.
+Supervised and Semi-supervised Machine Learning Ranking.
+Apprentissage en temps réel pour la collecte d'information dans les réseaux sociaux.
+Learning latent representations of nodes for classifying in heterogeneous social networks.
+From Layout to Semantic: a Reranking Model for Mapping Web Documents to Mediated XML Representations.
+Extracting Information from Summary of Product Characteristics for Improving Drugs Prescription Safety.
+Sélection de modèles par des méthodes à noyaux pour la classification de données séquentielles.
+A Cross-Domain Recommendation Model for Cyber-Physical Systems.
+Learning social network embeddings for predicting information diffusion.
+Datum-Wise Classification: A Sequential Approach to Sparsity.
+A Belief Networks-Based Generative Model for Structured Documents. An Application to the XML Categorization.
+Learning Distributed Representations of Users for Source Detection in Online Social Networks.
+Bayesian network model for semi-structured document classification.
+Un modèle de mixture de modèles génératifs pour les documents structurés multimédias. Application à la classification de documents XML et HTML.
+Multiview semi-supervised ranking for automatic image annotation.
+Maximum mutual information training for an online neural predictive handwritten word recognition system.
+Machine Learning Ranking for Structured Information Retrieval.
+Neural networks for discrimination and modelization of speakers.
+Consortium AVEIR at ImageCLEFphoto 2008: on the Fusion of Runs.
+Improving document clustering in a learned concept space.
+Combining Statistical Models for Protein Secondary Structure Prediction.
+An analysis of numerical issues in neural training by pseudoinversion.
+Matrix Pseudoinversion for Image Neural Processing.
+A Model-Based Approach to Sequence Clustering.
+Utilisation de concepts visuels et de la diversité visuelle pour améliorer la recherche d'images.
+Classification automatique de documents structurés. Application au corpus d'arbres étiquetés de type XML.
+Modèle probabiliste pour l'extraction de structures dans les documents semistructurés - Application aux documents Web.
+An Hybrid MLP-SVM Handwritten Digit Recognizer.
+The Wikipedia XML Corpus.
+Optimal Linear Regression on Classifier Outputs.
+Filtrage collaboratif et intégration de la polarité des jugements.
+Using RankBoost to compare retrieval systems.
+Simulated Iterative Classification A New Learning Procedure for Graph Labeling.
+Cross-media sentiment classification and application to box-office forecasting.
+Extraction d'un vocabulaire de surprise par mélange de filtrage collaboratif et d'analyse de sentiments.
+Structured prediction with reinforcement learning.
+Exploitation du contenu visuel pour améliorer la recherche textuelle d'images en ligne.
+Combinaison de fonctions de préférence par boosting pour la recherche de passages dans les systèmes de question/réponse.
+Learnable Ranking Models for Automatic Text Summarization and Information Retrieval.
+Exploiting Visual Concepts to Improve Text-Based Image Retrieval.
+Experimental Evaluation of the Value of Structure: How to Efficiently Exploit Interdependencies in Sequence Labeling.
+Predictive Models for Sequence Modelling, Application to Speech and Character Recognition.
+Adaptive discrimination in an HMM-based neural predictive system for on-line word recognition.
+BioASQ: A Challenge on Large-Scale Biomedical Semantic Indexing and Question Answering.
+Multi-state predictive neural networks for text-independent speaker recognition.
+Sequential approaches for learning datum-wise sparse representations.
+Coupled Hierarchical IR and Stochastic Models for Surface Information Extraction.
+Apprentissage d'ordonnancements en recherche d'information structurée.
+On Effectiveness Measures and Relevance Functions in Ranking INEX Systems.
+Report on INEX 2009.
+Factorisation en matrices non négatives pour le filtrage collaboratif.
+Unsupervised Learning with Term Clustering for Thematic Segmentation of Texts.
+De l'utilisation d'OBD pour la sélection de variables dans les perceptrons multicouches.
+Dictionary Preselection in a Neuro-Markovian Word Recognition System.
+Machine Learning Ranking and INEX'05.
+Multilabel Classification on Heterogeneous Graphs with Gaussian Embeddings.
+Off-Line Cursive Word Recognition with a Hybrid Neural-HMM System.
+Classification and Tracking of Hypermedia Navigation Patterns.
+Bandit contextuel pour la capture de données temps réel sur les médias sociaux.
+Learning for Text Summarization Using Labeled and Unlabeled Sentences.
+Probabilistic Latent Tensor Factorization model for link pattern prediction.
+Report on the XML mining track at INEX 2007 categorization and clustering of XML documents.
+Robust Bloom Filters for Large MultiLabel Classification Tasks.
+Apprentissage de représentations probabilistes pour la prédiction de diffusions d'informations sur les réseaux sociaux.
+An Algebra for Structured Queries in Bayesian Networks.
+A Selective Sampling Strategy for Label Ranking.
+Apprentissage des schémas de propagation dans les multi-graphes.
+Apprentissage statistique pour la constitution des corpus d'évaluation.
+Document structure meets page layout: loopy random fields for web news content extraction.
+Overview of the INEX 2009 XML Mining Track: Clustering and Classification of XML Documents.
+Sequence Labeling with Reinforcement Learning and Ranking Algorithms.
+Choosing which message to publish on social networks: a contextual bandit approach.
+Report on the XML Mining Track at INEX 2005 and INEX 2006.
+Automatic learning of domain model for personalized hypermedia applications.
+Automatic Text Summarization Using Unsupervised and Semi-supervised Learning.
+State Sharing in a Hybrid Neuro-Markovian On-Line Handwriting Recognition System through a Simple Hierarchical Clustering Algorithm.
+Applications of Reinforcement Learning to Structured Prediction.
+Restructuration automatique de documents dans les corpus semi-structurés hétérogènes.
+Learning "Generalization/Specialization" Relations between Concepts - Application for Automatically Building Thematic Document Hierarchies.
+Extracting Diffusion Channels from Real-World Social Data: a Delay-Agnostic Learning of Transmission Probabilities.
+Sentence Recognition through Hybrid Neuro-Markovian Modeling.
+Learning to Rank for Collaborative Filtering.
+Représentation temporelle des mots : application au clustering de micro-blogs.
+A Ranking Based Model for Automatic Image Annotation in a Social Network.
+Multiple Multivariate Regression and Global Optimization in a Large Scale Thermodynamical Application.
+LIP6 at INEX'09: OWPC for Ad Hoc Track.
+Improving Image Annotation in Imbalanced Classification Problems with Ranking SVM.
+Résumé automatique de texte avec un algorithme d'ordonnancement.
+A Learning to Rank framework applied to text-image retrieval.
+Prediction and discrimination in neural networks for continuous speech recognition.
+Policies for Contextual Bandit Problems with Count Payoffs.
+Improved performance in protein secondary structure prediction by inhomogeneous score combination.
+Learning Information Spread in Content Networks.
+Comparison of Various AVEIR Visual Concept Detectors with an Index of Carefulness.
+Discriminative training for improved neural prediction systems.
+Un système d'aide à la navigation dans des hypermédias.
+An extension of PLSA for document clustering.
+Efficient Data Clustering by Local Density Approximation.
+Polarité des jugements et des interactions pour le filtrage collaboratif et la prédiction de liens sociaux.
+Machine Learning for Semi-structured Multimedia Documents: Application to Pornographic Filtering and Thematic Categorization.
+Latent Factor BlockModel for Modelling Relational Data.
+A hidden Markov model extension of a neural predictive system for on-line character recognition.
+Mining Ticketing Logs for Usage Characterization with Nonnegative Matrix Factorization.
+Extended Recommendation Framework: Generating the Text of a User Review as a Personalized Summary.
+Fast Reinforcement Learning with Large Action Sets using Error-Correcting Output Codes for MDP Factorization
+A Novel Multimodal Deep Neural Network Framework for Extending Knowledge Base.
+A Latent Representation Model for Sentiment Analysis in Heterogeneous Social Networks.
+Strategies for Combining On-line and Off-line Information in an On-line Handwriting Recognition System.
+Réseau de neurones profond et SVM pour la classification des sentiments.
+Sequentially Generated Instance-Dependent Image Representations for Classification.
+Éditorial.
+Characterizing Sequences of User Actions for Access Logs Analysis.
+A neural predictive approach for on-line cursive script recognition.
+A Bayesian Framework for XML Information Retrieval: Searching and Learning with the INEX Collection.
+Using Structure For Information Extraction In Html Documents.
+A Machine Learning based Approach to Evaluating Retrieval Systems.
+An MLP-SVM combination architecture for offline handwritten digit recognition: Reduction of recognition errors by Support Vector Machines rejection mechanisms.
+Iterative Annotation of Multi-relational Social Networks.
+Web-scale classification: web classification in the big data era.
+Relaxation Labeling for Selecting and Exploiting Efficiently Non-local Dependencies in Sequence Labeling.
+Latent Trajectory Modeling: A Light and Efficient Way to Introduce Time in Recommender Systems.
+Practical complexity control in multilayer perceptrons.
+Classification and annotation in social corpora using multiple relations.
+UPMC/LIP6 at ImageCLEFannotation 2010.
+Learning Classification with Both Labeled and Unlabeled Data.
+Text Classification: A Sequential Reading Approach
+SGD-QN: Careful Quasi-Newton Stochastic Gradient Descent.
+Datum-Wise Classification: A Sequential Approach to Sparsity
+Apprentissage automatique de la propagation des étiquettes dans les réseaux sociaux multirelationnels.
+Probabilistic Latent Tensor Factorization Model for Link Pattern Prediction in Multi-relational Networks
+Link Pattern Prediction with tensor decomposition in multi-relational networks.
+A system for the extraction and representation of summary of product characteristics content.
+Modèles d'Ordonnancement pour l'Annotation Automatique d'Images dans les Réseaux Sociaux.
+An Algebra for Probabilistic XML Retrieval.
+Speech processing and recognition using integrated neurocomputing techniques (Esprit Basic Research Action 3228: SPRINT).
+Using Visual Concepts and Fast Visual Diversity to Improve Image Retrieval.
+Semi-supervised learning with an imperfect supervisor.
+An overview of the BIOASQ large-scale biomedical semantic indexing and question answering competition.
+Learning to Extract Content from News Webpages.
+Knowledge base completion by learning pairwise-interaction differentiated embeddings.
+UPMC/LIP6 at ImageCLEFphoto 2008: on the Exploitation of Visual Concepts (VCDT).
+Graph Based Method Approach to the ImageCLEF2015 Task1 - Image Annotation.
+Report on the XML mining track at INEX 2005 and INEX 2006: categorization and clustering of XML documents.
+Recommandation par combinaison de filtrage collaboratif et d'analyse de sentiments.
+Neural and adaptive controllers for a non-minimum phase varying time-delay system.
+Apprentissage de Relations entre Concepts - Génération Automatique d'une Structuration Hiérarchique à partir de Corpus.
+XML Structure Mapping.
+Learning to summarise XML documents using content and structure.
+Structured multimedia document classification.
+Apprentissage d'un espace de concepts de mots pour une nouvelle représentation des données textuelles.
+Multiple multivariate regression and global sequence optimization: : An application to large-scale models of radiation intensity.
+A Comparative Study of Diversity Methods for Hybrid Text and Image Retrieval Approaches.
+Semi Supervised Logistic Regression.
+Online Handwritten Shape Recognition Using Segmental Hidden Markov Models.
+Information Access via Topic Hierarchies and Thematic Annotations from Document Collections.
+Analyse de la robustesse des algorithmes de méta-recherche discriminante.
+Ranking with ordered weighted pairwise classification.
+Filtrage Collaboratif avec un Algorithme d'Ordonnancement.
+UPMC/LIP6 at ImageCLEFannotation2009: Large Scale Visual Concept Detection and Annotation.
+Apprentissage d'une hiérarchie de concepts pour la conception de modèles de domaine d'hypermédias.
+Corpus-Based Structure Mapping of XML Document Corpora: A Reinforcement Learning Based Model.
+Learning Compact Class Codes for Fast Inference in Large Multi Class Classification.
+WhichStreams: A Dynamic Approach for Focused Data Capture from Large Social Media.
+Calibration and regret bounds for order-preserving surrogate losses in learning to rank.
+Neural models for extracting speaker characteristics in speech modelization systems.
+LIP6 at INEX'10: OWPC for Ad Hoc Track.
+Apprentissage non-supervisé pour la segmentation automatique de textes.
+Une méthode contextuelle d'extension de requête avec des groupements de mots pour le résumé automatique.
+Comparing neural networks and data analysis.
+Predicting Information Diffusion in Social Networks Using Content and User's Profiles.
+Leveraging Rating Behavior to Predict Negative Social Ties.
+A Framework for the Cooperation of Learning Algorithms.
+The Wikipedia XML corpus.
+Bayesian Networks and INEX.
+Cross-Domain Recommendation via Cluster-Level Latent Factor Model.
+A Machine Learning Model for Information Retrieval with Structured Documents.
+Classification de Sentiments Multi-Domaines et Passage à l'Echelle.
+Prédiction de liens temporels en intégrant les informations de contenu et de structure.
+OCReP: An Optimally Conditioned Regularization for Pseudoinversion Based Neural Training.

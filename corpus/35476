@@ -1,0 +1,2 @@
+Koorde: A Simple Degree-Optimal Distributed Hash Table
+ Abstract Koorde 1 is a new distributed hash table (DHT) based on Chord [15] and the de Bruijn graphs [2].  While inheriting the simplicity of Chord, Koorde meets various lower bounds, such as O(log n) hops per lookup request with only 2 neighbors per node (where n is the number of nodes in the DHT), and O(log n/ log log n) hops per lookup request with O(log n) neighbors per node.

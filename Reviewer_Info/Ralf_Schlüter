@@ -1,0 +1,157 @@
+Integrating Gaussian mixtures into deep neural networks: Softmax layer with hidden variables.
+A high-performance Cantonese keyword search system.
+Efficient nearly error-less LVCSR decoding based on incremental forward and backward passes.
+Acoustic Look-Ahead for More Efficient Decoding in LVCSR.
+Hierarchical bottle neck features for LVCSR.
+A Hybrid Morphologically Decomposed Factored Language Models for Arabic LVCSR.
+A combined maximum mutual information and maximum likelihood approach for mixture density splitting.
+Sequence-discriminative training of recurrent neural networks.
+A critical evaluation of stochastic algorithms for convex optimization.
+Log-Linear Optimization of Second-Order Polynomial Features with Subsequent Dimension Reduction for Speech Recognition.
+Phase difference of filter-stable part-tones as acoustic feature.
+RWTH LVCSR systems for quaero and EU-bridge: German, Polish, Spanish and Portuguese.
+Hierarchical hybrid language models for open vocabulary continuous speech recognition using WFST.
+Cross Domain Automatic Transcription on the TC-STAR EPPS Corpus.
+rwthlm - the RWTH aachen university neural network language modeling toolkit.
+Non-stationary feature extraction for automatic speech recognition.
+Investigation on log-linear interpolation of multi-domain neural network language model.
+Equivalence of Generative and Log-Linear Models.
+Investigations on error minimizing training criteria for discriminative training in automatic speech recognition.
+Silence is golden: Modeling non-speech events in WFST-based dynamic network decoders.
+Hierarchical neural networks feature extraction for LVCSR system.
+Using multiple acoustic feature sets for speech recognition.
+Discriminative Training for Automatic Speech Recognition: Modeling, Criteria, Optimization, Implementation, and Performance.
+Comparison of feedforward and recurrent neural network language models.
+Multilingual representations for low resource speech recognition and keyword search.
+The RWTH Large Vocabulary Speech Recognition System for Spontaneous Speech.
+Bag-of-words input for long history representation in neural network-based language models for speech recognition.
+Feature-rich sub-lexical language models using a maximum entropy approach for German LVCSR.
+On the equivalence of Gaussian and log-linear HMMs.
+The RWTH 2009 quaero ASR evaluation system for English and German.
+Using phase spectrum information for improved speech recognition performance.
+Comparison of discriminative training criteria.
+A convergence analysis of log-linear training and its application to speech recognition.
+The 2006 RWTH parliamentary speeches transcription system.
+Hybrid Language Models Using Mixed Types of Sub-Lexical Units for Open Vocabulary German LVCSR.
+Development of the SRI/nightingale Arabic ASR system.
+A Comprehensive Study of Deep Bidirectional LSTM RNNs for Acoustic Modeling in Speech Recognition.
+Convolutional neural networks for acoustic modeling of raw time signal in LVCSR.
+Investigation of Maximum Entropy Hybrid Language Models for Open Vocabulary German and Polish LVCSR.
+LSTM Neural Networks for Language Modeling.
+Acoustic Feature Combination for Robust Speech Recognition.
+Automatic Speech Recognition Based on Neural Networks.
+Feature combination using linear discriminant analysis and its pitfalls.
+Log-linear model combination with word-dependent scaling factors.
+Comparison of discriminative training criteria and optimization methods for speech recognition.
+Joining advantages of word-conditioned and token-passing decoding.
+Data augmentation, feature combination, and multilingual neural networks to improve ASR and KWS performance for low-resource languages.
+System combination and score normalization for spoken term detection.
+Gammatone Features and Feature Combination for Large Vocabulary Speech Recognition.
+An improved method for unsupervised training of LVCSR systems.
+Recent improvements of the RWTH GALE Mandarin LVCSR system.
+Novel tight classification error bounds under mismatch conditions based on f-Divergence.
+Parallel fast likelihood computation for LVCSR using mixture decomposition.
+Advanced search space pruning with acoustic look-ahead for WFST based LVCSR.
+Using posterior word probabilities for improved speech recognition.
+Articulatory motivated acoustic features for speech recognition.
+Development of the RWTH transcription system for slovenian.
+Cross-lingual portability of Chinese and english neural network features for French and German LVCSR.
+Sub-lexical language models for German LVCSR.
+Speaker adaptive joint training of Gaussian mixture models and bottleneck features.
+Generalized likelihood ratio discriminant analysis.
+Search Space Pruning Based on Anticipated Path Recombination in LVCSR.
+Acoustic modeling with deep neural networks using raw time signal for LVCSR.
+Relative error bounds for statistical classifiers based on the f-divergence.
+Non-stationary signal processing and its application in speech recognition.
+Lattice decoding and rescoring with long-Span neural network language models.
+Advances in Arabic broadcast news transcription at RWTH.
+Computing Mel-frequency cepstral coefficients on the power spectrum.
+RASR/NN: The RWTH neural network toolkit for speech recognition.
+Investigation on cross- and multilingual MLP features under matched and mismatched acoustical conditions.
+iROVER: Improving System Combination with Classification.
+Time conditioned search in automatic speech recognition reconsidered.
+Word pair approximation for more efficient decoding with high-order language models.
+Compound Word Recombination for German LVCSR.
+A GIS-like training algorithm for log-linear models with hidden variables.
+Evaluation of automatic transcription systems for the judicial domain.
+Speech recognition using context conditional word posterior probabilities.
+Subspace pursuit method for kernel-log-linear models.
+Extended search space pruning in LVCSR.
+The RWTH 2010 Quaero ASR evaluation system for English, French, and German.
+Robust speech recognition using a voiced-unvoiced feature.
+Investigating the use of morphological decomposition and diacritization for improving Arabic LVCSR.
+Training log-linear acoustic models in higher-order polynomial feature space for speech recognition.
+Context-Dependent MLPs for LVCSR: TANDEM, Hybrid or Both?
+Feature selection for log-linear acoustic models.
+The RWTH aachen university open source speech recognition system.
+Using word probabilities as confidence measures.
+Revisiting VTLN using linear transformation on conventional MFCC.
+Morpheme Based Factored Language Models for German LVCSR.
+Investigations on convex optimization using log-linear HMMs for digit string recognition.
+Discriminative adaptation for log-linear acoustic models.
+Development of the GALE 2008 Mandarin LVCSR system.
+Vocal tract normalization equals linear transformation in cepstral space.
+Margin-Based Discriminative Training for String Recognition.
+Discriminative splitting of Gaussian/log-linear mixture HMMs for speech recognition.
+Improving LVCSR with hidden conditional random fields for grapheme-to-phoneme conversion.
+Investigations on sequence training of neural networks.
+The RWTH English lecture recognition system.
+Investigations on the use of morpheme level features in Language Models for Arabic LVCSR.
+Bayes risk minimization using metric loss functions.
+Morpheme Level Feature-based Language Models for German LVCSR.
+Investigation of mixture splitting concept for training linear bottlenecks of deep neural network acoustic models.
+Cross-Site and Intra-Site ASR System Combination: Comparisons on Lattice and 1-Best Methods.
+Deep hierarchical bottleneck MRASTA features for LVCSR.
+Discriminative Training of Gaussian Mixtures for Image Object Recognition.
+Mean-normalized stochastic gradient for large-scale deep learning.
+RETURNN: The RWTH Extensible Training framework for Universal Recurrent Neural Networks.
+WFST Enabled Solutions to ASR Problems: Beyond HMM Decoding.
+Parallel lexical-tree based LVCSR on multi-core processors.
+Basis vector orthogonalization for an improved kernel gradient matching pursuit method.
+Improved Acoustic Feature Combination for LVCSR by Neural Networks.
+On the relation of Bayes risk, word error, and word posteriors in ASR.
+Morpheme level hierarchical pitman-yor class-based language models for LVCSR of morphologically rich languages.
+A comparative analysis of dynamic network decoding.
+Modified MMI/MPE: a direct evaluation of the margin in speech recognition.
+Open vocabulary handwriting recognition using combined word-level and character-level language models.
+Using morpheme and syllable based sub-words for polish LVCSR.
+Improvements in RWTH LVCSR evaluation systems for Polish, Portuguese, English, urdu, and Arabic.
+Efficient estimation of speaker-specific projecting feature transforms.
+Discriminative HMMS, log-linear models, and CRFS: What is the difference?
+iCNC and iROVER: the limits of improving system combination with classification?
+Simultaneous Discriminative Training and Mixture Splitting of HMMs for Speech Recognition.
+Confidence measures for large vocabulary continuous speech recognition.
+On the equivalence of Gaussian HMM and Gaussian HMM-like hidden conditional random fields.
+Does the Cost Function Matter in Bayes Decision Rule?
+Lexical Prefix Tree and WFST: A Comparison of Two Dynamic Search Concepts for LVCSR.
+Frame based system combination and a comparison with weighted ROVER and CNC.
+Extraction methods of voicing feature for robust speech recognition.
+Development of the 2007 RWTH Mandarin LVCSR system.
+Investigations on features for log-linear acoustic models in continuous speech recognition.
+Exploiting sparseness of backing-off language models for efficient look-ahead in LVCSR.
+Recent improvements of the RWTH large vocabulary speech recognition system on spontaneous speech.
+Posterior-Scaled MPE: Novel Discriminative Training Criteria.
+A family of discriminative training criteria based on the F-divergence for deep neural networks.
+Multilingual features based keyword search for very low-resource languages.
+Comparison of optimization methods for discriminative training criteria.
+Improved strategies for a zero oov rate LVCSR system.
+Unsupervised adaptation of a denoising autoencoder by Bayesian Feature Enhancement for reverberant asr under mismatch conditions.
+From Feedforward to Recurrent LSTM Neural Networks for Language Modeling.
+A Study on Speaker Normalized MLP Features in LVCSR.
+On the Relationship Between Bayes Risk and Word Error Rate in ASR.
+Open-Lexicon Language Modeling Combining Word and Character Levels.
+Multilingual hierarchical MRASTA features for ASR.
+Explicit word error minimization using word hypothesis posterior probabilities.
+Audio segmentation for speech recognition using segment features.
+Speech recognition for machine translation in Quaero.
+Modified MPE/MMI in a transducer-based framework.
+Multilingual MRASTA features for low-resource keyword search and speech recognition systems.
+On the Estimation of Discount Parameters for Language Model Smoothing.
+Feature combination and stacking of recurrent and non-recurrent neural networks for LVCSR.
+A discriminative splitting criterion for phonetic decision trees.
+Accelerated Batch Learning of Convex Log-linear Models for LVCSR.
+The RWTH 2007 TC-STAR evaluation system for european English and Spanish.
+Comparison and combination of different CRBE based MLP features for LVCSR.
+Bayes risk approximations using time overlap with an application to system combination.
+Error bounds for context reduction and feature omission.
+Discriminative training with tied covariance matrices.

@@ -1,0 +1,2 @@
+A Machine Learning Approach to Conjoint Analysis
+ Abstract Choice-based conjoint analysis builds models of consumers preferences over products with answers gathered in questionnaires.  Our main goal is to bring tools from the machine learning community to solve more efficiently this problem.  Thus, we propose two algorithms to estimate quickly and accurately consumer preferences.

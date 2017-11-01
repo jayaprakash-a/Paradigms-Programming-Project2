@@ -1,0 +1,2 @@
+Minimizing the System Error in Feedforward Neural Networks with Evolution Strategy
+ Abstract In this paper evolution strategy is applied to minimize the system error in feedforward neural networks.  The evolution strategy does not use externally tunedlearning parameters.  Moreover, it is not necessary to evaluate a gradient information as required by the backpropagation algorithm.  Experimental results arepresented and compared with the standardbackpropagation technique.

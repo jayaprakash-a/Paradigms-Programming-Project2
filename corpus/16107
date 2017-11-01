@@ -1,0 +1,2 @@
+On the Prediction of Solar Activity Using Different Neural Network Models
+ Abstract Accurate prediction of ionospheric parameters is crucial for telecommunication companies.  These parameters strongly rely on solar activity.  In this paper, we analyze the use of neural networks for sunspots time series prediction.  Three types of models are tested and experimental results are reported for a particular sunspots time series: the IR5 index.

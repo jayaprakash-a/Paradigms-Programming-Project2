@@ -1,0 +1,2 @@
+EEG SIGNAL COMPRESSION WITH ADPCM SUBBAND CODING
+ ABSTRACT An EEG signal compression method that combines both octave-band filter bank frequency decomposition and coding in subbands using adaptive differential pulse code modulation (ADPCM) is proposed.  Besides being computationally effective, this compression method in its simplest form yields 70 % data reductions with very little distortion.  Higher compression rate are obtained by increasing the order of the predictor used.

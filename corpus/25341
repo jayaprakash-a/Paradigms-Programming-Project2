@@ -1,0 +1,2 @@
+Network Monitoring with Nprobe
+ Abstract--- This paper presents an architecture for monitoring 10 Gbps networks, drawing on experience from a current 1 Gbps implementation.  The architecture performs full line-rate capture and implements on-line analysis and compression to record interesting data without loss.  The use of the monitoring and analysis system is demonstrated along with the presentation of several initial findings made possible with the tool.

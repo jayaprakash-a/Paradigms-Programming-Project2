@@ -1,0 +1,2 @@
+Learning Predictive State Representations
+ Abstract We introduce the first algorithm for learning predictive state representations (PSRs), which are a way of representing the state of a controlled dynamical system.  The state representation in a PSR is a vector of predictions of tests, where tests are sequences of actions and observations said to be true if and only if all the observations occur given that all the actions are taken.  The problem of finding a good PSR

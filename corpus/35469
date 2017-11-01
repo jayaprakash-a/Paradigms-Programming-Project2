@@ -1,0 +1,2 @@
+A Polynomial-Time Approximation Scheme for Weighted Planar Graph TSP
+ Abstract Given a planar graph on n nodes with costs (weights) on its edges, define the distance between nodes i and j as the length of the shortest path between i and j.  Consider this as an instance of metric TSP.  For any '' ? 0, our algorithm finds a salesman tour of total cost at most (1 + '') times optimal in time n O(1=" 2 ) .  We also present a quasi-polynomial time algorithm for the Steiner version of this problem.

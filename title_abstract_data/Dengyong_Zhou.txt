@@ -1,0 +1,56 @@
+Semi-supervised Protein Classification Using Cluster Kernels| Abstract A key issue in supervised protein classification is the representation of input sequences of amino acids.  Recent work using string kernels for protein data has achieved state-of-the-art classification performance.  However, such representations are based only on labeled data --- examples with known 3D structures, organized into structural classes --- while in practice, unlabeled data is far more plentiful.  In this work, we develop simple and scalable cluster kernel techniques for incorporating unlabeled data into the representation of protein sequences.  We show that our methods greatly improve the classification performance of string kernels and outperform standard approaches for using unlabeled data, such as adding close homologs of the positive examples to the training data.  We achieve equal or superior performance to previously presented cluster kernel methods while achieving far greater computational efficiency. 
+MCM Layout with Distributed-RLC Model| Abstract ,/ This paper models high-speed VLSI interconnects by using a generic distributed RLC-tree.  Through a detailed analysis of the distributed RLC-tree a two-pole approximation system is consequently established to formulate the performance-driven layout in MCM designs.  An in-depth study of the formulated performance-driven layout problem reveals the interplay between the interconnector's performance and its geometrical parameters.  The study leads to an A-tree topology to optimize the defined performance-driven layout problem.  Significant improvement, an average up to 67% reduction on the interconnection delay, is achieved over large sample of MCM designs, as compared with the well known Steiner tree topology.  The result presented in this paper is the first to place the layout design on the sophisticated RLC model as well as to demonstrate the significant impact of the underlying circuit model on the layout design. 
+Ranking on Data Manifolds| Abstract The Google search engine has enjoyed huge success with its web page ranking algorithm, which exploits global, rather than local, hyperlink structure of the web using random walks.  Here we propose a simple universal ranking algorithm for data lying in the Euclidean space, such as text or image data.  The core idea of our method is to rank the data with respect to the intrinsic manifold structure collectively revealed by a great amount of data.  Encouraging experimental results from synthetic, image, and text data illustrate the validity of our method. 
+Semi-supervised Learning on Directed Graphs| Abstract Given a directed graph in which some of the nodes are labeled, we investigate the question of how to exploit the link structure of the graph to infer the labels of the remaining unlabeled nodes.  To that extent we propose a regularization framework for functions defined over nodes of a directed graph that forces the classification function to change slowly on densely linked subgraphs.  A powerful, yet computationally simple classification algorithm is derived within the proposed framework.  The experimental evaluation on real-world Web classification problems demonstrates encouraging results that validate our approach. 
+A Regularization Framework for Learning from Graph Data| Abstract The data in many real-world problems can be thought of as a graph, such as the web, co-author networks, and biological networks.  We propose a general regularization framework on graphs, which is applicable to the classification, ranking, and link prediction problems.  We also show that the method can be explained as lazy random walks.  We evaluate the method on a number of experiments. 
+Discovery and study of high-pressure basic granulites in Songshugou area of Shangnan, east Qinling|
+The covering number in learning theory,|
+On smoothness characterized by Bernstein type operators,|
+Learning from Labeled and Unlabeled Data Using Random Walks|
+The Songpan-Ganzi complex of the West Qinling Shan as a Triassic remnant ocean basin|
+Convergence of a finite volume { mixed finite element method for reservoir simulation|
+Managing Healthcare Data Hippocratically|
+Combined effects of elevated free-stream turbulence|
+TDM 100Gbits/s Packet Switching in an Optical ShuffleNet|". 
+Adaptation and Specialization in Mobile Agent Environments",|
+Dynamic Electrochemical Simulation of Micromachined Electrodes for NeuralStimulation Systems",|
+On the optimal drivers for high-speed low power ICs,|
+"High performance conducting polymer actuators utilising a tubular geometry and helical wire interconnects,"|
+Striking a balance: modulation of the actin cytoskeleton|
+Measurement of OH density profiles in atmospheric-pressure propan-air flames|
+Learning from labeled and unlabeled data on a directed graph|
+Role of the S| typhimurium actin-binding protein SipA in bacterial internalization. 
+On highspeed VLSI interconnects: Analysis and design|
+A simplified synthesis of transmission lines with a tree structure,|
+High performance multichip interconnection design,|
+HYDRA: a Generic Design for Integrating Catchment Models, Presented at the American Society of Civil Engineers 21st Annual Conference on Water Resources Planning and Management Division,|
+Curvature conditions for immersions of submanifolds and applications,|
+Global routing of short nets in two-dimensional arrays,|
+Network Composition as an Architecture Concept for Ambient Networks", ,|
+Survivability in Optical Network|
+Cluster kernels for semi-supervised protein classification|
+Stability of refinable functions, multiresolution analysis and Haar bases,|
+On the Way to Higher Income, A Trip of Disaster, Farmers Call for Safety"(|
+A Trace-Driven Simulation Study of Dynamic Load Balancing|
+Semi-supervised learning by maximizing smoothness|
+An adaptive wavelet method for nonlinear circuit simulation,|
+Migration of human monocytes in response to vascular endothelial growth factor (VEGF) is mediated via the VEGF receptor flt-1|
+L p -solutions of refinement equations,|
+Surface drift effect on wind energy transfer to waves "|
+Res|
+Seminorm and full norm order of linear approximation from shift-invariant spaces,|
+Order of linear approximation from shiftinvariant spaces,|
+Approximation order of linear operators onto finitely generated shift-invariant spaces,|
+Existence of multiple refinable distributions,|
+Norms concerning subdivision sequences and their applications in wavelets,|
+Conducting Polymers Electromechanical Actuators and Strain Sensors|
+Salmonella typhimurium encodes an iron transport system within the centisome 63 pathogenicity island|
+Detection of observer based FDI schemes to the three tank system|
+Interconnection Delay in Very High-Speed VLSI|
+Monitoring early differentiation events in human embryonic stem cells by massively parallel signature sequencing and expressed sequence tag scan|
+On improving tactical planning in air combat in P| R.  China with genetic algorithm. 
+"The Institutional Needs of Joint Implementation Projects,"|
+What determines residual oil saturation in threephase flow,|
+Targeted deletion of the lipopolysaccharide (LPS)-binding protein gene leads to profound suppression of LPS responses ex vivo, whereas in vivo responses remain intact|
+Adaptive SlidingMode Guidance of a Homing Missile," Journal of Guidance,|
+Compactly supported refinable functions with infinite masks,|

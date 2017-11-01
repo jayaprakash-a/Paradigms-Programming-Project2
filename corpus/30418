@@ -1,0 +1,2 @@
+On Similarity to Prototypes in 3D Object Representation
+ Abstract A representational scheme under which the ranking between represented dissimilarities is isomorphic to the ranking between the corresponding shape dissimilarities can support perfect shape classification, because it preserves the clustering of shapes according to the natural kinds prevailing in the external world.  We discuss the computational requirements of rank-preserving representation, and examine its plausibility within a prototype-based framework of shape vision.

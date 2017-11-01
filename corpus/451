@@ -1,0 +1,2 @@
+Algorithms for Informed Cows
+ Abstract We extend the classic on-line search problem known as the cow-path problem to the case in which goal locations are selected according to one of a set of possible known probability distributions.  We present a polynomial-time linear-programming algorithm for this problem.

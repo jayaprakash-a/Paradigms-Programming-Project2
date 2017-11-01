@@ -1,0 +1,2 @@
+On-Line Learning with Restricted Training Sets: An Exactly Solvable Case
+ Abstract We solve the dynamics of on-line Hebbian learning in large perceptrons exactly, for the regime where the size of the training set scales linearly with the number of inputs.  We consider both noiseless and noisy teachers.  Our calculation cannot be extended to non-Hebbian rules, but the solution provides a convenient and welcome benchmark with which to test more general and advanced theories for solving the dynamics of learning with restricted training sets.

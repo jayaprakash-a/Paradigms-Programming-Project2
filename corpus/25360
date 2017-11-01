@@ -1,0 +1,2 @@
+Architecture of a Network Monitor
+ Abstract--- This paper describes a system for simultaneously monitoring multiple protocols.  It performs full linerate capture and implements on-line analysis and compression to record interesting data without loss of information.  We accept that the balance must be maintained in such a system between disk-bandwidth, CPU-capacity and datareduction in order to perform monitoring at full line-rate.  We present the architecture in detail and measure the performance of our sample implementation, Nprobe.

@@ -1,0 +1,2 @@
+An experimental configuration for the evaluation of CAC algorithms
+ Abstract Interest in Connection Admission Control (CAC) algorithms stems from the need for a network user and a network provider to forge an agreement on the Quality of Service (QoS) for a new network connection.  Traditional evaluation of CAC algorithms has been through simulation studies.  We present an alternative approach: an evaluation environment for CAC algorithms that is based around an experimental test-rig.  This paper presents the architecture of the test-rig and an evaluation of its performance.

@@ -1,0 +1,2 @@
+Bayesian linear regression
+ Abstract This note derives the posterior, evidence, and predictive density for linear multivariate regression under zero-mean Gaussian noise.  Many Bayesian texts, such as Box & Tiao (1973), cover linear regression.  This note contributes to the discussion by paying careful attention to invariance issues, demonstrating model selection based on the evidence, and illustrating the shape of the predictive density.  Piecewise regression, basis function regression, and automatic relevance determination are also discussed.

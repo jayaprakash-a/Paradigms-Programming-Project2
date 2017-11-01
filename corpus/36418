@@ -1,0 +1,2 @@
+Fast Direct Policy Evaluation using Multiscale Analysis of Markov Diffusion Processes
+ Abstract Policy evaluation is a critical step in the approximate solution of large Markov decision processes (MDPs), typically requiring O(

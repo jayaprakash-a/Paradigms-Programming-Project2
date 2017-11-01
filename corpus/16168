@@ -1,0 +1,2 @@
+BOOSTING HMMS WITH AN APPLICATION TO SPEECH RECOGNITION
+ ABSTRACT Boosting is a general method for training an ensemble of classifiers with a view to improving performance relative to that of a single classifier.  While the original AdaBoost algorithm has been defined for classification tasks, the current work examines its applicability to sequence learning problems, focusing on speech recognition.  We apply boosting at the phoneme model level and recombine expert decisions using multi-stream techniques.

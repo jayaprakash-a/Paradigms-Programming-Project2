@@ -1,0 +1,2 @@
+Evolution of a Low-Distortion, Low-Bias 60 Decibel Op Amp with Good Frequency Generalization using Genetic Programming
+ ABSTRACT Genetic programming was used to evolve both the topology and the sizing (numerical values) for each component of a low-distortion, low-bias 60 decibel (1000to-1) amplifier circuit with good frequency generalization.  The evolved circuit was composed of two types of transistors (active elements) as well as resistors and capacitors.

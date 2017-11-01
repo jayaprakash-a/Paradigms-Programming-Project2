@@ -1,0 +1,2 @@
+A Principle of Minimum Expected Risk
+ Abstract --- The problem of estimating a pmf q over a discrete and finite set of mutually exclusive events given prior (but incomplete) information does not generally have a unique solution, and a unique estimate is often determined by exercising a principle, such as the maximum likelihood principle, or the principle of maximum entropy.  In this paper, we propose a nonparametric principle of minimum expected risk and explain why it might be an appropriate tool of inference for some applications.

@@ -1,0 +1,2 @@
+Active Learning of Causal Bayes Net Structure
+ Abstract We propose a decision theoretic approach for deciding which interventions to perform so as to learn the causal structure of a model as quickly as possible.  Without such interventions, it is impossible to distinguish between Markov equivalent models, even given infinite data.  We perform online MCMC to estimate the posterior over graph structures, and use importance sampling to find the best action to perform at each step.  We assume the data is discrete-valued and fully observed.

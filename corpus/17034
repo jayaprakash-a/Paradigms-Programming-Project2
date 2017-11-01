@@ -1,0 +1,2 @@
+Reinforcement Learning, Neural Networks and PI Control Applied to a Heating Coil
+ Abstract An accurate simulation of a heating coil is used to compare the performance of a PI controller, a neural network trained to predict the steady-state output of the PI controller, a neural network trained to minimize the n-step ahead error between the coil output and the set point, and a reinforcement learning agent trained to minimize the sum of the squared error over time.  Although the PI controller works very well for this task, the neural networks do result in improved performance.

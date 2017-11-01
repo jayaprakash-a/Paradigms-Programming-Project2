@@ -1,0 +1,2 @@
+Consistency of support vector machines and other regularized kernel classifiers
+ Abstract We show that various classifiers that are based on a minimization of a regularized risk are universally consistent.

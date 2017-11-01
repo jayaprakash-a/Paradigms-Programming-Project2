@@ -1,0 +1,2 @@
+The pSather Fat Parallel Virtual Machine (PFPVM) Interface
+ Abstract A critical part of the plan for portable pSather is the definition of a run-time interface that can be efficiently implemented on the wide range of platforms targeted by the project.  This document describes in detail the runtime interface assumed to exist by the pSather compiler.  Implementation details are not described herein.

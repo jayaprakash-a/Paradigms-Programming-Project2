@@ -1,0 +1,2 @@
+Maximum Entropy Correlated Equilibria
+ Abstract We study maximum entropy correlated equilibria in (multi-player) games and provide two gradient-based algorithms that are guaranteed to converge to such equilibria.  Although we do not provide convergence rates for the algorithms, they do have strong connections to similar algorithms that have been found to be effective heuristics in practice for tasks such as statistical estimation.

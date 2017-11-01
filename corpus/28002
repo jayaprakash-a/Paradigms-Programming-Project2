@@ -1,0 +1,2 @@
+Technical Note Posterior probability maps and SPMs
+ Abstract This technical note describes the construction of posterior probability maps that enable conditional or Bayesian inferences about regionally specific effects in neuroimaging.  Posterior probability maps are images of the probability or confidence that an activation exceeds some specified threshold, given the data.  Posterior probability maps (PPMs) represent a complementary alternative to statistical parametric maps (SPMs) that are used to make classical inferences.  However,

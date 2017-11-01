@@ -1,0 +1,2 @@
+Kinematic Jump Processes For Monocular 3D Human Tracking
+ Abstract A major difficulty for 3D human body tracking from monocular image sequences is the near non-observability of kinematic degrees of freedom that generate motion in depth.  For known link (body segment) lengths, the strict non-observabilities reduce to twofold `

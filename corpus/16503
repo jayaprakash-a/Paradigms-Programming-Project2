@@ -1,0 +1,2 @@
+Task Adaptation of Acoustic and Language Models Based on Large Quantities of Data
+ Abstract We investigate use of large amounts, over 1500 hours, of untranscribed data recorded from a deployed conversational system to improve the acoustic and language models.  The system that we considered allows users to perform transactions on their retirement accounts.  Using all the untranscribed data we get over 19% relative improvement in word error rate over a baseline system.  In contrast, a system built using 70 hours of transcribed data results in over 31% relative improvement.

@@ -1,0 +1,2 @@
+DIAGNOSIS OF GLASS QUALITY IN A MANUFACTURING PROCESS: TWO CONNECTIONIST SOLUTIONS
+ Abstract.  We describe and compare two kinds of connexionist solutions for predicting the quality rating of glass according to chemical inlet of the manufacturing process.  We show that according to the approach used to select a predictor in the set of Multilayered perceptrons, the results may vary dramatically.  We also show some practical limitations of prediction error estimates based on resampling techniques.

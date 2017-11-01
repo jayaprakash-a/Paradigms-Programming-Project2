@@ -1,0 +1,119 @@
+Efficient structured prediction for 3D indoor scene understanding.
+Understanding High-Level Semantics by Modeling Traffic Patterns.
+Gaussian Processes for Object Categorization.
+Lost! Leveraging the Crowd for Probabilistic Visual Self-Localization.
+Describing the scene as a whole: Joint object detection, scene classification and semantic segmentation.
+Latent Structured Active Learning.
+Approximated Structured Prediction for Learning Large Scale Graphical Models
+Discriminative Gaussian process latent variable model for classification.
+Modeling Human Locomotion with Topologically Constrained Latent Variable Models.
+HouseCraft: Building Houses from Rental Ads and Street Views.
+Detect What You Can: Detecting and Representing Objects Using Holistic Models and Body Parts.
+Globally Convergent Dual MAP LP Relaxation Solvers using Fenchel-Young Margins.
+Reduced-Precision Strategies for Bounded Memory in Deep Neural Nets.
+Efficient Learning of Structured Predictors in General Graphical Models
+Style-Based Motion Synthesis.
+3D Traffic Scene Understanding From Movable Platforms.
+Human-Machine CRFs for Identifying Bottlenecks in Scene Understanding.
+Continuous Markov Random Fields for Robust Stereo Estimation
+3D Human Body Tracking Using Deterministic Temporal Motion Models.
+Efficient Structured Prediction with Latent Variables for General Graphical Models.
+Beat the MTurkers: Automatic Image Labeling from Weak 3D Supervision.
+Combining discriminative and generative methods for 3D deformable surface and articulated pose reconstruction.
+segDeepM: Exploiting Segmentation and Context in Deep Neural Networks for Object Detection.
+A constrained latent variable model.
+Holistic Scene Understanding for 3D Object Detection with RGBD Cameras.
+Unsupervised feature selection via distributed coding for multi-view object recognition.
+Aligning Books and Movies: Towards Story-like Visual Explanations by Watching Movies and Reading Books.
+Implicitly Constrained Gaussian Process Regression for Monocular Non-Rigid Pose Estimation.
+Tell Me What You See and I Will Show You Where It Is.
+Find your Way by Observing the Sun and Other Semantic Cues.
+Box in the Box: Joint 3D Layout and Object Reasoning from Single Images.
+Instance-Level Segmentation with Deep Densely Connected MRFs.
+Human-Machine CRFs for Identifying Bottlenecks in Holistic Scene Understanding.
+Order-Embeddings of Images and Language.
+Enhancing Road Maps by Parsing Aerial Images Around the World.
+Efficient Exact Inference for 3D Indoor Scene Understanding.
+Topologically-constrained latent variable models.
+Efficient Inference of Continuous Markov Random Fields with Polynomial Potentials.
+Joint 3D Estimation of Objects and Scene Layout.
+Automatic Determination of Shoulder Joint Limits Using Quaternion Field Boundaries.
+A High Performance CRF Model for Clothes Parsing.
+Sufficient dimension reduction for visual sequence classification.
+FollowMe: Efficient Online Min-Cost Flow Tracking with Bounded Memory and Computation.
+Learning to segment under various forms of weak supervision.
+An Automatic Method For Determining Quaternion Field Boundaries for Ball-and-Socket Joint Limits.
+A Family of MCMC Methods on Implicitly Defined Manifolds.
+Learning Probabilistic Non-Linear Latent Variable Models for Tracking Complex Activities.
+Temporal motion models for monocular and multiview 3D human body tracking.
+Distributed message passing for large scale graphical models.
+Vision meets robotics: The KITTI dataset.
+3D Tracking for Gait Characterization and Recognition.
+Monocular Object Instance Segmentation and Depth Ordering with CNNs.
+Bayesian Filtering with Online Gaussian Process Latent Variable Models.
+Non-linear matrix factorization with Gaussian processes.
+Co-training with noisy perceptual observations.
+A Primal-Dual Message-Passing Algorithm for Approximated Large Scale Structured Prediction.
+Patch-Based Pose Inference with a Mixture of Density Estimators.
+Visual Semantic Search: Retrieving Videos via Complex Textual Queries.
+Deep Semantic Matching for Optical Flow.
+Data-driven animation of hand-object interactions.
+Message Passing Inference for Large Scale Graphical Models with High Order Potentials.
+Efficient Large-Scale Stereo Matching.
+Direct Loss Minimization for Training Deep Neural Nets.
+Priors for People Tracking from Small Training Sets.
+Sparse Coding for Learning Interpretable Spatio-Temporal Primitives.
+Sequential Inference for Deep Gaussian Process.
+Hierarchical Implicit Surface Joint Limits to Constrain Video-Based Motion Capture.
+Estimating Drivable Collision-Free Space from Monocular Video.
+Convex Max-Product over Compact Sets for Protein Folding.
+Robust Monocular Epipolar Flow Estimation.
+MovieQA: Understanding Stories in Movies through Question-Answering.
+Hierarchical implicit surface joint limits for human body tracking.
+Supervised hierarchical Pitman-Yor process for natural scene segmentation.
+Lost Shopping! Monocular Localization in Large Indoor Spaces.
+Continuous Markov Random Fields for Robust Stereo Estimation.
+Segmentation of 3D head MR images using morphological reconstruction under constraints and automatic selection of markers.
+Globally Convergent Parallel MAP LP Relaxation Solver using the Frank-Wolfe Algorithm.
+Monocular 3D Tracking of the Golf Swing.
+Bottom-Up Segmentation for Top-Down Detection.
+Real-time coarse-to-fine topologically preserving segmentation.
+A generative model for 3D urban scene understanding from movable platforms.
+What Are You Talking About? Text-to-Image Coreference.
+Beyond Feature Points: Structured Prediction for Monocular Non-rigid 3D Reconstruction.
+Soccer Field Localization from a Single Image.
+Local deformation models for monocular 3D shape recovery.
+Factorized Orthogonal Latent Spaces.
+Analyzing Semantic Segmentation Using Hybrid Human-Machine CRFs.
+3D Object Detection and Viewpoint Estimation with a Deformable 3D Cuboid Model.
+Exploiting Semantic Information and Deep Matching for Optical Flow.
+3D Object Proposals using Stereo Imagery for Accurate Object Class Detection.
+Physically-based motion models for 3D tracking: A convex formulation.
+Training Deep Neural Networks via Direct Loss Minimization.
+segDeepM: Exploiting segmentation and context in deep neural networks for object detection.
+Rank priors for continuous non-linear dimensionality reduction.
+Monocular 3-D Tracking of the Golf Swing.
+Estimating the 3D Layout of Indoor Scenes and Its Clutter from Depth Sensors.
+opologically controlled segmentation of 3D magnetic resonance images of the head by using morphological operators.
+3D People Tracking with Gaussian Process Dynamical Models.
+Active Learning with Gaussian Processes for Object Categorization.
+The Role of Context for Object Detection and Semantic Segmentation in the Wild.
+Aligning Books and Movies: Towards Story-Like Visual Explanations by Watching Movies and Reading Books.
+Rent3D: Floor-plan priors for monocular layout estimation.
+Fully Connected Deep Structured Networks.
+Neuroaesthetics in fashion: Modeling the perception of fashionability.
+Sparse probabilistic regression for activity-independent human pose inference.
+Map-Based Probabilistic Visual Self-Localization.
+Learning Deep Structured Models.
+Generating Multi-sentence Natural Language Descriptions of Indoor Scenes.
+Efficient Joint Segmentation, Occlusion Labeling, Stereo and Flow Estimation.
+A Sentence Is Worth a Thousand Pixels.
+Skip-Thought Vectors.
+Detect What You Can: Detecting and Representing Objects using Holistic Models and Body Parts.
+Holistic 3D scene understanding from a single geo-tagged image.
+Learning to Recognize Objects from Unseen Modalities.
+Generating Multi-Sentence Lingual Descriptions of Indoor Scenes.
+Are we ready for autonomous driving? The KITTI vision benchmark suite.
+3D Object Proposals for Accurate Object Class Detection.
+Multi-View Learning in the Presence of View Disagreement
+Transductive Gaussian processes for image denoising.

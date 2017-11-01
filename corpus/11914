@@ -1,0 +1,2 @@
+Short Papers A Model of Saliency-Based Visual Attention for Rapid Scene Analysis
+ Abstract---A visual attention system, inspired by the behavior and the neuronal architecture of the early primate visual system, is presented.  Multiscale image features are combined into a single topographical saliency map.  A dynamical neural network then selects attended locations in order of decreasing saliency.  The system breaks down the complex problem of scene understanding by rapidly selecting, in a computationally efficient manner, conspicuous locations to be analyzed in detail.

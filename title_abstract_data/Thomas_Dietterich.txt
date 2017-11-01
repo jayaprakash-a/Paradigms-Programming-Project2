@@ -1,0 +1,99 @@
+Error-Correcting Output Codes: A General Method for Improving Multiclass Inductive Learning Programs| Abstract Multiclass learning problems involve finding a definition for an unknown function f(x) whose range is a discrete set containing k ? 2 values (i. e. , k ``classes").  The definition is acquired by studying large collections of training examples of the form hx i ; f(x i )i.  Existing approaches to this problem include (a) direct application of multiclass algorithms such as the decision-tree algorithms ID3 and CART, (b) application of binary concept learning algorithms to learn individual binary functions for each of the k classes, and (c) application of binary concept learning algorithms with distributed output codes such as those employed by Sejnowski and Rosenberg in the NETtalk system.  This paper compares these three approaches to a new technique in which BCH error-correcting codes are employed as a distributed output representation.  We show that these output representations improve the performance of ID3 on the NETtalk task and of backpropagation on an isolated-letter speech-recognition task.  These results demonstrate that error-correcting output codes provide a general-purpose method for improving the performance of inductive learning programs on multiclass problems. 
+Low Bias Bagged Support Vector Machines| Abstract Theoretical and experimental analyses of bagging indicate that it is primarily a variance reduction technique.  This suggests that bagging should be applied to learning algorithms tuned to minimize bias, even at the cost of some increase in variance.  We test this idea with Support Vector Machines (SVMs) by employing out-of-bag estimates of bias and variance to tune the SVMs.  Experiments indicate that bagging of low-bias SVMs (the \lobag" algorithm) never hurts generalization performance and often improves it compared with well-tuned single SVMs and to bags of individually well-tuned SVMs. 
+An Experimental Comparison of Three Methods for Constructing Ensembles of Decision Trees: Bagging, Boosting, and Randomization| Abstract.  Bagging and boosting are methods that generate a diverse ensemble of classifiers by manipulating the training data given to a "
+Solving the Multiple Instance Problem with Axis-Parallel Rectangles| Abstract The multiple instance problem arises in tasks where the training examples are ambiguous: a single example object may have many alternative feature vectors (
+Machine-Learning Research| Abstract Machine Learning research has been making great progress in many directions.  This article summarizes four of these directions and discusses some current open problems.  The four directions are (a) improving classification accuracy by learning ensembles of classifiers, (b) methods for scaling up supervised learning algorithms, (c) reinforcement learning, and (d) learning complex stochastic models. 
+Stabilizing Value Function Approximation with the BFBP Algorithm| Abstract We address the problem of non-convergence of online reinforcement learning algorithms (e. g. , Q learning and SARSA(#)) by adopting an incremental-batch approach that separates the exploration process from the function fitting process.  Our BFBP (Batch Fit to Best Paths) algorithm alternates between an exploration phase (during which trajectories are generated to try to find fragments of the optimal policy) and a function fitting phase (during which a function approximator is fit to the best known paths from start states to terminal states).  An advantage of this approach is that batch value-function fitting is a global process, which allows it to address the tradeoffs in function approximation that cannot be handled by local, online algorithms.  This approach was pioneered by Boyan and Moore with their GrowSupport and ROUT algorithms.  We show how to improve upon their work by applying a better exploration process and by enriching the function fitting procedure to incorporate Bellman error and advantage error measures into the objective function.  The results show improved performance on several benchmark problems. 
+A Multi-agent Architecture Integrating Learning and Fuzzy Techniques for Landmark-Based Robot Navigation| Abstract This paper extends a navigation system implemented as a multi-agent system (MAS).  The arbitration mechanism controlling the interactions between the agents was based on manually-tuned bidding functions.  A diculty with hand-tuning is that it is hard to handle situations involving complex tradeoffs.  In this paper we explore the suitability of reinforcement learning for automatically tuning agents within a MAS to optimize a complex tradeoff, namely the camera use. 
+Approximate Statistical Test For Comparing Supervised Classification Learning Algorithms| Abstract This paper reviews five approximate statistical tests for determining whether one learning
+Evaluation and Selection of Biases in Machine Learning| Abstract.  In this introduction, we define the term bias as it is used in machine learning systems.  We motivate the importance of automated methods for evaluating and selecting biases using a framework of bias selection as search in bias and meta-bias spaces.  Recent research in the field of machine learning bias is summarized. 
+Training conditional random fields via gradient tree boosting| Abstract Conditional Random Fields (CRFs; Lafferty, McCallum, & Pereira, 2001) provide a flexible and powerful model for learning to assign labels to elements of sequences in such applications as part-of-speech tagging, textto-speech mapping, protein and DNA sequence analysis, and information extraction from web pages.  However, existing learning algorithms are slow, particularly in problems with large numbers of potential input features.  This paper describes a new method for training CRFs by applying Friedman's (1999) gradient tree boosting method.  In tree boosting, the CRF potential functions are represented as weighted sums of regression trees.  Regression trees are learned by stage-wise optimizations similar to Adaboost, but with the objective of maximizing the conditional likelihood P (Y |X) of the CRF model.  By growing regression trees, interactions among features are introduced only as needed, so although the parameter space is potentially immense, the search algorithm does not explicitly consider the large space.  As a result, gradient tree boosting scales linearly in the order of the Markov model and in the order of the feature interactions, rather than exponentially like previous algorithms based on iterative scaling and gradient descent. 
+Batch Value Function Approximation via Support Vectors| Abstract We present three ways of combining linear programming with the kernel trick to find value function approximations for reinforcement learning.  One formulation is based on SVM regression; the second is based on the Bellman equation; and the third seeks only to ensure that good moves have an advantage over bad moves.  All formulations attempt to minimize the number of support vectors while fitting the data.  Experiments in a dicult, synthetic maze problem show that all three formulations give excellent performance, but the advantage formulation is much easier to train.  Unlike policy gradient methods, the kernel methods described here can easily adjust the complexity of the function approximator to fit the complexity of the value function. 
+Bias-Variance Analysis of Support Vector Machines for the Development of SVM-Based Ensemble Methods| Abstract Bias{variance analysis provides a tool to study learning algorithms and can be used to properly design ensemble methods well-tuned to the properties of a specific base learner.  Indeed the effectiveness of ensemble methods critically depends on accuracy, diversity and learning characteristics of base learners.  We present an extended experimental analysis of bias{variance decomposition of the error in Support Vector Machines (SVMs), considering gaussian, polynomial and dot{product kernels.  A characterization of the error decomposition is provided, by means of the analysis of the relationships between bias, variance, kernel type and its parameters, offering insights into the way SVMs learn.  The results show that the expected trade-off between bias and variance is sometimes observed, but more complex relationships can be detected, especially in gaussian and polynomial kernels.  We show that the bias{variance decomposition offers a rationale to develop ensemble methods using SVMs as base learners, and we outline two directions for developing SVM ensembles, exploiting the SVM bias characteristics and the bias-variance dependence on the kernel parameters. 
+Action Refinement in Reinforcement Learning by Probability Smoothing| Abstract In many reinforcement learning applications, the set of possible actions can be partitioned by the programmer into subsets of similar actions.  This paper presents a technique for exploiting this form of prior information to speed up model-based reinforcement learning.  We call it an action refinement method, because it treats each subset of similar actions as a single "abstract" action early in the learning process and then later "refines" the abstract action into individual actions as more experience is gathered.  Our method estimates the transition probabilities P (s 0 |s, a) for an action a by combining the results of executions of action a with executions of other actions in the same subset of similar actions.  This is a form of "smoothing" of the probability estimates that trades increased bias for reduced variance.  The paper derives a formula for optimal smoothing which shows that the degree of smoothing should decrease as the amount of data increases.  Experiments show that probability smoothing is better than two simpler action refinement methods on a synthetic maze problem.  Action refinement is most useful in problems, such as robotics, where training experiences are expensive. 
+Tracking Number 463: Reinforcement Learning for Landmark-based Robot Navigation| ABSTRACT In previous work, we described a cooperative multi-agent system (MAS) for coordinating various subcomponents of a robot navigation system.  In this system, manually-tuned bidding functions controlled the interaction between different agents to guide a robot to a desired target location.  A difficulty with hand-tuning is that it is hard to handle situations involving complex tradeoffs.  This paper explores the suitability of reinforcement learning for automatically tuning agents within an MAS to optimize a complex tradeoff.  Based on high-fidelity simulations, we conclude that reinforcement learning can learn better bidding functions than our hand-coded procedures.  The learned bidding functions yield higher probability of success, shorter navigation trajectories, and reduced use of expensive sensing actions.  However, we also found that correct functioning of reinforcement learning required extensive experimentation with the state representation. 
+?? Kluwer Academic Publishers, Boston| Manufactured in The Netherlands.  Abstract.  The performance of the error backpropagation (BP) and ID3 learning algorithms was compared on the task of mapping English text to phonemes and stresses.  Under the distributed output code developed by Sejnowski and Rosenberg, it is shown that BP consistently out-performs ID3 on this task by several percentage points.  Three hypotheses explaining this difference were explored: (a) ID3 is overfitting the training data, (b) BP is able to share hidden units across several output units and hence can learn the output units better, and (c) BP captures statistical information that ID3 does not.  We conclude that only hypothesis (c) is correct.  By augmenting ID3 with a simple statistical learning procedure, the performance of BP can be closely matched.  More complex statistical procedures can improve the performance of both BP and ID3 substantially in this domain. 
+Solving Multiclass Learning Problems via Error-Correcting Output Codes| Abstract Multiclass learning problems involve finding a definition for an unknown function f(x) whose range is a discrete set containing k ? 2 values (i. e. , k ``classes").  The definition is acquired by studying collections of training examples of the form hx i ; f(x i )i.  Existing approaches to multiclass learning problems include direct application of multiclass algorithms such as the decision-tree algorithms C4. 5 and CART, application of binary concept learning algorithms to learn individual binary functions for each of the k classes, and application of binary concept learning algorithms with distributed output representations.  This paper compares these three approaches to a new technique in which error-correcting codes are employed as a distributed output representation.  We show that these output representations improve the generalization performance of both C4. 5 and backpropagation on a wide range of multiclass learning tasks.  We also demonstrate that this approach is robust with respect to changes in the size of the training sample, the assignment of distributed representations to particular classes, and the application of overfitting avoidance techniques such as decision-tree pruning.  Finally, we show that---like the other methods---the error-correcting code technique can provide reliable class probability estimates.  Taken together, these results demonstrate that error-correcting output codes provide a general-purpose method for improving the performance of inductive learning programs on multiclass problems. 
+Hierarchical Explanation-Based Reinforcement Learning|
+Hierarchical Reinforcement Learning with the MAXQ Value Function Decomposition|
+A computer-based design history tool|
+Ensemble Methods in Machine Learning|
+A Study of Explanation-Based Methods for Inductive Learning|
+Learning at the Knowledge Level|
+A Reinforcement Learning Approach to job-shop Scheduling|
+Inductive Learning of Structural Descriptions: Evaluation Criteria and Comparative Review of Selected Methods|
+Bias-Variance Analysis and Ensembles of SVM|
+Error - correcting output coding correct bias and variance|
+Pruning Adaptive Boosting|
+An Experimental Comparison of the Nearest-Neighbor and Nearest-Hyperrectangle Algorithms|
+A Comparative Review of Selected Methods for Learning from Examples|
+Learning with Many Irrelevant Features|
+Learning Boolean Concepts in the Presence of Many Irrelevant Features|
+Pruning Adaptive Boosting, in Proceedings of the|
+A Comparative Study of ID3 and Backpropagation for English Text-to-Speech Mapping|
+State abstraction in MAXQ hierarchical RL|
+Machine Learning for Sequential Data: A Review|
+Machine learning bias, statistical bias, and statistical variance of decision tree algorithms|
+Error-Correcting Output Coding Corrects Bias and Variance|
+An Inductive Approach to Solving the Imperfect Theory Problem|
+Ensemble learning," in The Handbook of Brain Theory and Neural Networks, 2nd edition,|
+State Abstraction in MAXQ Hierarchical Reinforcement Learning|
+High-Performance Job-Shop Scheduling With A Time-Delay TD-lambda Network|
+The MAXQ Method for Hierarchical Reinforcement Learning|
+Statistical Tests for Comparing Machine Learning Algorithms,|
+Learning to predict sequences|
+Knowledge Compilation to Speed Up Numerical Optimization|
+Improved class probability estimates from decision tree models|
+Learning and Inductive Inference,|
+Editorial|
+P'erez| Solving the multipleinstance problem with axis-parallel rectangles. 
+Error-correcting output codes|
+in press)| State abstraction in maxq hierarchical reinforcement learning. 
+Explanation-Based Learning and Reinforcement Learning: A Unified View|
+Pruning Improves Heuristic Search for Cost-Sensitive Learning|
+Overfitting and Undercomputing in Machine Learning|
+Achieving high accuracy text-to-speech with machine learning|
+Applying the weak learning framework to understand and improve C4|5. 
+Efficient Algorithms for Identifying Relevant Features|
+Bootstrap Methods for the Cost-Sensitive Evaluation of Classifiers|
+Efficient value function approximation using regression trees|
+A reinforcement learning apporach to job-shop scheduling|
+A Comparison of ID3 and Backpropagation for English Text-to-Speech Mapping|
+and Tom'as Lozano-P'erez| Solving the multiple-instance problem with axis-parallel rectangles. 
+Discovering Patterns in Sequences of Events|
+Exploratory Research in Machine Learning|
+Locally Adaptive Nearest Neighbor Algorithms|
+Limitations on Inductive Learning|
+Improving the Performance of Radial Basis Function Networks by Learning Center Locations|
+On Learning More Concepts|
+"Discovering patterns in strings of events",|
+An Overview of MAXQ Hierarchical Reinforcement Learning|
+Machine Learning|
+Statistical machine learning for large-scale optimization,|
+Solving combinatorial optimization tasks by reinforcement learning: A general methodology applied to resource-constrained scheduling|
+constraint propagation techniques for theory-driven data interpretation|
+The Divide-and-Conquer Manifesto|
+A Divide and Conquer Approach to Learning from Prior Knowledge|
+Compass: A shape-based machine learning tool for drug design|
+A Comparison of Dynamic Reposing and Tangent Distance for Drug Activity Prediction|
+Bridging the gap between specification and implementation|
+Mining IC test data to optimize VLSI testing|
+Perez| A comparison of dynamic reposing and tangent distance for drug activity prediction. 
+What Good Are Experiments?|
+A comparison of ID3 and backpropogation for English textto-speech mapping|
+The test incorporation theory of problem solving|
+Bias-variance analysis of Support Vector Machines for the development of SVM-based ensemble methods Journal of Machine Learning Research (|
+Re: Occam's Razor|
+Ensemble learning,|
+`The test incorporation hypothesis and the weak methods',|
+Reinforcement learning and its relationship to supervised learning|
+Why error-correcting output coding works with decision trees|
+An Experimentsl Comparison of the Nearest hyper-rectangle Algorithms,|
+British National Corpus user reference guide|
+Pruning improves heuristic search for cost-sensitive learning|
+Limits of inductive learning|
+An Experimental Comparison of the NearestNeighbor and Nearest-Hyperrectanlge Algorithms,|
+Preliminary results of experimental study of the mechanical design process|
+Annual review of computer science|
+Exceptions is Harmful in Language Learning|
+Memory-Based Methods for Regression and Classification|

@@ -1,0 +1,2 @@
+Asymptotic Theory of Locally Conic Models and its Application to Multilayer Neural Networks
+ Abstract.  This paper discusses the maximum likelihood estimation in a statistical model with unidentiability, using the framework of conic singularity.  The likelihood ratio may diverge in unidentiable cases, though in regular cases it converges to a ! 2 distribution.  A useful su!cient condition of such divergence is obtained, and is applied to neural networks.  The exact order for multilayer perceptrons is also discussed.

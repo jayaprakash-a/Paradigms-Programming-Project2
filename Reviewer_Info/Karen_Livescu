@@ -1,0 +1,63 @@
+Visual Speech Recognition with Loosely Synchronized Feature Streams.
+Segment-based recognition on the phonebook task: initial results and observations on duration modeling.
+Speech Production in Speech Technologies: Introduction to the CSL Special Issue.
+Reconstruction of articulatory measurements with smoothed low-rank matrix completion.
+Mapping Unseen Words to Task-Trained Embedding Spaces.
+Deep convolutional acoustic word embeddings using word-pair side information.
+Discriminative Segmental Cascades for Feature-Rich Phone Recognition.
+On Deep Multi-View Representation Learning: Objectives and Optimization.
+Discriminatively learning factorized finite state pronunciation models from dynamic Bayesian networks.
+From Paraphrase Database to Compositional Paraphrase Model and Back.
+Monolingual and crosslingual comparison of tandem features derived from articulatory and phone MLPS.
+Tailoring Continuous Word Representations for Dependency Parsing.
+Stochastic optimization for deep CCA via nonlinear orthogonal iterations.
+Multi-view learning of acoustic features for speaker recognition.
+Kernel CCA for multi-view learning of acoustic features using articulatory measurements.
+Nonparametric Canonical Correlation Analysis.
+Landmark-Based Speech Recognition: Report of the 2004 Johns Hopkins Summer Workshop.
+Fingerspelling Recognition with Semi-Markov Conditional Random Fields.
+Lexical access experiments with context-dependent articulatory feature-based models.
+Charagram: Embedding Words and Sentences via Character n-grams.
+Pronunciation modeling using a finite-state transducer representation.
+Unsupervised learning of acoustic features via deep canonical correlation analysis.
+Structurally discriminative graphical models for automatic speech recognition - results from the 2001 Johns Hopkins Summer Workshop.
+Stochastic optimization for PCA and PLS.
+Multistream Articulatory Feature-Based Models for Visual Speech Recognition.
+Multi-view clustering via canonical correlation analysis.
+Towards Universal Paraphrastic Sentence Embeddings.
+Signer-independent fingerspelling recognition with deep neural network adaptation.
+A factored conditional random field model for articulatory feature forced transcription.
+Multi-view CCA-based acoustic features for phonetic recognition across speakers and domains.
+Lexicon-Free Fingerspelling Recognition from Video: Data, Models, and Signer Adaptation.
+Deep Canonical Correlation Analysis.
+Production domain modeling of pronunciation for visual speech recognition.
+On Deep Multi-View Representation Learning.
+Audio-visual anticipatory coarticulation modeling by human and machine.
+Hidden feature models for speech recognition using dynamic Bayesian networks.
+Large-Scale Approximate Kernel Canonical Correlation Analysis.
+Modeling pronunciation variation with context-dependent articulatory feature decision trees.
+A comparison of training approaches for discriminative segmental models.
+An Articulatory Feature-Based Tandem Approach and Factored Observation Modeling.
+Discriminative segmental cascades for feature-rich phone recognition.
+Multi-view learning with supervision for transformed bottleneck features.
+Nearest Neighbors with Learned Distances for Phonetic Frame Classification.
+Subword Modeling for Automatic Speech Recognition: Past, Present, and Emerging Approaches.
+Deep Multilingual Correlation for Improved Word Embeddings.
+Feature-based pronunciation modeling with trainable asynchrony probabilities.
+Efficient Segmental Cascades for Speech Recognition.
+On the phonetic information in ultrasonic microphone signals.
+American sign language fingerspelling recognition with phonological feature-based tandem models.
+Manual Transcription of Conversational Speech at the Articulatory Feature Level.
+Stochastic Optimization for Deep CCA via Nonlinear Orthogonal Iterations.
+Discriminative Pronunciation Modeling: A Large-Margin, Feature-Rich Approach.
+Fixed-dimensional acoustic embeddings of variable-length segments in low-resource settings.
+Articulatory feature classifiers trained on 2000 hours of telephone speech.
+An Asynchronous DBN for Audio-Visual speech Recognition.
+Articulatory Feature-Based Methods for Acoustic and Audio-Visual Speech Recognition: Summary from the 2006 JHU Summer workshop.
+Discriminative articulatory models for spoken term detection in low-resource conversational settings.
+Signer-independent Fingerspelling Recognition with Deep Neural Network Adaptation.
+Discriminative training of WFST factors with application to pronunciation modeling.
+Lexical modeling of non-native speech for automatic speech recognition.
+Articulatory Feature Classification Using Nearest Neighbors.
+Articulatory feature-based pronunciation modeling.
+Discriminative spoken term detection with limited data.

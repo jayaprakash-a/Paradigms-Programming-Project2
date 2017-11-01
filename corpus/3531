@@ -1,0 +1,2 @@
+Recognizing Handwritten Digits Using Hierarchical Products of Experts
+ [1] describes a learning algorithm for probabilistic generative models that are composed of a number of experts.  Each expert specifies a probability distribution over the visible variables and the experts are combined by multiplying these distributions together and renormalizing.

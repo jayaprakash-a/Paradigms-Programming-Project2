@@ -1,0 +1,2 @@
+Unsupervised learning of overlapping concepts
+ Abstract Natural concepts can overlap arbitrarily, with objects being members of a number of categories.  This kind of structure cannot be captured by existing hierarchical or probabilistic clustering methods.  Motivated by the problem of word learning by young children, we present two simple approaches to identifying overlapping clusters in data, based on fitting multiple independent mixture models.  We apply these approaches to two benchmark synthetic data sets.

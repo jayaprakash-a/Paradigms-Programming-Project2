@@ -1,0 +1,2 @@
+Face recognition using a hybrid supervised/unsupervised neural network
+ Abstract A system for automatic face recognition is presented.  It consists of several steps; Automatic detection of the eyes and mouth is followed by a spatial normalization of the images.  The classification of the normalized images is carried out by a hybrid (supervised and unsupervised) Neural Network.  Two methods for reducing the overfitting -- a common problem in high dimensional classification schemes -- are presented, and the superiority of their combination is demonstrated.

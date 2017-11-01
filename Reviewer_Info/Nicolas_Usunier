@@ -1,0 +1,58 @@
+Ranking with ordered weighted pairwise classification.
+Towards Understanding Situated Natural Language.
+Learning Scoring Functions with Order-Preserving Losses and Standardized Supervision.
+Robust Bloom Filters for Large MultiLabel Classification Tasks.
+Improving Image Annotation in Imbalanced Classification Problems with Ranking SVM.
+Generalization error bounds for classifiers trained with interdependent data.
+Incorporating prior knowledge into a transductive ranking algorithm for multi-document summarization.
+"On the (Non-)existence of Convex, Calibrated Surrogate Losses for Ranking".
+Learning from Multiple Partially Observed Views - an Application to Multilingual Text Categorization.
+Episodic Exploration for Deep Deterministic Policies: An Application to StarCraft Micromanagement Tasks.
+Theory of Optimizing Pseudolinear Performance Measures: Application to F-measure.
+A Selective Sampling Strategy for Label Ranking.
+UPMC/LIP6 at ImageCLEFannotation 2010.
+Multiview Semi-supervised Learning for Ranking Multilingual Documents.
+Learning-based summarisation of XML documents.
+Combining coregularization and consensus-based self-training for multilingual text categorization.
+Guarantees for Approximate Incremental SVMs.
+Predicting Critical Intradomain Routing Events.
+Label Ranking under Ambiguous Supervision for Learning Semantic Correspondences.
+A Transductive Bound for the Voted Classifier with an Application to Semi-supervised Learning.
+Combining Two and Three-Way Embedding Models for Link Prediction in Knowledge Bases.
+Transductive learning over automatically detected themes for multi-document summarization.
+Learning to Rank for Collaborative Filtering.
+Learning to summarise XML documents using content and structure.
+Optimizing F-Measures by Cost-Sensitive Classification.
+Combining Two And Three-Way Embeddings Models for Link Prediction in Knowledge Bases.
+Large-scale Simple Question Answering with Memory Networks.
+Résumé automatique de texte avec un algorithme d'ordonnancement.
+UHigh-Level Feature Detection with Forests of Fuzzy Decision Trees combined with the RankBoost Algorithm.
+Constructing and Mining Web-scale Knowledge Graphs.
+An empirical comparison of V-fold penalisation and cross-validation for model selection in distribution-free regression.
+Multiview self-learning.
+Translating Embeddings for Modeling Multi-relational Data.
+Composing Relationships with Translations.
+Filtrage Collaboratif avec un Algorithme d'Ordonnancement.
+A Coverage-Based Approach to Recommendation Diversity On Similarity Graph.
+Effective Blending of Two and Three-way Interactions for Modeling Multi-relational Data.
+On Binary Reduction of Large-Scale Multiclass Classification Problems.
+Open Question Answering with Weakly Supervised Embedding Models.
+Calibration and regret bounds for order-preserving surrogate losses in learning to rank.
+LIP6 at INEX'10: OWPC for Ad Hoc Track.
+LIP6 at INEX'09: OWPC for Ad Hoc Track.
+Combinaison de fonctions de préférence par boosting pour la recherche de passages dans les systèmes de question/réponse.
+Learnable Ranking Models for Automatic Text Summarization and Information Retrieval.
+How should we evaluate supervised hashing?
+Ranking with non-random missing ratings: influence of popularity and positivity on evaluation metrics.
+PAC-Bayes Bounds for the Risk of the Majority Vote and the Variance of the Gibbs Classifier.
+Automatic Text Summarization Based on Word-Clusters and Ranking Algorithms.
+Learning with Partially Labeled and Interdependent Data
+Apprentissage de fonctions d'ordonnancement par classification de paires ordonnées et pondérées (OWPC).
+Sequence Labelling SVMs Trained in One Pass.
+Connecting Language and Knowledge Bases with Embedding Models for Relation Extraction.
+Irreflexive and Hierarchical Relations as Translations
+Une méthode contextuelle d'extension de requête avec des groupements de mots pour le résumé automatique.
+WSABIE: Scaling Up to Large Vocabulary Image Annotation.
+Large scale image annotation: learning to rank with joint word-image embeddings.
+Factorisation en matrices non négatives pour le filtrage collaboratif.
+A case study in a recommender system based on purchase data.

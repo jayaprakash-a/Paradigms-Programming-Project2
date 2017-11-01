@@ -1,0 +1,2 @@
+Linear Convergence of a Decomposition Method for Support Vector Machines
+ Abstract Recently the asymptotic convergence of some commonly used decomposition methods for support vector machines has been established.  However, their local convergence rates are still unknown.  In this paper, under the assumptions that the kernel matrix is positive definite and the problem is non-degenerate, we prove the linear convergence of a popular decomposition method.

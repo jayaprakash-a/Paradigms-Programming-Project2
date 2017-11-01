@@ -1,0 +1,2 @@
+Variational Bayesian Inference for Partially Observed Diffusions
+ Abstract In this paper the variational Bayesian approximation for partially observed continuous time stochastic processes is studied.  We derive an EM-like algorithm and give its implementations.  The variational Expectation step is explicitly solved using the method of conditional moment generating functions and stochastic partial differential equations.  The numerical experiments demonstrate that the variational Bayesian estimate is more robust than the EM algorithm.

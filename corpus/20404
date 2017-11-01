@@ -1,0 +1,2 @@
+Analytical Mean Squared Error Curves in Temporal Difference Learning
+ Abstract Wehave calculated analytical expressions for how the bias and variance of the estimators provided byvarious temporal difference value estimation algorithms change with offline updates over trials in absorbing Markovchains using lookup table representations.  We illustrate classes of learning curvebehavior in various chains, and show the manner in which TD is sensitive to the choice of its stepsize and eligibility trace parameters.

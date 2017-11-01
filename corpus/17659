@@ -1,0 +1,2 @@
+Factorial Hidden Markov Models
+ Abstract.  Hidden Markov models (HMMs) have proven to be one of the most widely used tools for learning probabilistic models of time series data.  In an HMM, information about the past is conveyed through a single

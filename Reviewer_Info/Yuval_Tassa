@@ -1,0 +1,18 @@
+Simulation tools for model-based robotics: Comparison of Bullet, Havok, MuJoCo, ODE and PhysX.
+Physically-consistent sensor fusion in contact-rich behaviors.
+Receding Horizon Differential Dynamic Programming.
+High-order local dynamic programming.
+Least Squares Solutions of the HJB Equation With Neural Network Value-Function Approximators.
+Control-limited differential dynamic programming.
+STAC: Simultaneous tracking and calibration.
+MuJoCo: A physics engine for model-based control.
+Iterative local dynamic programming.
+Learning Continuous Control Policies by Stochastic Value Gradients.
+Attend, Infer, Repeat: Fast Scene Understanding with Generative Models.
+Stochastic Complementarity for Local Control of Discontinuous Dynamics.
+Value function approximation and model predictive control.
+Infinite-Horizon Model Predictive Control for Periodic Tasks with Contacts.
+Real-time behaviour synthesis for dynamic hand-manipulation.
+Whole-body model-predictive control applied to the HRP-2 humanoid.
+Synthesis and stabilization of complex behaviors through online trajectory optimization.
+Continuous control with deep reinforcement learning.

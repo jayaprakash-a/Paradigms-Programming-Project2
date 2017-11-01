@@ -1,0 +1,2 @@
+Multiplicative Updates for Large Margin Classifiers
+ Abstract.  Various problems in nonnegative quadratic programming arise in the training of large margin classifiers.  We derive multiplicative updates for these problems that converge monotonically to the desired solutions for hard and soft margin classifiers.  The updates differ strikingly in form from other multiplicative updates used in machine learning.  In this paper, we provide complete proofs of convergence for these updates and extend previous work to incorporate sum and box constraints in addition to nonnegativity.

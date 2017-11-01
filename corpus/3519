@@ -1,0 +1,2 @@
+Varieties of Helmholtz Machine
+ Abstract The Helmholtz machine is a new unsupervised learning architecture that uses topdown and bottom up connections to build probability density models of input and inverses to those models.  The wake-sleep learning algorithm for Helmholtz machines involves just the purely local delta rule.  This paper suggests a number of different varieties of Helmholtz machines, each with its own strengths and weaknesses, and draws conclusions from the hypothesis that cortical information processing can be viewed in their terms.

@@ -1,0 +1,2 @@
+Abstraction Methods for Game Theoretic Poker
+ Abstract.  Abstraction is a method often applied to keep the combinatorial explosion under control and to solve problems of large complexity.  Our work focuses on applying abstraction to solve large stochastic imperfect-information games, specifically variants of poker.  We examine several different medium-size poker variants and give encouraging results for abstraction-based methods on these games.

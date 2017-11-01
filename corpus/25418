@@ -1,0 +1,2 @@
+FESTIVAL 2 -- BUILD YOUR OWN GENERAL PURPOSE UNIT SELECTION SPEECH SYNTHESISER
+ ABSTRACT This paper describes version 2 of the Festival speech synthesis system.  Festival 2 provides a development environment for concatenative speech synthesis, and now includes a general purpose unit selection speech synthesis engine.  We discuss various aspects of unit selection speech synthesis, focusing on the research issues that relate to voice design and the automation of the voice development process.

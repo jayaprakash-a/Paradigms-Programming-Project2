@@ -1,0 +1,2 @@
+To appear in ECML'01 Understanding Probabilistic Classifiers
+ Abstract.  Probabilistic classifiers are developed by assuming generative models which are product distributions over the original attribute space (as in naive Bayes) or more involved spaces (as in general Bayesian networks).  While this paradigm has been shown experimentally successful on real world applications,

@@ -1,0 +1,2 @@
+Learning to Parse Pictures of People
+ body plans, however they have been used to detect both whole pedestrians and combinations of rigidly positioned subimages (typically, upper body, arms, and legs) in street scenes, under a wide range of illumination, pose and clothing variations.  RVMs are SVM-like classifiers that offer a well-founded probabilistic interpretation and improved sparsity for reduced computation.  We demonstrate their benefits experimentally in a series of results showing great promise for learning detectors in more general situations.

@@ -1,0 +1,2 @@
+A CRT-Based Montgomery Multiplication for Finite Fields of Small Characteristic
+ Abstract--- We propose a new CRT-based multiplication algorithm for finite fields F p k of small prime characteristic, whose complexity does not depend on a special form of the reduction polynomial.  With a complexity of O(k 3/2 ) this is the first general subquadratic algorithm for fields of small odd characteristic.

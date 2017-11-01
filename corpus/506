@@ -1,0 +1,2 @@
+Universality of Fully-Connected Recurrent Neural Networks
+ Abstract It is shown from the universality of multi-layer neural networks that any discretetime or continuous-time dynamical system can be approximated by discrete-time or continuous-time recurrent neural networks, respectively.

@@ -1,0 +1,33 @@
+A sharp concentration inequality with applications| Abstract We present a new general concentration-of-measure inequality and illustrate its power by applications in random combinatorics.  The results find direct applications in some problems of learning theory. 
+Moment inequalities for functions of independent random variables| Abstract A general method for obtaining moment inequalities for functions of independent random variables is presented.  It is a generalization of the entropy method which has been used to derive concentration inequalities for such functions [7], and is based on a generalized tensorization inequality due to Latala and Oleszkiewicz [25].  The new inequalities prove to be a versatile tool in a wide range of applications.  We illustrate the power of the method by showing how it can be used to effortlessly re-derive classical inequalities including Rosenthal and Kahane-Khinchine-type inequalities for sums of independent random variables, moment inequalities for suprema of empirical processes, and moment inequalities for Rademacher chaos and U-statistics.  Some of these corollaries are apparently new.  In particular, we generalize Talagrand's exponential inequality for Rademacher chaos of order two to any order.  We also discuss applications for other complex functions
+Concentration inequalities using the entropy method| We investigate a new methodology, worked out by Ledoux and Massart, to prove concentration-of-measure inequalities.  The method is based on certain modified logarithmic Sobolev inequalities.  We provide some very simple and general ready-to-use inequalities.  One of these inequalities may be considered as an exponential version of the Efron-Stein inequality.  The main purpose of this paper is to point out the simplicity and the generality of the approach.  We show how the new method can recover many of Talagrand's revolutionary inequalities and provide new applications in a variety of problems including Rademacher averages, Rademacher chaos, the number of certain small subgraphs in a random graph, and the minimum of the empirical risk in some statistical estimation problems. 
+Kernel Projection Machine: a New Tool for Pattern Recognition| Abstract This paper investigates the effect of Kernel Principal Component Analysis (KPCA) within the classification framework, essentially the regularization properties of this dimensionality reduction method.  KPCA has been previously used as a pre-processing step before applying an SVM but we point out that this method is somewhat redundant from a regularization point of view and we propose a new algorithm called Kernel Projection Machine to avoid this redundancy, based on an analogy with the statistical framework of regression for a Gaussian white noise model.  Preliminary experimental results show that this algorithm reaches the same performances as an SVM. 
+Risk bounds for model selection via penalization|
+The functional central limit theorem for strongly mixing processes|
+About the constants in Talagrand's concentration inequality for empirical processes|
+Rates of convergence in the central limit theorem for empirical processes|
+Rates of convergence for minimum contrast estimators|
+From model selection to adaptive estimation|
+The tight constant in the Dvoretzky-Kiefer-Wolfowitz inequality|
+"Risk Bounds for Model Selection via|
+A generalized C p criterion for Gaussian model selection|
+Gaussian model selection|
+Minimum contrast estimators on sieves,|
+Concentration inequalities using the entropy method|
+Optimal constants for Hoeffding type inequalities|
+Some applications of concentration inequalities to statistics|
+Adaptive estimation of a quadratic functional by model selection|
+Estimation of integral functionals of a density|
+Risk bounds for statistical learning|
+Invariance principles for absolutely regular empirical processes|
+Hungarian constructions from the non-asymptotic viewpoint|
+Minimum contrast estimators on sieves: Exponential bounds and rates of convergence|
+Gaussian model selection|
+Estimation of integral functions of a density,"|
+An adaptive compression algorithm in Besov spaces, Pr#epublication d'Orsay num#ero 39,|
+Statistical performance of support vector machines|
+Some exponential bounds for the khi-square statistics with applications|
+Invariance principles for empirical processes: the weakly dependent case|
+Minimum contrast estimation on Sieves|
+Model selection via penalization|
+About the constant in Talagrand's concentration inequalities from empirical processes|

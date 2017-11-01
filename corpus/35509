@@ -1,0 +1,2 @@
+Label Propagation for Eukaryotic Splice Junction Identification
+ Abstract We study the use of unlabeled data to help classification in a bioinformatic problem of splice junction identification.  We derive two distance measures for DNA segments.  With these distance measures, we compute the accuracy of label propagation algorithm which incorporates unlabeled data.  We compare the accuracy to several baselines.  We found that for this dataset, using unlabeled data does not significantly improve accuracy.  We give a possible reason for the observation.

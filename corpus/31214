@@ -1,0 +1,2 @@
+Variance Reduction for Monte Carlo Implementation of Adaptive Sensor Management
+ Abstract -- Adaptive sensor management (scheduling) is usually formulated as a finite horizon POMDP and implemented using sequential Monte Carlo.  In Monte Carlo, variance reduction is important for the reliable performance of the sensor scheduler.  In this paper, we propose a Control Variate method for variance reduction when the sensor is scheduled using the Kullbach Leibler criterion.

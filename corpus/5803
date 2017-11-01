@@ -1,0 +1,2 @@
+Learning correlated equilibria in games with compact sets of strategies
+ Abstract Hart and Schmeidler's extension of correlated equilibrium to games with infinite sets of strategies is studied.  General properties of the set of correlated equilibria are described.  It is shown that, just like for finite games, if all players play according to an appropriate regret--minimizing strategy then the empirical frequencies of play converge to the set of correlated equilibria whenever the strategy sets are convex and compact.

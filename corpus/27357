@@ -1,0 +1,2 @@
+Overabundance Analysis and Class Discovery in Gene Expression Data \Lambda
+ Abstract Recent studies (Alizadeh et al.  2000, Bittner et al.  2000, Golub et al.  1999) demonstrate the discovery of disease subtypes from gene expression data.  In this paper, we propose a principled and systematic approach to address the computational problem of partitioning the set of sample tissues into statistically meaningful classes.  We start by describing a method,

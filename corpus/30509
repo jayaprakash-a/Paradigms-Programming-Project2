@@ -1,0 +1,2 @@
+INTERNATIONAL COMPUTER SCIENCE INSTITUTE
+ Abstract The Johnson-Lindenstrauss lemma shows that a set of n points in high dimensional Euclidean space can be mapped down into an O(log n=ffl 2 ) dimensional Euclidean space such that the distance between any two points changes by only a factor of (1 \Sigma ffl).  In this note, we prove this lemma using elementary probabilistic techniques.

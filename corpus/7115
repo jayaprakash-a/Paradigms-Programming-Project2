@@ -1,0 +1,2 @@
+Efficient computation of gap-weighted string kernels on large alphabets
+ Abstract We present a sparse dynamic programming algorithm that, given two strings s, t, a gap penalty #, and an integer p, computes the value of the gap-weighted length-p subsequences kernel.  The algorithm works in time O(p

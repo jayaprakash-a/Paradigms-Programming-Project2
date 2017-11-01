@@ -1,0 +1,2 @@
+Evolution of a 60 Decibel Op Amp Using Genetic Programming
+ Abstract: Genetic programming was used to evolve both the topology and sizing (numerical values) for each component of a low-distortion, low-bias 60 decibel (1000-to-1) amplifier with good frequency generalization.

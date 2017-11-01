@@ -1,0 +1,2 @@
+Spectral Techniques for Expander Codes and Generalized Cyclic Codes
+ Abstract --- We show that spectral techniques can be used to encode the explicit expander codes recently constructed by Sipser and Spielman.  These codes can be viewed as generalized cyclic codes for certain nonabelian groups.  Many of the classical spectral techniques for cyclic codes extend to this general setting.

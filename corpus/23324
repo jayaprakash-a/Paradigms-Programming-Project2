@@ -1,0 +1,2 @@
+Improved Lower Bounds for the Link Length of Rectilinear Spanning Paths in Grids
+ Abstract We give improved lower bounds on the link length of spanning paths in a d-dimensional grid of size n.  Kranakis et al.  conjectured that the optimal link length is (1 + 1 d\Gamma 1 )n d\Gamma 1 , but gave lower bounds not substantially larger than n d\Gamma 1 ; we give a lower bound of (1 + 1 2d )n d\Gamma 1 for all d ? 2.

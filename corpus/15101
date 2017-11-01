@@ -1,0 +1,2 @@
+A Mixed-State CONDENSATION Tracker with Automatic Model-Switching
+ The Bayesian mixed-state framework is described in its generality, and the example of a bouncing ball is used to demonstrate that a mixed-state model can significantly improve tracking performance in heavy clutter.  The relevance of the approach to the problem of gesture recognition is then investigated using a tracker which is able to follow the natural drawing action of a hand holding a pen, and switches state according to the hand's motion.

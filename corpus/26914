@@ -1,0 +1,2 @@
+Truncated Covariance Matrices and Toeplitz Methods in Gaussian Processes
+ Abstract Gaussian processes are a limit extension of neural networks.  Standard Gaussian process techniques use a squared exponential covariance function.  Here, the use of truncated covariances is proposed.  Such covariances have compact support.  Their use speeds up matrix inversion and increases precision.  Furthermore they allow the use of speedy, memory efficient Toeplitz inversion for high dimensional grid based Gaussian process predictors.

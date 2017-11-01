@@ -1,0 +1,2 @@
+Using EM for Reinforcement Learning
+ Abstract We discsus Hinton's (1989) relative payoff procedure (RPP), a static reinforcement learning algorithm whose foundation is not stochastic gradient ascent.  We show circumstances under which applying the RPP is guaranteed to increase the mean return, even though it can make large changes in the values of the parameters.  The proof is based on a mapping between the RPP and a form of the expectation-maximisation procedure of Dempster, Laird & Rubin (1976).

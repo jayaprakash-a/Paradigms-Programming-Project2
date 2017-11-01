@@ -1,0 +1,2 @@
+Online Large-Margin Training of Dependency Parsers
+ Abstract We present an effective training algorithm for linearly-scored dependency parsers that implements online largemargin multi-class training (Crammer and Singer, 2003; Crammer et al. , 2003) on top of efficient parsing techniques for dependency trees (Eisner, 1996).  The trained parsers achieve a competitive dependency accuracy for both English and Czech with no language specific enhancements.

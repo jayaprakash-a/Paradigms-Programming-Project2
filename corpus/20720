@@ -1,0 +1,2 @@
+Building and Maintaining Web Taxonomies
+ We will present some examples using the Reuters 2000 XML Corpus containing 800,000 Reuters newswires from the year beginning 20th August 1996.  Our system, called Ydin, inputs XML/XHTML pages and displays results using a custom web interface.  It extracts dierent facets and provides a navigation tool for investigating the results.

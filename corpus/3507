@@ -1,0 +1,2 @@
+Scaling in a Hierarchical Unsupervised Network
+ Increasing the image size leads to faster and more reliable learning; (2) Increasing the depth of the network from one to two hidden layers leads to better representations at the first hidden layer, and (3) Once one part of the network has discovered how to represent disparity, it "supervises" other parts of the network, greatly speeding up their learning.

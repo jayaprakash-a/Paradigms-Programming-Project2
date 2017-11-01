@@ -1,0 +1,2 @@
+Democratic Co-Learning
+ Abstract For many machine learning applications it is important to develop algorithms that use both labeled and unlabeled data.  We present democratic co-learning in which multiple algorithms instead of multiple views enable learners to label data for each other.  Our technique leverages off the fact that different learning algorithms have different inductive biases and that better predictions can be made by the voted majority.  We also present democratic priority sampling, a new example selection method for active learning.

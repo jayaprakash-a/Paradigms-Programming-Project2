@@ -1,0 +1,2 @@
+Approximation Bounds for Some Sparse Kernel Regression Algorithms
+ Abstract Gaussian processes have been widely applied to regression problems with good performance.  However, they can be computationally expensive.  In order to reduce the computational cost, there have been recent studies on using sparse approximations in Gaussian processes.  In this paper, we investigate properties of certain sparse regression algorithms that approximately solve a Gaussian process.  We obtain approximation bounds, and compare our results with related methods.

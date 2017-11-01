@@ -1,0 +1,2 @@
+DRAGON SYSTEMS' 1998 BROADCAST NEWS TRANSCRIPTION SYSTEM FOR MANDARIN
+ ABSTRACT In this paper we shall describe Dragon Systems' 1998 Broadcast News transcription system for Mandarin.  We shall describe our music classifier, which was unique to our Mandarin system, as well as our speaker change detection algorithm, which was used in our English and Mandarin systems.  We shall also report on preliminary, post-evaluation experiments with pitch.

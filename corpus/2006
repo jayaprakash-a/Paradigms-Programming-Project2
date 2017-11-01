@@ -1,0 +1,2 @@
+DISCOUNTED LIKELIHOOD LINEAR REGRESSION FOR RAPID ADAPTATION
+ ABSTRACT Rapid adaptation schemes that employ the EM algorithm may suffer from overtraining problems when used with small amounts of adaptation data.  An algorithm to alleviate this problem is derived within the information geometric framework of Csiszar and Tusnady, and is used to improve MLLR adaptation on NAB and Switchboard adaptation tasks.  It is shown how this algorithm approximately optimizes a discounted likelihood criterion.

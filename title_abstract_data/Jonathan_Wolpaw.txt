@@ -1,0 +1,31 @@
+Conversion of EEG Activity Into Cursor Movement by a Brain--Computer Interface (BCI)| Abstract---The Wadsworth electroencephalogram (EEG)-based brain-computer interface (BCI) uses amplitude in mu or beta frequency bands over sensorimotor cortex to control cursor movement.  Trained users can move the cursor in one or two dimensions.  The primary goal of this research is to provide a new communication and control option for people with severe motor disabilities.  Currently, cursor movements in each dimension are determined 10 times/s by an empirically derived linear function of one or two EEG features (i. e. , spectral bands from different electrode locations).  This study used offline analysis of data collected during system operation to explore methods for improving the accuracy of cursor movement.  The data were gathered while users selected among three possible targets by controlling vertical [i. e. , one-dimensional (1-D)] cursor movement.  The three methods analyzed differ in the dimensionality of the cursor movement [1-D versus two-dimensional (2-D)] and in the type of the underlying function (linear versus nonlinear).  We addressed two questions: Which method is best for classification (i. e. , to determine from the EEG which target the user wants to hit)? How does the number of EEG features affect the performance of each method? All methods reached their optimal performance with 10--20 features.  In offline simulation, the 2-D linear method and the 1-D nonlinear method improved performance significantly over the 1-D linear method.  The 1-D linear method did not do so.  These offline results suggest that the 1-D nonlinear or the 2-D linear cursor function will improve online operation of the BCI system. 
+The BCI Competition 2003: Progress and Perspectives in Detection and Discrimination of EEG Single Trials| Abstract--- Interest in developing a new method of man-tomachine communication---a brain-computer interface or BCI--has grown steadily over the past few decades.  BCIs create a new communication channel between the brain and an output device by bypassing conventional motor output pathways of nerves and muscles.  These systems use signals recorded from the scalp, the surface of the cortex, or from inside the brain to enable users to control a variety of applications including simple word-processing software and orthotics.  BCI technology could therefore provide a new communication and control option for individuals who cannot otherwise express their wishes to the outside world.  Signal processing and classification methods are essential tools in the development of improved BCI technology.  We organized the BCI Competition 2003 to evaluate the current state of the art of these tools.  Four laboratories well versed in EEG-based BCI research provided six data sets in a documented format.  We made these data sets (i. e. , labeled training sets and unlabeled test sets) and their descriptions available on the Internet.  The goal in the competition was to maximize the performance measure for the test labels.  Researchers worldwide tested their algorithms and competed for the best classification results.  This article describes the six data sets and the results and function of the most successful algorithms. 
+Multichannel EEG-based brain-computer communication|
+An EEG-based brain-computer interface for cursor control,|
+EEG-based communication: Presence of an error potential,|
+Brain-computer interfaces for communication and control",|
+Spatial filter selection for EEG-based communication,|
+Brain-Computer Interface Technology: A review of the First International Meeting",|
+Multichannel eeg-based brain-computer communication|
+EEG-based Brain Computer Interface (BCI),|
+Brain-computer interface (BCI) operation: Optimizing information transfer rates,|
+EEG-based communication: improved accuracy by response verification|
+Timing of EEG-based cursor control|
+Brain-Computer Interface Research at the Wadsworth Center",|
+Memory traces in primate spinal cord produced by operant conditioning of H-reflex|
+The complex structure of a simple memory|
+The Wadsworth Center braincomputer interface (BCI) research and development program|
+EEG-based communication and control: Speed-accuracy relationships,|
+EEG-based communication: analysis of concurrent EMG activity,"|
+BCI2000: A general-purpose brain-computer interface (BCI) system,|
+BCI2000: A general purpose brain-computer interface,"|
+EEG-based communication: Evaluation of alternative signal prediction methods,|
+Design and operation of an EEG-based brain-computer interface (BCI) with digital signal processing technology,|
+Control of a two-dimensional movement signal by a noninvasive brain-computer interface in humans,|
+EEG-based communication: Prospects and problems,|
+EEG-based brain computer communication: Improvement by Bayesian discriminant analysis,"|
+An EEG-based method for graded cursor control,|
+Improvement in EEGbased brain-computer communication by use of additional recording locations,|
+Brain-computer communication: Unlocking the locked in|
+EEG Mu and Beta Rhythm Topographies with Movement Imagery and Actual Movement,|
+Triceps Surae Motoneuron Morphology in the Rat: A Quantitative Light Microscopic Study|",. 

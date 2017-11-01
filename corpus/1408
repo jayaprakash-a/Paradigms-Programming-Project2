@@ -1,0 +1,2 @@
+Efficient Object Recognition Using Color
+ Abstract A real-time prototype system for identifying soda cans uses histogram indexing with only 16 colors, with excellent results.  The final implementation

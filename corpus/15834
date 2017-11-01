@@ -1,0 +1,2 @@
+PAC Bounds for Multi-armed Bandit and Markov Decision Processes
+ Abstract.  The bandit problem is revisited and considered under the PAC model.  Our main contribution in this part is to show that given n arms, it suffices to pull the arms O( n # 2

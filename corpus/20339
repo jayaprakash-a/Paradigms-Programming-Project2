@@ -1,0 +1,2 @@
+Duality and Auxiliary Functions for Bregman Distances
+ Abstract We formulate and prove a convex duality theorem for Bregman distances and present a technique based on auxiliary functions for deriving and proving convergence of iterative algorithms to minimize Bregman distance subject to linear constraints.

@@ -1,0 +1,2 @@
+Piecemeal Learning of an Unknown Environment
+ Abstract.  We introduce a new learning problem: learning a graph by piecemeal search, in which the learner must return every so often to its starting point (for refueling, say).  We present two linear-time piecemeal-search algorithms for learning city-block graphs: grid graphs with rectangular obstacles.

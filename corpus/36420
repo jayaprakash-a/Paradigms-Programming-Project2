@@ -1,0 +1,2 @@
+Samuel meets Amarel: Automating Value Function Approximation using Global State Space Analysis
+ Abstract Most work on value function approximation adheres to Samuel's original design: agents learn a task-specific value function using parameter estimation, where the

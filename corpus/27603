@@ -1,0 +1,2 @@
+VC Dimension of an Integrate-and-Fire Neuron Model
+ Abstract We compute the VC dimension of a leaky integrate-and-fire neuron model.  The VC dimension quantifies the ability of

@@ -1,0 +1,19 @@
+Information Geometrical Framework for Analyzing Belief Propagation Decoder| Abstract The mystery of belief propagation (BP) decoder, especially of the turbo decoding, is studied from information geometrical viewpoint.  The loopy belief network (BN) of turbo codes makes it difficult to obtain the true "belief" by BP, and the characteristics of the algorithm and its equilibrium are not clearly understood.  Our study gives an intuitive understanding of the mechanism, and a new framework for the analysis.  Based on the framework, we reveal basic properties of the turbo decoding. 
+Information-Geometrical Significance of Sparsity in Gallager Codes| Abstract We report a result of perturbation analysis on decoding error of the belief propagation decoder for Gallager codes.  The analysis is based on information geometry, and it shows that the principal term of decoding error at equilibrium comes from the m-embedding curvature of the log-linear submanifold spanned by the estimated pseudoposteriors, one for the full marginal, and K for partial posteriors, each of which takes a single check into account, where K is the number of checks in the Gallager code.  It is then shown that the principal error term vanishes when the parity-check matrix of the code is so sparse that there are no two columns with overlap greater than 1. 
+An approach to blind source separation based on temporal structure of speech signals|
+A method of ICA in time-frequency domain,|
+Acceleration of the EM algorithm|
+Independent component analysis for noisy data-MEG data analysis,|
+Convergence of the Wake-Sleep Algorithm|
+Information geometry and mean eld approximation: The -projection approach|
+Three-dimensional organized vortices above flexible water plants,|
+Macroeconomic dynamics in a multi-country economy: A dynamic maximization approach,|
+Habits, Costly Investment, and Current Account Dynamics"|
+Construction of phoneme models --- Model search of hidden Markov models|
+Evaluation and real-time implementation of blind source separation system using time-delayed decorrelation,"|
+Information geometry of #-projection in mean field approximation|
+Combined approach of array processing and independent component analysis for blind separation of acoustic signals,|
+ICA on noisy data: a factor analysis approach,|
+Sequential GMDH algorithm and its application to river flow prediction,|
+Information Geometry of Turbo and Low-Density Parity-Check Codes|
+Phys| Rev. 

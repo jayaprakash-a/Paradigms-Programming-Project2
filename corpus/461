@@ -1,0 +1,2 @@
+Graphical Models for Game Theory
+ Abstract We introduce a compact graph-theoretic representation for multi-party game theory.  Our main result is a provably correct and efficient algorithm for computing approximate Nash equilibria in (one-stage) games represented by trees or sparse graphs.

@@ -1,0 +1,5 @@
+Bayesian Approaches to Gaussian Mixture Modeling|
+Maximum certainty data partitioning|
+A Probabilistic Approach to High-Resolution Sleep Analysis|
+An Automatic, Continuous and Probabilistic Sleep Stager Based on a Hidden Markov Model|
+La Estrategia de la Empresa desde una Perspectiva Basada en los Recursos"|

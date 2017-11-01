@@ -1,0 +1,2 @@
+Combining Regression Trees and Radial Basis Function Networks
+ Abstract We describe a method for nonparametric regression which combines regression trees with radial basis function networks.  The method is similar to that of Kubat [1998], who was first to suggest such a combination, but has some significant improvements.  We demonstrate the features of the new method, compare its performance with other methods on DELVE data sets and apply it to a real world problem involving the classification of soybean plants from digital images.

@@ -1,0 +1,2 @@
+Distance Metric Learning with Kernels
+ Abstract--- In this paper, we propose a feature weighting method that works in both the input space and the kernel-induced feature space.  It assumes only the availability of similarity (dissimilarity) information, and the number of parameters in the transformation does not depend on the number of features.  Besides feature weighting, it can also be regarded as performing nonparametric kernel adaptation.  Experimental results on both toy and real-world datasets show promising results.

@@ -1,0 +1,2 @@
+A Distributed Reinforcement Learning Scheme for Network Routing
+ Abstract In this paper we describe a self-adjusting algorithm for packet routing in which a reinforcement learning method is embedded into each node of a network.  Only local information is used at each node to keep accurate statistics on which routing policies lead to minimal routing times.  In simple experiments involving a 36-node irregularlyconnected network, this learning approach proves superior to routing based on precomputed shortest paths.

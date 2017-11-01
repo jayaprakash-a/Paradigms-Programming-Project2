@@ -1,0 +1,2 @@
+Fast paint texture
+ Figure 1: Embossing a painting.  A height field is computed by rendering every brush stroke with a height texture.  A normal map is computed from the height field, and used for lighting the surface of the painting.  The entire process takes only a few seconds with current graphics hardware.  (The full painting is shown in Figure 5, top row.

@@ -1,0 +1,2 @@
+Robust Neural Decoding of Reaching Movements for Prosthetic Systems
+ Abstract--- A new neural prosthetic decoder architecture is presented which uses a hidden Markov model of typical arm movements to assist the reconstruction of intended trajectories from an ensemble of neural signals.  The use of such a model results in a decoder which is robust to fewer or smaller neural signals.  With limited information, the average error of the reconstructed trajectories produced by the robust decoder is half of that produced by the standard linear filter approach.

@@ -1,0 +1,2 @@
+Solving the Multiple Instance Problem with Axis-Parallel Rectangles
+ Abstract The multiple instance problem arises in tasks where the training examples are ambiguous: a single example object may have many alternative feature vectors (

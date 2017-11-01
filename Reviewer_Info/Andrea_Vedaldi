@@ -1,0 +1,78 @@
+Blocks That Shout: Distinctive Parts for Scene Classification.
+Understanding deep image representations by inverting them.
+Simultaneous Object Detection and Ranking with Weak Supervision.
+Vlfeat: an open and portable library of computer vision algorithms.
+A Complexity-Distortion Approach to Joint Pattern Alignment.
+Descriptor Learning Using Convex Optimisation.
+Local Features, All Grown Up.
+Deep Structured Output Learning for Unconstrained Text Recognition.
+The truth about cats and dogs.
+Localizing Objects with Smart Dictionaries.
+Efficient additive kernels via explicit feature maps.
+AdaBoost.
+Generalized RBF feature maps for Efficient Detection.
+Understanding image representations by measuring their equivariance and equivalence.
+Automatic Discovery and Optimization of Parts for Image Classification.
+Instance Normalization: The Missing Ingredient for Fast Stylization.
+Boosting Invariance and Efficiency in Supervised Learning.
+Deep Face Recognition.
+Factorized appearances for object detection.
+Learning feed-forward one-shot learners.
+Structured output regression for detection with partial truncation.
+Weakly Supervised Deep Detection Networks.
+A Compact and Discriminative Face Track Descriptor.
+Cats and dogs.
+Fisher Vector Faces in the Wild.
+Objects in Context.
+MatConvNet: Convolutional Neural Networks for MATLAB.
+Learning equivariant structured output SVM regressors.
+Fully-Trainable Deep Matching.
+KALMANSAC: Robust Filtering by Consensus.
+Synthetic Data for Text Localisation in Natural Images.
+Integrated perception with recurrent multi-task neural networks.
+Features for Recognition: Viewpoint Invariance for Non-Planar Scenes.
+Reading Text in the Wild with Convolutional Neural Networks.
+Oxford-IIIT TRECVID 2010 - Notebook paper.
+Sparse kernel approximations for efficient classification and detection.
+Knowing a Good Feature When You See It: Ground Truth and Methodology to Evaluate Local Features for Recognition.
+Understanding Objects in Detail with Fine-Grained Attributes.
+Quick Shift and Kernel Methods for Mode Seeking.
+Warped Convolutions: Efficient Invariance to Spatial Transformations.
+Joint data alignment up to (lossy) transformations.
+Building the View Graph of a Category by Exploiting Image Realism.
+Semantic Part Segmentation with Deep Learning.
+Texture Networks: Feed-forward Synthesis of Textures and Stylized Images.
+Visualizing Deep Convolutional Neural Networks Using Natural Pre-Images.
+Viewpoint Induced Deformation Statistics and the Design of Viewpoint Invariant Features: Singularities and Occlusions.
+Efficient Additive Kernels via Explicit Feature Maps.
+Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps.
+Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition.
+Class segmentation and object localization with superpixel neighborhoods.
+Fine-Grained Visual Classification of Aircraft.
+Deep Filter Banks for Texture Recognition, Description, and Segmentation.
+Learning the semantic structure of objects from Web supervision.
+Deep Features for Text Spotting.
+Return of the Devil in the Details: Delving Deep into Convolutional Nets.
+Moving Forward in Structure From Motion.
+Speeding up Convolutional Neural Networks with Low Rank Expansions.
+Relaxed matching kernels for robust image comparison.
+Pylon Model for Semantic Segmentation.
+Understanding Deep Image Representations by Inverting Them.
+A coarse-to-fine approach for fast deformable object detection.
+Multiple kernels for object detection.
+Describing Textures in the Wild.
+Visualizing Deep Convolutional Neural Networks Using Natural Pre-images.
+R-CNN minus R.
+Understanding the Fisher Vector: a multimodal part model.
+Fully-Convolutional Siamese Networks for Object Tracking.
+The devil is in the details: an evaluation of recent feature encoding methods.
+Deep Fisher Networks for Large-Scale Image Classification.
+Deep convolutional filter banks for texture recognition and segmentation.
+Salient Deconvolutional Networks.
+Learning Local Feature Descriptors Using Convex Optimisation.
+Learning Covariant Feature Detectors.
+Self-similar Sketch.
+Deep filter banks for texture recognition, description, and segmentation.
+MatConvNet - Convolutional Neural Networks for MATLAB.
+Deep filter banks for texture recognition and segmentation.
+On-the-fly specific person retrieval.

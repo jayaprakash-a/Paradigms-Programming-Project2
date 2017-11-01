@@ -1,0 +1,2 @@
+On the Complexity of Policy Iteration
+ Abstract Decision-making problems in uncertain or stochastic domains are often formulated as Markov decision processes (MDPs).  Policy iteration (PI) is a popular algorithm for searching over policy-space, the size of which is exponential in the number of states.  We are interested in bounds on the complexity of PI that do not depend on the value of the discount factor.  In this paper we prove the first such non-trivial, worst-case, upper bounds on the number of iterations required by PI to converge to the optimal policy.

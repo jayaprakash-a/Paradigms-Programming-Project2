@@ -1,0 +1,2 @@
+Multicategory Classification by Support Vector Machines
+ Abstract We examine the problem of how to discriminate between objects of three or more classes.  Specifically, we investigate how two-class discrimination methods can be extended to the multiclass case.  We show how the linear programming (LP) approaches based on the work of Mangasarian and quadratic programming (QP) approaches based on Vapnik's Support Vector Machines (SVM) can be combined to yield two new approaches to the multiclass problem.  In LP multiclass

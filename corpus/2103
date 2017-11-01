@@ -1,0 +1,2 @@
+New Approaches to Statistical Learning Theory
+ Abstract.  We present new tools from probability theory that can be applied to the analysis of learning algorithms.  These tools allow to derive new bounds on the generalization performance of learning algorithms and to propose alternative measures of the complexity of the learning task, which in turn can be used to derive new learning algorithms.

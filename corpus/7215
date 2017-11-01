@@ -1,0 +1,2 @@
+A Comparison of Spectral Clustering Algorithms
+ Abstract Spectral Clustering has become quite popular over the last few years and several new algorithms have been published.  In this paper, we compare several of the best-known algorithms from the point of view of clustering quality over artificial and real datasets.  We implement many variations of the existing spectral algorithms and compare their performance to see which features are more important.  We also demonstrate that spectral methods show competitive performance on real dataset with respect to existing methods.

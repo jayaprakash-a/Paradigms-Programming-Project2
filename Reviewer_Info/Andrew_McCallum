@@ -1,0 +1,177 @@
+Information extraction: distilling structured data from unstructured text.
+Inference by Minimizing Size, Divergence, or their Sum
+Generalized Expectation Criteria for Semi-Supervised Learning of Conditional Random Fields.
+InterNano: e-Science for the Nanomanufacturing Community.
+Learning from labeled features using generalized expectation criteria.
+Reducing Weight Undertraining in Structured Discriminative Learning.
+Using Transitional Proximity for Faster Reinforcement Learning.
+Information Extraction with HMM Structures Learned by Stochastic Optimization.
+FACTORIE: Probabilistic Programming via Imperatively Defined Factor Graphs.
+SampleRank: Training Factor Graphs with Atomic Gradients.
+Table extraction for answer retrieval.
+Extracting social networks and contact information from email and the Web.
+Information extraction from research papers using conditional random fields.
+Chinese Segmentation and New Word Detection using Conditional Random Fields.
+Topic Models Conditioned on Arbitrary Features with Dirichlet-multinomial Regression.
+Expertise modeling for matching papers with reviewers.
+Detecting Anomalies in Network Traffic Using Maximum Entropy Estimation.
+Generalized Expectation Criteria for Semi-Supervised Learning with Weakly Labeled Data.
+Efficient Computation of Entropy Gradient for Semi-Supervised Conditional Random Fields.
+A unified approach for schema matching, coreference and canonicalization.
+Joint Group and Topic Discovery from Relations and Text.
+Group and topic discovery from relations and text.
+Reducing Labeling Effort for Structured Prediction Tasks.
+Embedded Representations of Lexical and Knowledge-Base Semantics.
+Selecting actions for resource-bounded information extraction using reinforcement learning.
+Toward Optimal Active Learning through Sampling Estimation of Error Reduction.
+Multi-way distributional clustering via pairwise interactions.
+Rethinking LDA: Why Priors Matter.
+Alternating Projections for Learning with Expectation Constraints.
+Row-less Universal Schema.
+Multilingual Relation Extraction using Compositional Universal Schema.
+Generalized component analysis for text with heterogeneous attributes.
+Word Representations via Gaussian Embedding.
+Anytime Belief Propagation Using Sparse Domains.
+Semi-supervised Learning of Dependency Parsers using Generalized Expectation Criteria.
+Organizing the OCA: learning faceted subjects from a library of digital books.
+Maximum Entropy Markov Models for Information Extraction and Segmentation.
+Resource-Bounded Information Gathering for Correlation Clustering.
+Piecewise Training for Undirected Models
+Cryptogram Decoding for OCR Using Numerization Strings.
+Piecewise Training for Undirected Models.
+Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data.
+Efficient methods for topic model inference on streaming document collections.
+Universal schema for entity type prediction.
+Optimizing Semantic Coherence in Topic Models.
+Bethe Projections for Non-Local Inference.
+An Integrated, Conditional Model of Information Extraction and Coreference with Appli.
+Corrective feedback and persistent learning for information extraction.
+Efficient clustering of high-dimensional data sets with application to reference matching.
+Improving Author Coreference by Resource-Bounded Information Gathering from the Web.
+First-Order Probabilistic Models for Coreference Resolution.
+An Integrated, Conditional Model of Information Extraction and Coreference with Applications to Citation Matching
+Rapid development of Hindi named entity recognition using conditional random fields and feature induction.
+Dynamic Conditional Random Fields: Factorized Probabilistic Models for Labeling and Segmenting Sequence Data.
+Training Factor Graphs with Reinforcement Learning for Efficient MAP Inference.
+Combining Generative and Discriminative Methods for Pixel Classification with Multi-Conditional Learning.
+Canonicalization of database records using adaptive similarity measures.
+Unsupervised deduplication using cross-field dependencies.
+Mining a digital library for influential authors.
+Resource-Bounded Information Extraction: Acquiring Missing Feature Values on Demand.
+Improved Dynamic Schedules for Belief Propagation.
+WebKDD/SNAKDD 2007: web mining and social network analysis post-workshop report.
+A joint model for discovering and linking entities.
+Learning to Extract Symbolic Knowledge from the World Wide Web.
+Efficiently Inducing Features of Conditional Random Fields
+Accurate Information Extraction from Research Papers using Conditional Random Fields.
+Improving Text Classification by Shrinkage in a Hierarchy of Classes.
+Semi-Supervised Sequence Modeling with Syntactic Topic Models.
+Topical N-Grams: Phrase and Topic Discovery, with an Application to Information Retrieval.
+Nonparametric Bayes Pachinko Allocation
+Fast and Robust Joint Models for Biomedical Event Extraction.
+People-LDA: Anchoring Topics to People using Face Recognition.
+A Discriminative Hierarchical Model for Fast Coreference at Large Scale.
+Classification with Hybrid Generative/Discriminative Models.
+A Machine Learning Approach to Building Domain-Specific Search Engines.
+Modeling Relations and Their Mentions without Labeled Text.
+Efficiently Inducing Features of Conditional Random Fields.
+Latent Relation Representations for Universal Schemas
+Table Extraction Using Conditional Random Fields.
+Training for Fast Sequential Prediction Using Dynamic Feature Selection.
+Instance-Based Utile Distinctions for Reinforcement Learning with Hidden State.
+Multi-Conditional Learning: Generative/Discriminative Training for Clustering and Classification.
+Active Learning by Labeling Features.
+Simple, robust, scalable semi-supervised learning via expectation regularization.
+Mixtures of hierarchical topics with Pachinko allocation.
+Universal Schema for Slot Filling and Cold Start: UMass IESL at TACKBP 2013.
+Learning to Classify Text from Labeled and Unlabeled Documents.
+Joint deduplication of multiple record types in relational data.
+Conditional Models of Identity Uncertainty with Application to Noun Coreference.
+Using Genetic Algorithms to Learn Disjunctive Rules from Examples.
+Composition of Conditional Random Fields for Transfer Learning.
+Incorporating Selectional Preferences in Multi-hop Relation Extraction.
+Group and Topic Discovery from Relations and Their Attributes.
+Information extraction, data mining and joint inference.
+Pachinko allocation: DAG-structured mixture models of topic correlations.
+Collective Cross-Document Relation Extraction Without Labelled Data.
+Constraint-Driven Rank-Based Learning for Information Extraction.
+Machine Learning, Proceedings of the Twenty-Fifth International Conference (ICML 2008), Helsinki, Finland, June 5-9, 2008
+Improved Dynamic Schedules for Belief Propagation
+Large-Scale Cross-Document Coreference Using Distributed Inference and Hierarchical Models.
+Automating the Construction of Internet Portals with Machine Learning.
+Joint inference of entities, relations, and coreference.
+Topic Models Conditioned on Arbitrary Features with Dirichlet-multinomial Regression
+Piecewise training for structured prediction.
+Semi-supervised classification with hybrid generative/discriminative methods.
+Reports on the 2015 AAAI Spring Symposium Series.
+Overcoming Incomplete Perception with Util Distinction Memory.
+Chains of Reasoning over Entities, Relations, and Text using Recurrent Neural Networks.
+Parse, Price and Cut--Delayed Column and Row Generation for Graph Based Parsers.
+Structured Prediction Energy Networks.
+Disambiguating Web appearances of people in a social network.
+Combining joint models for biomedical event extraction.
+Integrating Probabilistic Extraction Models and Data Mining to Discover Relations and Patterns in Text.
+A Conditional Random Field for Discriminatively-trained Finite-state String Edit Distance
+Topic and Role Discovery in Social Networks.
+Topic and Role Discovery in Social Networks with Experiments on Enron and Academic Email.
+Lexicon Infused Phrase Embeddings for Named Entity Resolution.
+Assessing confidence of knowledge base content with an experimental study in entity resolution.
+: Multi-task Learning for Deep Text Recommendations.
+Message Passing for Soft Constraint Dual Decomposition.
+Scalable Probabilistic Databases with Factor Graphs and MCMC.
+A Discriminative Approach to Ontology Mapping.
+Structured Relation Discovery using Generative Models.
+Ask the GRU: Multi-Task Learning for Deep Text Recommendations.
+An Entity Based Model for Coreference Resolution.
+Distributional Clustering of Words for Text Classification.
+Topic models for taxonomies.
+MAP Inference in Chains using Column Generation.
+Transition-based Dependency Parsing with Selectional Branching.
+Generalized Expectation Criteria for Bootstrapping Extractors using Record-Text Alignment.
+Collective multi-label classification.
+Toward interactive training and evaluation.
+Learning to construct knowledge bases from the World Wide Web.
+Learning to Create Customized Authority Lists.
+Inference by Minimizing Size, Divergence, or their Sum.
+Efficient Non-parametric Estimation of Multiple Embeddings per Word in Vector Space.
+High-Performance Semi-Supervised Learning using Discriminatively Constrained Generative Models.
+A Conditional Random Field for Discriminatively-trained Finite-state String Edit Distance.
+Toward Conditional Models of Identity Uncertainty with Application to Proper Noun Coreference.
+Unsupervised Relation Discovery with Sense Disambiguation.
+Instance-Based State Identification for Reinforcement Learning.
+Text Classification from Labeled and Unlabeled Documents using EM.
+Learning with Scope, with Application to Information Extraction and Classification.
+Piecewise pseudolikelihood for efficient training of conditional random fields.
+Joint Parsing and Semantic Role Labeling.
+Exploring the Use of Conditional Random Field Models and HMMs for Historical Handwritten Document Recognition.
+Bibliometric impact measures leveraging topic analysis.
+Query-Aware MCMC.
+Employing EM and Pool-Based Active Learning for Text Classification.
+Dynamic Knowledge-Base Alignment for Coreference Resolution.
+Joint Inference for Natural Language Processing.
+Learning to Understand the Web.
+Learning Soft Linear Constraints with Application to Citation Field Extraction.
+Topics over time: a non-Markov continuous-time model of topical trends.
+Interactive Information Extraction with Constrained Conditional Random Fields.
+Table extraction using conditional random fields.
+Dynamic conditional random fields: factorized probabilistic models for labeling and segmenting sequence data.
+Nonparametric Bayes Pachinko Allocation.
+Call for Discussion: Building a New Standard Dataset for Relation Extraction Tasks.
+Polylingual Topic Models.
+Relation Extraction with Matrix Factorization and Universal Schemas.
+Bi-directional Joint Inference for Entity Resolution and Segmentation Using Imperatively-Defined Factor Graphs.
+An Introduction to Conditional Random Fields.
+Using Reinforcement Learning to Spider the Web Efficiently.
+Distantly Labeling Data for Large Scale Cross-Document Coreference
+Learning with Scope, with Application to Information Extraction and Classification
+Advances in Web Mining and Web Usage Analysis, 9th International Workshop on Knowledge Discovery on the Web, WebKDD 2007, and 1st International Workshop on Social Networks Analysis, SNA-KDD 2007, San Jose, CA, USA, August 12-15, 2007. Revised Papers
+Scalable Probabilistic Databases with Factor Graphs and MCMC
+Learning Field Compatibilities to Extract Database Records from Unstructured Text.
+Learning Dynamic Feature Selection for Fast Sequential Prediction.
+Challenges in information retrieval and language modeling: report of a workshop held at the center for intelligent information retrieval, University of Massachusetts Amherst, September 2002.
+Sparse Forward-Backward Using Minimum Divergence Beams for Fast Training Of Conditional Random Fields.
+Monte Carlo MCMC: Efficient Inference by Approximate Sampling.
+Compositional Vector Space Models for Knowledge Base Completion.
+Alternating Projections for Learning with Expectation Constraints
+Generalizing to Unseen Entities and Entity Pairs with Row-less Universal Schema.
+Early results for Named Entity Recognition with Conditional Random Fields, Feature Induction and Web-Enhanced Lexicons.

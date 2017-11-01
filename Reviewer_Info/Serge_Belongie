@@ -1,0 +1,143 @@
+The Ignorant Led by the Blind: A Hybrid Human-Machine Vision System for Fine-Grained Categorization.
+Spatio-temporal texture synthesis and image inpainting for video applications.
+Tropel: Crowdsourcing Detectors with Minimal Training.
+Object categorization using co-occurrence, location and appearance.
+Robust Object Tracking with Online Multiple Instance Learning.
+Semantic Video Segmentation : Exploring Inference Efficiency.
+Discriminative Regions: A Substrate for Analyzing Life-Logging Image Sequences.
+PlateClick: Bootstrapping Food Preferences Through an Adaptive Visual Interface.
+SD-VBS: The San Diego Vision Benchmark Suite.
+Objects in Context.
+Grouping in the Normalized Cut Framework.
+Task Specific Local Region Matching.
+Weakly Supervised Object Localization with Stable Segmentations.
+Visipedia circa 2015.
+On Optimizing Human-Machine Task Assignments.
+Matching Shapes.
+Ultra-wide Baseline Aerial Imagery Matching in Urban Environments.
+Recognizing Groceries in situ Using in vitro Training Data.
+Adaptively Learning the Crowd Kernel
+Adaptively Learning the Crowd Kernel.
+Non-isometric manifold learning: analysis and an algorithm.
+Multiclass recognition and part localization with humans in the loop.
+Structure and View Estimation for Tomographic Reconstruction: A Bayesian Approach.
+On Refractive Optical Flow.
+Improved Bird Species Recognition Using Pose Normalized Deep Convolutional Nets.
+Blobworld: Image Segmentation Using Expectation-Maximization and Its Application to Image Querying.
+Textons, Contours and Regions: Cue Integration in Image Segmentation.
+A Feature-Based Approach for Determining Dense Long Range Correspondences.
+Can we still avoid automatic face detection?
+Globally Optimal Algorithms for Stratified Autocalibration.
+Multi-class object localization by combining local contextual interactions.
+Context based object categorization: A critical survey.
+Framework for Parsing, Visualizing and Scoring Tissue Microarray Images.
+ImprovingWeb-based Image Search via Content Based Clustering.
+Counting Crowded Moving Objects.
+Finding Boundaries in Natural Images: A New Method Using Point Descriptors and Area Completion.
+Similarity Comparisons for Interactive Fine-Grained Categorization.
+Beyond Pairwise Clustering.
+Toward real-time grocery detection for the visually impaired.
+Shape contexts enable efficient retrieval of similar shapes.
+Learning Visual Clothing Style with Heterogeneous Dyadic Co-Occurrences.
+Color- and Texture-based Image Segmentation Using the Expectation-Maximization Algorithm and its Application to Content-Based Image Retrieval.
+Fast Feature Pyramids for Object Detection.
+Experiments on an RGB-D Wearable Vision System for Egocentric Activity Recognition.
+Periodic Motion Detection and Segmentation via Approximate Sequence Alignment.
+Fingerprint recognition system performance in the maritime environment.
+CAPTCHA-based image labeling on the Soylent Grid.
+Big Little Icons.
+Detecting Temporally Consistent Objects in Videos through Object Class Label Propagation.
+Overcomplete steerable pyramid filters and rotation invariance.
+COCO-Text: Dataset and Benchmark for Text Detection and Recognition in Natural Images.
+Attribute-Based Detection of Unfamiliar Classes with Humans in the Loop.
+Removing pedestrians from Google street view images.
+Visual tracking with online Multiple Instance Learning.
+Microsoft COCO: Common Objects in Context.
+Vision in the Small: Reconstructing the Structure of Protein Macromolecules from Cryo-Electron Micrographs.
+Contour and Texture Analysis for Image Segmentation.
+Visual Recognition with Humans in the Loop.
+Higher order learning with graphs.
+Word Spotting in the Wild.
+Improving Streaming Video Segmentation with Early and Mid-Level Visual Processing.
+Tracking Multiple Mouse Contours (without Too Many Samples).
+PhD forum: A distributed architecture for object tracking across intelligent vision sensor network with constrained resources.
+Similarity metrics for categorization: From monolithic to category specific.
+Active Learning in Face Recognition: Using Tracking to Build a Face Model.
+On the non-optimality of four color coding of image partitions.
+Spectral Partitioning with Indefinite Kernels Using the Nyström Extension.
+Scenes vs. objects: A comparative study of two approaches to context based recognition.
+Adaptive ranking of facial attractiveness.
+Region-Based Image Retrieval (Eingeladener Vortrag).
+Bird Species Categorization Using Pose Normalized Deep Convolutional Nets.
+Building a bird recognition app and large scale dataset with citizen scientists: The fine print in fine-grained dataset collection.
+Pose, illumination and expression invariant pairwise face-similarity measure via Doppelgänger list comparison.
+Locally Uniform Comparison Image Descriptor.
+Efficient Spatiotemporal Grouping Using the Nystro"m Method.
+Learning Concept Embeddings with Combined Human-Machine Expertise.
+Improving streaming video segmentation with early and mid-level visual processing.
+Fine-grained Categorization and Dataset Bootstrapping using Deep Metric Learning with Humans in the Loop.
+Multiple Instance Learning with Manifold Bags.
+Wet fingerprint recognition: Challenges and opportunities.
+Multiple Component Learning for Object Detection.
+Learning to Traverse Image Manifolds.
+Globally Optimal Affine and Metric Upgrades in Stratified Autocalibration.
+Blobworld: A System for Region-Based Image Indexing and Retrieval.
+Detecting temporally consistent objects in videos through object class label propagation.
+Learning Visual Clothing Style with Heterogeneous Dyadic Co-occurrences.
+Face Box Shape and Verification.
+Recognizing locations with Google Glass: A case study.
+Cross-View Image Geolocalization.
+Residual Networks are Exponential Ensembles of Relatively Shallow Networks.
+Analyzing sedentary behavior in life-logging images.
+Match-time covariance for descriptors.
+Toward a perceptual space for gloss.
+Example based depth from fog.
+From Bikers to Surfers: Visual Recognition of Urban Tribes.
+Practical Global Optimization for Multiview Geometry.
+Structure from Periodic Motion.
+Non-rigid surface detection for gestural interaction with applicable surfaces.
+End-to-end scene text recognition.
+Approximate Thin Plate Spline Mappings.
+OpenScan: A Fully Transparent Optical Scan Voting System.
+Video text detection and recognition: Dataset and benchmark.
+Image and Video Segmentation: The Normalized Cut Framework.
+Soylent Grid: it's Made of People.
+EdgeSonic: image feature sonification for the visually impaired.
+Normalized cuts in 3-D for spinal MRI segmentation.
+Supervised Learning of Edges and Object Boundaries.
+Relative ranking of facial attractiveness.
+Shape Matching and Object Recognition Using Shape Contexts.
+Efficient Large-Scale Structured Learning.
+Learning deep representations for ground-to-aerial geolocalization.
+Finding Pictures of Objects in Large Collections of Images.
+Urban tribes: Analyzing group photos from a social perspective.
+Context Matters: Refining Object Detection in Video with Recurrent Neural Networks.
+Disentangling Nonlinear Perceptual Embeddings With Multi-Query Triplet Networks.
+Shape Context: A New Descriptor for Shape Matching and Object Recognition.
+Finding objects in image databases by grouping.
+Model-Based Halftoning for Color Image Segmentation.
+Unsupervised Color Decomposition Of Histologically Stained Tissue Samples.
+The Fastest Pedestrian Detector in the West.
+Cost-Effective HITs for Relative Similarity Comparisons.
+Beyond Semantic Image Segmentation : Exploring Efficient Inference in Video.
+Feature Mining for Image Classification.
+JBoost Optimization of Color Detectors for Autonomous Underwater Vehicle Navigation.
+Strong supervision from weak annotation: Interactive training of deformable part models.
+When crowds hold privileges: Bayesian unsupervised representation learning with oracle constraints.
+A Feature-based Approach for Dense Segmentation and Estimation of Large Disparity Motion.
+Model Order Selection and Cue Combination for Image Segmentation.
+From region similarity to category discovery.
+Linear embeddings in non-rigid structure from motion.
+Yum-me: Personalized Healthy Meal Recommender System.
+Automatic co-registration of volumetric images based on implanted fiducial markers.
+Editorial: Special Issue on Active and Interactive Methods in Computer Vision.
+Re-thinking non-rigid structure from motion.
+Generalized Non-metric Multidimensional Scaling.
+The Multidimensional Wisdom of Crowds.
+Learning Localized Perceptual Similarity Metrics for Interactive Categorization.
+Camera Distance from Face Images.
+What Went Where.
+Efficient Shape Matching Using Shape Contexts.
+Structured importance sampling of environment maps.
+Integral Channel Features.
+Spectral Grouping Using the Nyström Method.

@@ -1,0 +1,2 @@
+CONDITIONAL GAUSSIAN MIXTURE MODELS FOR ENVIRONMENTAL RISK MAPPING
+ Abstract.  This paper proposes the use of Gaussian Mixture Models to estimate conditional probability density functions in an environmental risk mapping context.  A conditional Gaussian Mixture Model has been compared to the geostatistical method of Sequential Gaussian Simulations and shows good performances in reconstructing local PDF.  The data sets used for this comparison are parts of the digital elevation model of Switzerland.

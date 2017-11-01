@@ -1,0 +1,2 @@
+A CASE STUDY IN EXPERIMENTAL DESIGN APPLIED TO GENETIC ALGORITHMS WITH APPLICATIONS TO DNA SEQUENCE ASSEMBLY
+ Synoptic Abstract Experimental design and response surface methodology is applied to tuning the parameters of an optimization program employing genetic algorithms.  Attention is directed to the combinatorially challenging DNA sequence assembly problem.  Fine tuning of a 10K size test problem leads to a considerably improved solution to a 35K problem of sequence assembly that is of significant biological interest.

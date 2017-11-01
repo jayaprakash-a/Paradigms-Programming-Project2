@@ -1,0 +1,2 @@
+Combining Naive Bayes and n-Gram Language Models for Text Classification
+ Abstract.  We augment the naive Bayes model with an n-gram language model to address two shortcomings of naive Bayes text classifiers.  The chain augmented naive Bayes classifiers we propose have two advantages over standard naive Bayes classifiers.  First, a chain augmented naive Bayes model relaxes some of the independence assumptions of naive Bayes

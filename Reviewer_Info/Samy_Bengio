@@ -1,0 +1,163 @@
+Machine Learning for Multimodal Interaction, Second International Workshop, MLMI 2005, Edinburgh, UK, July 11-13, 2005, Revised Selected Papers
+Large-scale content-based audio retrieval from text queries.
+Inferring document similarity from hyperlinks.
+Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks.
+Modeling High-Dimensional Discrete Data with Multi-Layer Neural Networks.
+Measuring the performance of face localization systems.
+The Vehicle Routing Problem with Time Windows Part II: Genetic Search.
+Offline Recognition of Unconstrained Handwritten Texts Using HMMs and Statistical Language Models.
+On automatic annotation of meeting databases.
+Speech & face based biometric authentication at IDIAP.
+Benchmarking Non-Parametric Statistical Tests.
+Shared Context Probabilistic Transducers.
+Multi Channel Sequence Processing.
+End-to-end text-dependent speaker verification.
+F-ratio Client-Dependent Normalisation for Biometric Authentication Tasks.
+A Neural Network for Text Representation.
+Large-Scale Music Annotation and Retrieval: Learning to Rank in Joint Semantic Spaces
+Kernel matching pursuit for large datasets.
+Spectral Subband Centroids as Complementary Features for Speaker Authentication.
+Robust speech recognition and feature extraction using HMM2.
+Show and Tell: A Neural Image Caption Generator.
+A Neural Network to Detect Homologies in Proteins.
+A Parallel Mixture of SVMs for Very Large Scale Problems.
+Developing and enhancing posterior based speech recognition systems.
+Show and Tell: Lessons learned from the 2015 MSCOCO Image Captioning Challenge.
+Semi-supervised meeting event recognition with adapted HMMs.
+A statistical significance test for person authentication.
+Boosting word error rates.
+Learning the decision function for speaker verification.
+A graphical model for chord progressions embedded in a psychoacoustic space.
+Face Authentication Competition on the BANCA Database.
+The Difficulty of Training Deep Architectures and the Effect of Unsupervised Pre-Training.
+User authentication via adapted statistical models of face images.
+Multimodal speech processing using asynchronous Hidden Markov Models.
+WSABIE: Scaling Up to Large Vocabulary Image Annotation.
+Online policy adaptation for ensemble classifiers.
+Semi-Supervised Kernel Methods for Regression Estimation.
+Scalability Analysis of Audio-Visual Person Identity Verification.
+Detecting Group Interest-Level in Meetings.
+A unified framework for score normalization techniques applied to text-independent speaker verification.
+A supervised learning approach based on STDP and polychronization in spiking neuron networks.
+Machine Learning for Multimodal Interaction, Third International Workshop, MLMI 2006, Bethesda, MD, USA, May 1-4, 2006, Revised Selected Papers
+A Probabilistic Model for Chord Progressions.
+Show and tell: A neural image caption generator.
+A kernel trick for sequences applied to text-independent speaker verification systems.
+Order Matters: Sequence to sequence for sets.
+Robust Features for Frontal Face Authentication in Difficult Image Conditions.
+Towards Predicting Optimal Fusion Candidates: A Case Study on Biometric Authentication Tasks.
+HMM2- extraction of formant structures and their use for robust ASR.
+Extracting information from multimedia meeting collections.
+Learning to Retrieve Images from Text Queries with a Discriminative Model.
+Evaluation of formant-like features for ASR.
+Generating Sentences from a Continuous Space.
+Graph-based transformation manifolds for invariant pattern recognition with kernel methods.
+Automatic Analysis of Multimodal Group Actions in Meetings.
+Dynamical Resource Reservation Scheme in an ATM Network Using Neural Network-Based Traffic Prediction.
+Noise-robust multi-stream fusion for text-independent speaker authentication.
+Improving face authentication using virtual samples.
+Sharing Representations for Long Tail Computer Vision Problems.
+Towards Computer Understanding of Human Interactions.
+Online adaptive policies for ensemble classifiers.
+Phoneme and Sentence-Level Ensembles for Speech Recognition.
+Semi-Supervised Adapted HMMs for Unusual Event Detection.
+Word embeddings for speech recognition.
+The Need for Open Source Software in Machine Learning.
+DeViSE: A Deep Visual-Semantic Embedding Model.
+A gentle Hessian for efficient gradient descent.
+Increasing speech recognition robustness with HMM2.
+Use of Modular Architectures for Time Series Prediction.
+Training highly multiclass classifiers.
+The BANCA Database and Evaluation Protocol.
+HMM2- a novel approach to HMM emission probability estimation.
+Offline Recognition of Large Vocabulary Cursive Handwritten Text.
+On the search for new learning rules for ANNs.
+Sound Retrieval and Ranking Using Sparse Auditory Representations.
+Group Sparse Coding.
+Discriminative keyword spotting.
+Large scale image annotation: learning to rank with joint word-image embeddings.
+Density estimation using Real NVP.
+An Online Sequence-to-Sequence Model Using Partial Conditioning.
+Face Verification Using Adapted Generative Models.
+An Asynchronous Hidden Markov Model for Audio-Visual Speech Recognition.
+A Neural Network to Retrieve Images from Text Queries.
+Local collaborative ranking.
+On Accuracy/Robustness/Complexity Trade-Offs in Face Verification.
+On transforming statistical models for non-frontal face verification.
+Estimating the Confidence Interval of Expected Performance Curve in Biometric Authentication using Joint Bootstrap.
+Can Chimeric Persons Be Used in Multimodal Biometric Authentication Experiments?.
+New Approaches Towards Robust, Adaptive Speech Recognition (invited paper).
+An Online Algorithm for Large Scale Image Similarity Learning.
+A Discriminative Approach for the Retrieval of Images from Text Queries.
+Posterior based keyword spotting with a priori thresholds.
+Why Does Unsupervised Pre-training Help Deep Learning?
+A Score-Level Fusion Benchmark Database for Biometric Authentication.
+Probabilistic Melodic Harmonization.
+Tangent Vector Kernels for Invariant Image Classification with SVMs.
+Performance Generalization in Biometric Authentication Using Joint User-Specific and Sample Bootstraps.
+Special Uses and Abuses of the Fiat-Shamir Passport Protocol.
+EER of Fixed and Trainable Fusion Classifiers: A Theoretical Study with Application to Biometric Authentication Tasks.
+Learning semantic relationships for better action retrieval in images.
+Offline Cursive Word Recognition using Continuous Density Hidden Markov Models Trained with PCA or ICA Features.
+End-to-End Text-Dependent Speaker Verification.
+Boosting HMMs with an application to speech recognition.
+Introduction to the Issue on Statistical Learning Methods for Speech and Language Processing.
+A distance model for rhythms.
+Hierarchical Multi-stream Posterior Based Speech Recognition System.
+Revisiting Distributed Synchronous SGD.
+Face Authentication Test on the BANCA Database.
+Using Chimeric Users to Construct Fusion Classifiers in Biometric Authentication Tasks: An Investigation.
+Investigating Lexical Substitution Scoring for Subtitle Generation.
+Taking on the curse of dimensionality in joint distributions using neural networks.
+A Novel Approach to Combining Client-Dependent and Confidence Information in Multimodal Biometrics.
+Links between perceptrons, MLPs and SVMs.
+Large Scale Online Learning of Image Similarity through Ranking.
+A Probabilistic Interpretation of SVMs with an Application to Unbalanced Classification.
+Improving Fusion with Margin-Derived Confidence in Biometric Authentication Tasks.
+Client Dependent GMM-SVM Models for Speaker Verification.
+Multimodal Authentication Using Asynchronous HMMs.
+Delay learning and polychronization for reservoir computing.
+Modeling human interaction in meetings.
+HMM and IOHMM modeling of EEG rhythms for asynchronous BCI systems.
+Confidence measures for multimodal identity verification.
+Discriminative kernel-based phoneme sequence recognition.
+Database, protocols and tools for evaluating score-level fusion algorithms in biometric authentication.
+Why do multi-stream, multi-band and multi-modal approaches work on biometric user authentication tasks?
+Using Web Co-occurrence Statistics for Improving Image Categorization.
+Exploring Contextual Information in a Layered Framework for Group Action Recognition.
+Automatic speech recognition using dynamic bayesian networks with both acoustic and articulatory variables.
+Improving Face Verification Using Skin Color Information.
+Using More Informative Posterior Probabilities for Speech Recognition.
+Biometric Person Authentication Is a Multiple Classifier Problem.
+Machine Learning for Multimodal Interaction, First International Workshop,MLMI 2004, Martigny, Switzerland, June 21-23, 2004, Revised Selected Papers
+Predictive models for music.
+Learning Influence among Interacting Markov Chains.
+Adversarial examples in the physical world.
+Writer adaptation techniques in off-line cursive word recognition.
+Zero-Shot Learning by Convex Combination of Semantic Embeddings.
+Stochastic Learning of Strategic Equilibria for Auctions.
+Modeling Interactions from Email Communication.
+Large-Scale Object Classification Using Label Relation Graphs.
+Large Scale Online Learning of Image Similarity Through Ranking.
+ADIOS: Architectures Deep In Output Space.
+Secure Implementations of Identification Systems.
+Face Verification Competition on the XM2VTS Database.
+Use of Genetic Programming for the Search of a New Learning Rule for Neural Networks.
+The expected performance curve: a new assessment measure for person authentication.
+Probabilistic models for melodic prediction.
+Statistical transformations of frontal models for non-frontal face verification.
+Guest Editors' Introduction: Special Section on Learning Deep Architectures.
+Writer Identification for Smart Meeting Room Systems.
+Scaling Large Learning Problems with Hard Parallel Mixtures.
+Learning the inter-frame distance for discriminative template-based keyword detection.
+A Discriminative Kernel-Based Approach to Rank Images from Text Queries.
+Estimating the quality of face localization for face verification.
+SVMTorch: Support Vector Machines for Large-Scale Regression Problems.
+Modeling Individual and Group Actions in Meetings: A Two-Layer HMM Framework.
+Reward Augmented Maximum Likelihood for Neural Structured Prediction.
+Joint decoding for phoneme-grapheme continuous speech recognition.
+Invariances in kernel methods: From samples to objects.
+A comparative study of adaptation methods for speaker verification.
+Label Embedding Trees for Large Multi-Class Tasks.
+Writer adaptation techniques in HMM based Off-Line Cursive Script Recognition.
+Modeling individual and group actions in meetings with layered HMMs.

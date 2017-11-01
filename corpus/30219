@@ -1,0 +1,2 @@
+Complexity of Learning for Networks of Spiking Neurons with Nonlinear Synaptic Interactions
+ Abstract.  We study model networks of spiking neurons where synaptic inputs interact in terms of nonlinear functions.  These nonlinearities are used to represent the spatial grouping of synapses on the dendrites and to model the computations performed at local branches.  We analyze the complexity of learning in these networks in terms of the VC dimension and the pseudo dimension.  Polynomial upper bounds on these dimensions are derived for various types of synaptic nonlinearities.

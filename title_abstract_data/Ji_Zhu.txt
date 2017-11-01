@@ -1,0 +1,151 @@
+Exponential Decomposition Using Displacement Structure| ABSTRACT In this paper, we present a novel approach to the problem of exponential decomposition.  This method can compute the knots in O(n 2 ) floating-point operations and O(n) storage, where n is the length of the signal sequence. 
+Remembering to Add: Competence-preserving Case-Addition Policies for Case Base Maintenance| Abstract Case-base maintenance is gaining increasing recognition in research and the practical applications of case-based reasoning (CBR).  This intense interest is highlighted by Smyth and Keane's research on case deletion policies.  In their work, Smyth and Keane advocated a case deletion policy, whereby the cases in a case base are classified and deleted based on their coverage potential and adaptation power.  The algorithm was empirically shown to improve the competence of a CBR system and outperform a number of previous deletion-based strategies.  In this paper, we present a different case-base maintenance policy that is based on case addition rather than deletion.  The advantage of our algorithm is that we can place a lower bound on the competence of the resulting case base; we demonstrate that the coverage of the computed case base cannot be worse than the optimal case base in coverage by a fixed lower bound, and the coverage is often much closer to optimum.  We also show that the Smyth and Keane's deletion based policy cannot guarantee any such lower bound.  Our result highlights the importance of finding the right case-base maintenance algorithm in order to guarantee the best case-base coverage.  We demonstrate the effectiveness of our algorithm through an experiment in case-based planning. 
+A Blind Fractionally Spaced Equalizer Using Higher Order Statistics| Abstract---In this paper, we introduce a new blind fractionally spaced equalizer based on the fourth-order statistics of the input symbol sequence.  The input symbol sequence is assumed to come from an independent identically distributed finite alphabet with nonzero fourth-order cumulants.  We formulate the equalizer as a column vector and compute it by simultaneously diagonalizing a set of matrices obtained from the fourth-order cross-cumulants of the input and output of the equalizer.  Simulation results show that this equalizer works well with a short symbol sequence, even if the channel time span is not accurately estimated. 
+INTERNET USE AND SOCIABILITY IN MAINLAND CHINA AND HONG KONG|
+Computing the Solution Path for the Regularized Support Vector Regression| Abstract In this paper we derive an algorithm that computes the entire solution path of the support vector regression, with essentially the same computational cost as fitting one SVR model.  We also propose an unbiased estimate for the degrees of freedom of the SVR model, which allows convenient selection of the regularization parameter. 
+A Method for Inferring Label Sampling Mechanisms in Semi-Supervised Learning| Abstract We consider the situation in semi-supervised learning, where the "label sampling" mechanism stochastically depends on the true response (as well as potentially on the features).  We suggest a method of moments for estimating this stochastic dependence using the unlabeled data.  This is potentially useful for two distinct purposes: a.  As an input to a supervised learning procedure which can be used to "de-bias" its results using labeled data only and b.  As a potentially interesting learning task in itself.  We present several examples to illustrate the practical usefulness of our method. 
+Inducing A Distance Metric From User Preferences For Clustering| Abstract Traditional clustering algorithms cannot incorporate domain expert's preferences into the process of clustering.  Since one major goal of clustering is for the experts to gain insight into a dataset, it makes sense to allow experts to express opinions to guide clustering in some ways.  We propose a mechanism for the experts to express a small number of clustering preferences that they wish to be true.  We devise an algorithm which takes into account the expert constraints and guides the clustering towards them by inducing an appropriate distance metric, so that the final clustering maximally satisfies the expert preferences while is still reasonably good in traditional measures. 
+BLIND EQUALIZATION AND DETECTION FOR OFDM SYSTEMS WITH INSUFFICIENT CYCLIC PREFIX| ABSTRACT In this paper, the problem of equalization and detection for OFDM systems with insufficient cyclic prefix (CP) is considered.  A blind algorithm based on second - order statistics (SOS) is developed to estimate the channel impulse response.  Then this paper explores a method to design the channel-shortening prefilter (CSP), which is used to shorten the channel impulse response to preselected length.  Therefore channel equalization can be implemented by a bank of one -tap complex frequency domain equalizers (FEQ) and signal detection is easily achieved.  The performance of the proposed algorithm is provided through computer simulations. 
+R-Cubed (R 3 ): Rate, Robustness, and Recovery An Availability Benchmark Framework| Abstract: Benchmarks have historically guided research and development in computer systems performance.  As availability becomes an increasingly important metric for evaluating computer systems, there is a natural demand for availability benchmarks.  However, industry-wide availability benchmarks do not exist today.  This paper proposes a framework for benchmarking the availability of computer systems.  Our goal in this effort is to define a framework which can be used to implement availability benchmarks that are applicable across a wide range of systems.  The proposed framework is a hierarchical approach which goes beyond direct benchmarking of availability in terms of number of outage minutes per year.  This paper identifies the three key attributes impacting system availability (fault and maintenance rate, robustness, and recovery), and methods to benchmark these key attributes of availability. 
+Kernel Logistic Regression and the Import Vector Machine| Abstract The support vector machine (SVM) is known for its good performance in binary classification, but its extension to multi-class classification is still an on-going research issue.  In this paper, we propose a new approach for classification, called the import vector machine (IVM), which is built on kernel logistic regression (KLR).  We show that the IVM not only performs as well as the SVM in binary classification, but also can naturally be generalized to the multi-class case.  Furthermore, the IVM provides an estimate of the underlying probability.  Similar to the "support points" of the SVM, the IVM model uses only a fraction of the training data to index kernel basis functions, typically a much smaller fraction than the SVM.  This gives the IVM a computational advantage over the SVM, especially when the size of the training data set is large. 
+Uncoupled variational formulation of a vector Poisson problem| Abstract -- This Note provides a rigorous analysis for the vector Poisson problem with the tangential component(s) of the unknown prescribed on the boundary together with the divergence of the unknown specified on it.  This kind of boundary conditions implies a coupling between the Cartesian components of the unknown in two and three dimensions.  A new uncoupled variational formulation of the problem is presented which is the basis of the influence matrix uncoupling method proposed by Quartapelle and Muzzio [7] and which leads to an alternative finite element solution method. 
+Research Expression profiling of the schizont and trophozoite stages of Plasmodium falciparum with a long-oligonucleotide microarray| Abstract Background: The worldwide persistence of drug-resistant Plasmodium falciparum, the most lethal variety of human malaria, is a global health concern.  The P.  falciparum sequencing project has brought new opportunities for identifying molecular targets for antimalarial drug and vaccine development.  Results: We developed a software package, ArrayOligoSelector, to design an open reading frame (ORF)-specific DNA microarray using the publicly available P.  falciparum genome sequence.  Each gene was represented by one or more long 70mer oligonucleotides selected on the basis of uniqueness within the genome, exclusion of low-complexity sequence, balanced base composition and proximity to the 3# end.  A first-generation microarray representing approximately 6,000 ORFs of the P.  falciparum genome was constructed.  Array performance was evaluated through the use of control oligonucleotide sets with increasing levels of introduced mutations, as well as traditional northern blotting.  Using this array, we extensively characterized the gene-expression profile of the intra-erythrocytic trophozoite and schizont stages of P.  falciparum.  The results revealed extensive transcriptional regulation of genes specialized for processes specific to these two stages.  Conclusions: DNA microarrays based on long oligonucleotides are powerful tools for the functional annotation and exploration of the P.  falciparum genome.  Expression profiling of trophozoites and schizonts revealed genes associated with stage-specific processes and may serve as the basis for future drug targets and vaccine development. 
+Computing the effective diffusivity using a spectral method| Abstract We developed a numerical method for computing the effective properties of a microstructure.  The method is particularly efficient and accurate for microstructures with a diffuse-interface description similar to those generated from phase-field simulations.  In particular, we considered the diffusive transport property of a microstructure by solving the steady-state diffusion equation using a Fourier -- Chebyshev spectral method. 
+Margin Maximizing Loss Functions| Abstract Margin maximizing properties play an important role in the analysis of classification models, such as boosting and support vector machines.  Margin maximization is theoretically interesting because it facilitates generalization error analysis, and practically interesting because it presents a clear geometric interpretation of the models being built.  We formulate and prove a sufficient condition for the solutions of regularized loss functions to converge to margin maximizing separators, as the regularization vanishes.  This condition covers the hinge loss of SVM, the exponential loss of AdaBoost and logistic regression loss.  We also generalize it to multi-class classification problems, and present margin maximizing multiclass versions of logistic regression and support vector machines. 
+Clustering with Expert Opinion| Abstract Traditional clustering algorithms cannot incorporate domain expert's opinion into the process of clustering.  Since one major goal of clustering is for the experts to gain insight into a dataset, it makes sense to allow experts to have some degree of control over the cluster results.  We propose a mechanism for the experts to request a small number of clustering constraints that they wish to be true.  We devise an algorithm which takes into account the expert constraints and guides the clustering towards them, so that the final clustering satisfies the maximal number of expert constraints while is still reasonably good in traditional measures.  We plan to work on the theory and implementation of this idea, and test it on both synthetic and real world datasets. 
+Some similarity solutions of the Navier-Stokes equations and related topics| Abstract We consider a semilinear equation arising from the Navier-Stokes equations -the governing equations of viscous fluid motion -- and related model equations.  The solutions of the semilinear equation represent a certain class of exact solutions of the Navier-Stokes equations.  Both the equation and our models have non-local terms.  We will show that the non-locality will play an intriguing role for the blowup and/or global existence of the solutions and that the convection term, which is often neglected in the study of the blow-up problems, plays a very decisive role.  In addition to our new contributions, open problems and known facts are surveyed. 
+A CASE-ADDITION POLICY FOR CASE-BASE MAINTENANCE| Abstract A major problem in many practical applications of case-based reasoning and knowledge reuse is how to keep the case bases concise and complete.  To solve this problem requires repeated maintenance operations to be applied to case bases.  Different maintenance policies may result in case bases with very different quality.  In this paper, we present a case-addition maintenance policy that is guaranteed to return a concise case base with good coverage quality.  We demonstrate that the coverage of the case base computed by the case-addition algorithm is no worse than the optimal case-base coverage by a fixed lower bound.  We also show that the algorithm implementing the case-addition policy is efficient.  Our result also highlights benefit reduction as a key factor in influencing the convergence of case-base coverage when cases are added to a case base.  Through our theoretical analysis, we analytically derive the wellknown coverage convergence curves commonly displayed in case-based reasoning experiments, and show that benefit reduction can be used as a predictor for convergence speed. 
+Sparsity and smoothness via the fused lasso| Abstract The lasso (Tibshirani 1996) penalizes a least squares regression by the sum of the absolute values (L 1 norm) of the coecients.  The form of this penalty encourages sparse solutions, that is, having many coecients equal to zero.  In this paper we propose the \fused lasso", a generalization of the lasso designed for problems with features that come in a natural order.  The fused lasso penalizes both the L 1 norm of the coecients and their successive differences.  Thus it encourages both sparsity of the coecients and sparsity of their differences, that is, local constancy of the coecient profile.  The fused lasso is especially useful when the number of features p # N , the sample size.  The technique is also extended to the \hinge" loss function, that underlies the support vector classifier.  We illustrate the methods on examples from protein mass spectroscopy and gene expression data. 
+Decay in Perturbative QCD Approach| Abstract The rare decay B 0 ! fiff can occur only via penguin annihilation topology in the standard model.  We calculate this channel in the perturbative QCD approach.  The predicted branching ratio is very small at (10- 8 ).  We also give the polarization fractions, which shows that the transverse polarization contribution is comparable to the longitudinal one, due to a big transverse contribution from factorizable diagrams.  The small branching ratio in SM, makes it sensitive to any new physics contributions. 
+Column-Anchored Zeroforcing Blind Equalization for Multiuser Wireless FIR Channels| Abstract---We propose a direct blind zeroforcing approach to cancel intersymbol interference (ISI) in multiple user finite impulse response (FIR) channels.  By selectively anchoring columns of the channel convolution matrix, we present two columnanchored zeroforcing equalizers (CAZE), one without output delay and one with a chosen delay.  Unlike many known blind identification algorithms, these equalizers do not need an accurate estimate of the channel orders.  Exploiting second-order statistics (SOS) of the received signals, they can retain preselected ddd columns in the channel convolution matrix (ddd is the number of users) and force the remaining columns to zero.  CAZE can effectively equalize single-input--multiple-output (SIMO) systems and can reduce dynamic multiple-input--multiple-output (MIMO) systems into a memoryless signal mixing system for source separation.  Simulation results show that the CAZE is not only effective for blind equalization of linear quadrature amplitude modulation (QAM) systems, but it is also applicable to the nonlinear GMSK modulation in the popular wireless GSM systems when computational cost severely limits the use of nonlinear methods such as the Viterbi algorithm. 
+[31]| , "A numerical algorithm for implementing the single-stage maximization criterion for multichannel blind deconvolution," in Proc.  EUSIPCO-98, Rhodes, Greece, 1998, pp.  1649--1652.  [32] S.  Ohno and Y.  Inouye, "A least-squares interpretation of the singlestage maximization criterion for multichannel blind deconvolution," in Proc.  ICASSP-98, Seattle, WA, 1998, pp.  2101--2104.  [33] H.  Luo and R.  Liu, "Second-order statistics blind MIMO-FIR channel equalization for antenna array-based wireless communications
+1-norm Support Vector Machines| Abstract The standard 2-norm SVM is known for its good performance in twoclass classication.  In this paper, we consider the 1-norm SVM.  We argue that the 1-norm SVM may have some advantage over the standard 2-norm SVM, especially when there are redundant noise features.  We also propose an efcient algorithm that computes the whole solution path of the 1-norm SVM, hence facilitates adaptive selection of the tuning parameter for the 1-norm SVM. 
+The Entire Regularization Path for the Support Vector Machine| Abstract In this paper we argue that the choice of the SVM cost parameter can be critical.  We then derive an algorithm that can fit the entire path of SVM solutions for every value of the cost parameter, with essentially the same computational cost as fitting one SVM model. 
+The Transcriptome of the Intraerythrocytic Developmental Cycle of Plasmodium falciparum| Plasmodium falciparum is the causative agent of the most burdensome form of human malaria, affecting 200--300 million individuals per year worldwide.  The recently sequenced genome of P.  falciparum revealed over 5,400 genes, of which 60% encode proteins of unknown function.  Insights into the biochemical function and regulation of these genes will provide the foundation for future drug and vaccine development efforts toward eradication of this disease.  By analyzing the complete asexual intraerythrocytic developmental cycle (IDC) transcriptome of the HB3 strain of P.  falciparum, we demonstrate that at least 60% of the genome is transcriptionally active during this stage.  Our data demonstrate that this parasite has evolved an extremely specialized mode of transcriptional regulation that produces a continuous cascade of gene expression, beginning with genes corresponding to general cellular processes, such as protein synthesis, and ending with Plasmodium-specific functionalities, such as genes involved in erythrocyte invasion.  The data reveal that genes contiguous along the chromosomes are rarely coregulated, while transcription from the plastid genome is highly coregulated and likely polycistronic.  Comparative genomic hybridization between HB3 and the reference genome strain (3D7) was used to distinguish between genes not expressed during the IDC and genes not detected because of possible sequence variations.  Genomic differences between these strains were found almost exclusively in the highly antigenic subtelomeric regions of chromosomes.  The simple cascade of gene regulation that directs the asexual development of P.  falciparum is unprecedented in eukaryotic biology.  The transcriptome of the IDC resembles a ``just-in-time" manufacturing process whereby induction of any given gene occurs once per cycle and only at a time when it is required.  These data provide to our knowledge the first comprehensive view of the timing of transcription throughout the intraerythrocytic development of P.  falciparum and provide a resource for the identification of new chemotherapeutic and vaccine candidates. 
+A-posteriori error estimation, adaptive mesh refinement and multigrid methods using hierarchical finite element bases|
+SpecC: Specification Language and Methodology,|
+The SpecC Methodology|
+The SpecC Language Reference Manual|
+Efficiently mining frequent itemsets from very large databases|
+Kernel Logistic Regression and Import Vector Machine,|
+A generalized dynamic circuit model of magnetic cores for low- and high-frequency applications-part i: Circuit model formulation and implementation",|
+The superconvergent patch recovery and a posteriori error estimates| Part 1: the recovery technique. 
+SCPD: a promoter database of the yeast Saccharomyces cerevisiae|
+Cluster, function and promoter: analysis of yeast expression array|
+Distribution function of the vertical eject velocities of the saltating sand particles in blowing sand cloud|
+Quenching and propagation of bistable reaction-diffusion fronts in multidimensional periodic media,|
+Centralisers in the braid group and singular braid monoid,|
+Properties and application of parallel combinatory SS communication systems,|
+IP-Centric Methodology and Specification Language|
+An alternative-exon database and its statistical analysis|
+Blind source separation based on output independence - theory and implementation,|
+A New Reynolds Stress Algebraic Equation Model|
+A simple error estimator and adaptive procedure for practical engineering analysis|
+A new parallel algorithm for the numerical solutions of time dependent partial differential equations,|
+On the Optimization of CMOS Circuits"|
+Distance to default|
+Application of empirical discovery in knowledge acquisition|
+"A matrix decomposition method for blind equalization of FIR channels,|
+Head orientation and gaze direction in meetings|
+SPIDER and WEB: processing and visualization of images in 3D electron microscopy and related fields|
+Smiles and Frowns in migration/velocity analysis",|
+"A polynomial barrier algorithm for linearly constrained convex programming problems,"|
+Profitability and Marketability of the Top 55|
+Neural network based fuzzy identification with application to modeling and control of complex systems,|
+Effective and practical h-p version adaptive analysis procedures for the finite element method|
+Supporting differentiated services with per-class traffic engineering in MPLS",|
+The SpecC Methodology," Department of Information and Computer Science,|
+The super convergent patch recovery (SPR) and adaptive finite element refinement',|
+An integrative genomics approach to the reconstruction of gene networks in segregating populations|
+Simulation of Front Propagation at Large Non-dimensional Flow Disturbance Intensities,|
+On S-Shaped bifurcation curves for multiparameter positone problems,|
+Positive solutions for classes of positone problems when a parameter is negative,|
+Micromagnetic Studies of Metallic Thin Films,"|
+Magnetization Reversal in CoCr Thin Films,"|
+"Geometric studies on variable radius sprial comebeam scanning,|
+Preparation and characteristics of LiF:Mg,Cu,P thermoluminescent material|
+Hematopoietic cytokines, transcription factors and lineage commitment|
+SPEC C:|
+Transcriptome of the Intraerythrocytic Developmental Cycle of Plasmodium falciparum|
+Exact penalization and necessary optimality conditions for generalized bilevel programming problems,|
+Boosting as a Regularized Path to a Maximum Margin Classifier|
+Flexi-Modal and Multi-Machine User Interfaces|
+Discussion of boosting papers|
+Assimilation of satellite altimetry into a western North Pacific operational model|
+A path following algorithm for a class of convex programming problems|
+A polynomial path--following algorithm for linearly constrained convex programming| Talk held at the ORSA/TIMS Joint National Meeting in. 
+Controlling the parameter in the logarithmic barrier term for convex programming problems| Working Paper Series 90--12,. 
+Central path trajectories and controlled dual perturbations for geometric programming|
+Three-dimensional reconstruction with contrast transfer function correction from energy-filtered cryoelectron micrographs: Procedure and application to the 70s escherichia coli ribosome,|
+Accurate retrieval of transfer function from defocus series, Proceedings of the 13th|
+end-1 encodes an apparent GATA factor that specifies the endoderm precursor in Caenorhabditis elegans embryos|
+Piecewise linear regularized solution paths|
+Dendritic mechanisms underlying the coupling of the dendritic with the axonal action potential initiation zone of adult rat layer 5 pyramidal neurons|
+On singular braids,|
+Calculation of wall-bounded complex AEows and free shear AEows,|
+Directed Markov Point Processes as Limits of Partially Ordered Markov Models,|
+Automatic Bayes Carpentary in Semi-Supervised Classification|
+Multiple ionic conductances of the human dopamine transporter: the actions of dopamine and psychostimulants|
+An alternating test method for concrete permeability,|
+Signaling via #-1 integrins and mitogen-activated protein kinase determines human epidermal stem cell fate in vitro|
+L1 norm support vector machines|
+Engineering Sustainable Semantic Web Sites|
+Helix formation via conformation diffusion search|
+Robustness Benchmarking for Hardware Maintenance Events|
+System Recovery Benchmarking|
+Coarsening kinetics from a variablemobility Cahn-Hilliard equation: Application of a semi-implicit Fourier spectral method,|
+A multiprocessor organization for very large relational databases|
+A delayed multiple copy retransmission scheme for data communication in wireless networks,|
+Dynamosim: A trace-based dynamic compiled instruction set simulator|
+A Predictor-Corrector Algorithm for a Class of Nonlinear Saddle Point Problems,|
+Anticodes for the Grassman and Bilinear Forms Graphs|
+"Boosted Decision Trees, An Alternative to Artificial Neural Networks," e-Print physics/0408124|
+Syntax and semantics of the SpecC language|
+Investigation on new types of semiconducting ceramic gas sensors,|
+An intrinsic oscillation in interneurons of the rat lateral geniculate nucleus|
+Projection methods coupled to level set interface techniques|
+The transcriptome of the intraerythrocytic developmental cycle of|
+"A new approach to the development of automatic quadrilateral mesh generation",|
+"Pyramidal image processing using morphology,|
+Robustness of Efficient DMUs in Data Envelopment Analysis',|
+Discussion on Boosting,|
+SAGE transcript profiles for p53-dependent growth regulation|
+iSelf-association and Hebbian learning in linear neural networks,j|
+Part 1: The Recovery Technique,|
+Origin of neurohypophyseal neuropeptide-FF (FLFQPQRF-NH2)|
+Missile autopilot design using a new linear time-varying control technique,|
+Flexible statistical modeling|
+Discussion of "Consistency in boosting"|
+Classication of gene microarrays by penalized logistic regression|
+Performance evaluation of parallel combinatory SSMA systems in Rayleigh fading channel,|
+Performance Evaluation of TCP over SR-ARQ in Correlated Fading Channel",|
+The Effect of Base Sequence on the Stability of RNA and DNA Single Base Bulges",|
+Column anchoring zeroforcing blind equalization for wireless FIR channels,|
+"A New k-Eddy- viscosity Model for High Reynolds Number Turbulent Flows - Model Development and Validation",|
+A sufficient condition for the arc-pancyclicity of a tournament,|
+Senescence of human fibroblasts induced by oncogenic|
+MetaRTL: raising the abstraction level of RTL design|
+Exact Converions of Earth-Centered, Earth-Fixed Coordinates to Geodetic Coordinates|
+Finite element analysis of a nonstandard vector poisson problem|
+Implementation of a variable-density immersed boundary method, unpublished,|
+Hyperelliptic curves in characteristic 2|
+"A New Reynolds Stress Algebraic Equation Model"| Computational Methods in Applied Mechanics and. 
+Numerical modelling and simulation of hysteresis eects in magnetic cores using transmission-line modelling and the Preisach theory|
+Adaptive techniques in the finite element method|
+Some similarity solutions of Some similarity solutions of the NavierStokes equations and related topics,|
+On the blow-up of some similarity solutions of the Navier-Stokes equations,|
+On an e"cient parallel algorithm for solving time dependent partial di)erential equations,|
+An efficient boundary integral method for the Mullins-Sekerka problem|
+Avery reliable method for detecting bacterial growths using neural networks|
+The boundary element method for three-dimensional Stokes flows exterior to an open surface|
+Reforming of CH4 by partial oxidation: thermodynamic and kinetic analyses,|
+Bayesian Adaptive Alignment and Inference|
+Atomistic simulations for multiscale modeling in bcc metals|
+Time course of inhibition induced by a putative saccadic suppression circuit in the dorsal lateral geniculate nucleus of the rabbit|
+The importance of thermodynamic equilibrium for high throughput gene expression arrays|
+On controlling the parameter in the logarithmic barrier term for convex programming problems,"|
+Analytical properties of the central trajectory in interior points methods,|
+DEA/AR analysis of the 1988-1989 performance of the Nanjing textiles corporation|
+A model of protein synthesis based on cryo-electron microscopy of the E| coli ribosome. 
+A model of the translational apparatus based on a three-dimensional reconstruction of the Escherichia coli ribosome|
+Adaptivity and mesh generation|

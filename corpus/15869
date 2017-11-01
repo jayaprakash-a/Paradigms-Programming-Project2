@@ -1,0 +1,2 @@
+On Completeness and Soundness in Interactive Proof Systems
+ ABSTRACT -- An interactive proof system with Perfect Completeness (resp.  Perfect Soundness) for a language L is an interactive proof (for L) in which for every x 2 L (resp.  x 62 L) the verifier always accepts (resp.  always rejects).  We show that any language having an interactive proof system has one (of the Arthur-Merlin type) with perfect completeness.  On the other hand, only languages in NP have interactive proofs with perfect soundness.

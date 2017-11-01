@@ -1,0 +1,2 @@
+Product Unit Neural Networks with Constant Depth and Superlinear VC Dimension
+ Abstract.  It has remained an open question whether there exist product unit networks with constant depth that have superlinear VC dimension.  In this paper we give an answer by constructing two-hidden-layer networks with this property.  We further show that the pseudo dimension of a single product unit is linear.  These results bear witness to the cooperative effects on the computational capabilities of product unit networks as they are used in practice.

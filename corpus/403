@@ -1,0 +1,2 @@
+Friend-or-Foe Q-learning in General-Sum Games
+ Abstract This paper describes an approach to reinforcement learning in multiagent general-sum games in which a learner is told to treat each other agent as either a \friend" or \foe".  This Q-learning-style algorithm provides strong convergence guarantees compared to an existing Nash-equilibrium-based learning rule.

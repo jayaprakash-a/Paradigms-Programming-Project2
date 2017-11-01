@@ -1,0 +1,144 @@
+Reinforcement learning in the presence of rare events.
+An information-theoretic approach to curiosity-driven reinforcement learning.
+Wikispeedia: An Online Game for Inferring Semantic Distances between Concepts.
+A formal framework for robot learning and control under model uncertainty.
+Correlation of clinical parameters with cardiorespiratory behavior in successfully extubated extremely preterm infants.
+A Canonical Form for Weighted Automata and Applications to Approximate Minimization.
+Compressed Least-Squares Regression on Sparse Spaces.
+An Expectation-Maximization Algorithm to Compute a Stochastic Factorization From Data.
+Policy Gradient Methods for Off-policy Control.
+Sparse Distributed Memories for On-Line Value-Based Reinforcement Learning.
+Learning and Planning with Timing Information in Markov Decision Processes.
+Approximate Predictive Representations of Partially Observable Systems.
+Hierarchical Probabilistic Gabor and MRF Segmentation of Brain Tumours in MRI Volumes.
+Representation Discovery for MDPs Using Bisimulation Metrics.
+Convergent Temporal-Difference Learning with Arbitrary Smooth Function Approximation.
+Smarter Sampling in Model-Based Bayesian Reinforcement Learning.
+Assessing the Predictability of Hospital Readmission Using Machine Learning.
+Learning with Pseudo-Ensembles.
+Learning to Schedule Straight-Line Code.
+Activity Recognition with Mobile Phones.
+Probabilistic Temporal Head Pose Estimation Using a Hierarchical Graphical Model.
+Hierarchical temporal graphical model for head pose estimation and subsequent attribute classification in real-world videos.
+A Study of Approximate Inference in Probabilistic Relational Models.
+On-the-Fly Algorithms for Bisimulation Metrics.
+Apprentissage actif dans les processus décisionnels de Markov partiellement observables L'algorithme MEDUSA.
+Adapted MRF Segmentation of Multiple Sclerosis Lesions Using Local Contextual Information.
+How to Find Big-Oh in Your Data Set (and How Not to).
+Off-policy Learning with Options and Recognizers.
+Basis Function Discovery Using Spectral Clustering and Bisimulation Metrics.
+Incremental Stochastic Factorization for Online Reinforcement Learning.
+Learning the Difference between Partially Observable Dynamical Systems.
+A Convergent Form of Approximate Policy Iteration.
+An Empirical Analysis of Off-policy Learning in Discrete MDPs.
+Equivalence Relations in Fully and Partially Observable Markov Decision Processes.
+Value Pursuit Iteration.
+An Algebraic Approach to Dynamic Epistemic Logic.
+Classification of Normal and Hypoxic Fetuses From Systems Modeling of Intrapartum Cardiotocography.
+Average Reward Optimization Objective In Partially Observable Domains.
+Editorial on Special Issue on Probabilistic Models for Biomedical Image Analysis.
+Classification-Based Approximate Policy Iteration.
+Approximate Value Iteration with Temporally Extended Actions.
+Reinforcement Learning using Kernel-Based Stochastic Factorization.
+Theoretical Results on Reinforcement Learning with Temporally Abstract Options.
+Using bisimulation for policy transfer in MDPs.
+Improved Switching among Temporally Abstract Actions.
+IMaGe: Iterative Multilevel Probabilistic Graphical Model for Detection and Segmentation of Multiple Sclerosis Lesions in Brain MRI.
+On Average Reward Policy Evaluation in Infinite-State Partially Observable Systems.
+Algorithms for multi-armed bandit problems.
+Using Rewards for Belief State Updates in Partially Observable Markov Decision Processes.
+Model minimization by linear PSR.
+Bisimulation Metrics are Optimal Value Functions.
+The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS).
+Organizational principles of cloud storage to support collaborative biomedical research.
+Learning Multi-Step Predictive State Representations.
+Activity Recognition with Time-Delay Emobeddings.
+Improved Estimation in Time Varying Models.
+Between MDPs and Semi-MDPs: A Framework for Temporal Abstraction in Reinforcement Learning.
+Differentially Private Policy Evaluation.
+Analyzing User Trajectories from Mobile Device Data with Hierarchical Dirichlet Processes.
+Generating storylines from sensor data.
+Methods for Computing State Similarity in Markov Decision Processes.
+Time Series Analysis Using Geometric Template Matching.
+Context-Driven Predictions.
+Using MDP Characteristics to Guide Exploration in Reinforcement Learning.
+A Machine Learning Approach to the Detection of Fetal Hypoxia during Labor and Delivery.
+Policy Iteration Based on Stochastic Factorization.
+Using Bisimulation for Policy Transfer in MDPs.
+Sample-based approximate regularization.
+The Workshop Program at the Nineteenth National Conference on Artificial Intelligence.
+Automatically suggesting topics for augmenting text documents.
+Smart exploration in reinforcement learning using absolute temporal difference errors.
+Theoretical results on the effect of 'shortcut' actions in MDPs.
+Completing wikipedia's hyperlink structure through dimensionality reduction.
+Eligibility Traces for Off-Policy Policy Evaluation.
+Multi-time Models for Temporally Abstract Planning.
+Active Learning in Partially Observable Markov Decision Processes.
+Learning from Limited Demonstrations.
+Metrics for Finite Markov Decision Processes
+Reports of the AAAI 2011 Conference Workshops.
+Metrics for Markov Decision Processes with Infinite State Spaces.
+Horde: a scalable real-time architecture for learning knowledge from unsupervised sensorimotor interaction.
+Quantifying the determinants of outbreak detection performance through simulation and machine learning.
+A new Q(lambda) with interim forward view and Monte Carlo equivalence.
+Optimal policy switching algorithms for reinforcement learning.
+Developing Collaborative Golog Agents by Reinforcement Learning.
+Basis refinement strategies for linear value function approximation in MDPs.
+Identification of the Dynamic Relationship Between Intrapartum Uterine Pressure and Fetal Heart Rate for Normal and Hypoxic Fetuses.
+Metrics for Finite Markov Decision Processes.
+PAC-Learning of Markov Models with Hidden State.
+Exponentiated Gradient Methods for Reinforcement Learning.
+Classification Using Phi-Machines and Constructive Function Approximation.
+Using Finite Experiments to Study Asymptotic Performance.
+Using Hierarchical Mixture of Experts Model for Fusion of Outbreak Detection Methods.
+Off-Policy Temporal Difference Learning with Function Approximation.
+A novel similarity measure for time series data with applications to gait and activity recognition.
+Smart Classifier Selection for Activity Recognition on Wearable Devices.
+Soft biometric trait classification from real-world face videos conditioned on head pose estimation.
+Bisimulation for Markov Decision Processes through Families of Functional Expressions.
+Anytime similarity measures for faster alignment.
+Mining Administrative Data to Predict Falls in the Elderly Population.
+Basis function discovery using spectral clustering and bisimulation metrics.
+Point-Based Planning for Predictive State Representations.
+Greedy Confidence Pursuit: A Pragmatic Approach to Multi-bandit Optimization.
+Metrics for Markov Decision Processes with Infinite State Spaces
+Conditional Computation in Neural Networks for faster models.
+Leveraging Lexical Resources for Learning Entity Embeddings in Multi-Relational Data.
+Learning Options in Reinforcement Learning.
+Belief Selection in Point-Based Planning Algorithms for POMDPs.
+Characterizing Markov Decision Processes.
+Data Generation as Sequential Decision Making.
+Bellman Error Based Feature Generation using Random Projections on Sparse Spaces
+Classification-based Approximate Policy Iteration: Experiments and Extended Discussions.
+Data Mining Using Relational Database Management Systems.
+A Framework for Computing Bounds for the Return of a Policy.
+An approximation algorithm for labelled Markov processes: towards realistic approximation.
+Using core beliefs for point-based value iteration.
+Combining TD-learning with Cascade-correlation Networks.
+Fast Image Alignment Using Anytime Algorithms.
+The Option-Critic Architecture.
+Combining and Adapting Software Quality Predictive Models by Genetic Algorithms.
+A Planning Algorithm for Predictive State Representations.
+Bisimulation Metrics for Continuous Markov Decision Processes.
+The Duality of State and Observation in Probabilistic Transition Systems.
+Iterative Multilevel MRF Leveraging Context and Voxel Information for Brain Tumour Segmentation in MRI.
+RedAgent-2003: An Autonomous Market-Based Supply-Chain Management Agent.
+Multi-layer temporal graphical model for head pose estimation in real-world videos.
+Hierarchical Spatio-Temporal Probabilistic Graphical Model with Multiple Feature Fusion for Binary Facial Attribute Classification in Real-World Face Videos.
+Bounding Performance Loss in Approximate MDP Homomorphisms.
+Activity and Gait Recognition with Time-Delay Embeddings.
+Practical Kernel-Based Reinforcement Learning.
+Representing Systems with Hidden State.
+Automatic Construction of Temporally Extended Actions for MDPs Using Bisimulation Metrics.
+Intra-Option Learning about Temporally Abstract Actions.
+Using Linear Programming for Bayesian Exploration in Markov Decision Processes.
+Redagent: winner of TAC SCM 2003.
+Feature selection and oversampling in analysis of clinical data for extubation readiness in extreme preterm infants.
+Automatic basis function construction for approximate dynamic programming and reinforcement learning.
+Variational Generative Stochastic Networks with Collaborative Shaping.
+Learning Compact Representations of Time-Varying Processes.
+Optimizing Energy Production Using Policy Search and Predictive State Representations.
+Fast gradient-descent methods for temporal-difference learning with linear function approximation.
+Bellman Error Based Feature Generation using Random Projections on Sparse Spaces.
+Bayesian and grAphical Models for Biomedical Imaging - First International Workshop, BAMBI 2014, Cambridge, MA, USA, September 18, 2014, Revised Selected Papers
+On-line Reinforcement Learning Using Incremental Kernel-Based Stochastic Factorization.

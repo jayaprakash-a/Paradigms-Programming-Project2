@@ -1,0 +1,2 @@
+A General Weighted Grammar Library
+ Abstract.  We present a general weighted grammar software library, the GRM Library, that can be used in a variety of applications in text, speech, and biosequence processing.  The underlying algorithms were designed to support a wide variety of semirings and the representation and use of very large grammars and automata of several hundred million rules or transitions.  We describe several algorithms and utilities of this library and point out in each case their application to several text and speech processing tasks.

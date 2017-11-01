@@ -1,0 +1,18 @@
+Estimators for Stochastic ``Unification-Based'' Grammars| Abstract Log-linear models provide a statistically sound framework for Stochastic "Unification-Based" Grammars (SUBGs) and stochastic versions of other kinds of grammars.  We describe two computationally-tractable ways of estimating the parameters of such grammars from a training corpus of syntactic analyses, and apply these to estimate a stochastic version of LexicalFunctional Grammar. 
+Estimators for Stochastic iUnication-Basedj Grammars| Abstract Log-linear models provide a statistically sound framework for Stochastic iUnication-Basedj Grammars (SUBGs) and stochastic versions of other kinds of grammars.  We describe two computationally-tractable ways of estimating the parameters of such grammars from a training corpus of syntactic analyses, and apply these to estimate a stochastic version of LexicalFunctional Grammar. 
+Fuzzy Algorithms: With Applications to Image Processing and Pattern Recognition|
+Handwritten numeral recognition using self-organizing maps and fuzzy rules,|
+Approximating likelihoods for large spatial datasets|
+Separation of single and double touching handwritten numeral strings|
+Estimation of Probabilistic Context-Free Grammars|
+Statistical Properties of Probabilistic Context-Free Grammars|
+The first-order asymptotic of waiting times with distortion between stationary processes|
+Composition systems|
+ID3-Derived fuzzy rules and optimized defuzzification for handwritten numeral recognition,|
+ANN-based classication for heart dibrillators|
+Probability models for complex systems|
+On the Consistency of Minimum Complexity Nonparametric Estimation|
+Feature representation, pattern filtering, and temporal alignment for birdsong detection,|
+Architectures and Implementations of Right Ventricular Apex Signal Classifiers for Pacemakers," IEEE Neural Information Processing Systems 1991 (NIPS 91),|
+Estimators for Stochastic|
+Construction of stationary self-similar generalized fields by random wavelet expansion',|

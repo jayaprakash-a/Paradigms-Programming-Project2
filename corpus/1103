@@ -1,0 +1,2 @@
+Optimal Linear Regression on Classifier Outputs
+ Abstract.  We consider the combination of the outputs of several classifiers trained independently for the same discrimination task.  We introduce new results which provide optimal solutions in the case of linear combinations.  We compare our solutions to existing ensemble methods and characterize situations where our approach should be preferred.

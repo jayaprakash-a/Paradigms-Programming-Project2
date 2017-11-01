@@ -1,0 +1,2 @@
+Multisyn Voices from ARCTIC Data for the Blizzard Challenge
+ Abstract This paper describes the process of building unit selection voices for the Festival multisyn engine using four ARCTIC datasets, as part of the Blizzard evaluation challenge.  The build procedure is almost entirely automatic, with very little need for human intervention.  We discuss the difference in the evaluation results for each voice and evaluate the suitability of the ARCTIC datasets for building this type of voice.

@@ -1,0 +1,2 @@
+Gradient-Based Optimization of Hyperparameters
+ a Cholesky decomposition.  In the more general case, we show that the implicit function theorem can be used to derive a formula for the hyperparameter gradient involving second derivatives of the training criterion.

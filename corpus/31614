@@ -1,0 +1,2 @@
+Gaussian Fields for approximate Inference in Sigmoid Belief Networks
+ Abstract We are interested in Sigmoid Belief Networks.  Have a layered structure.  Gaussian Field assumption.  Good for inference in large layered networks.

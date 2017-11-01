@@ -1,0 +1,2 @@
+Exact VC-Dimension of Boolean Monomials \Lambda
+ Abstract We show that the Vapnik-Chervonenkis dimension of Boolean monomials over n variables is at most n for all n 2.  It follows that the VC-dimension is determined exactly and is, except for n = 1, equal to the VC-dimension of the proper subclass of monotone monomials.

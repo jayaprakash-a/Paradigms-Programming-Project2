@@ -1,0 +1,2 @@
+Robust Ensemble Learning for Data Mining
+ Abstract.  We propose a new boosting algorithm which similarly to #Support-Vector Classification allows for the possibility of a pre-speci#ed fraction # of points to lie in the margin area or even on the wrong side of the decision boundary.  It gives a nicely interpretable way of controlling the trade-off between minimizing training error and capacity.  Furthermore, it can act as a filter for finding and selecting informative patterns from a database.

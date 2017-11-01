@@ -1,0 +1,22 @@
+Neural networks at work|
+Model Matching and SFMD Computation|
+A VLSI architecture for a neurocomputer using high-order predicates|
+A VLSI Architecture for High-Performance, LowCost, On-chip Learning|
+Image processing using one-dimensional processor arrays,|
+A Study of Load Leveling|
+The Connectivity Analysis of Simple Association|
+Modifications to Artificial Neural Network Models for Digital Hardware Implementation,|
+The connectivity analysis of simple associations--or--how many connections do you need|
+Information Content of CPU Memory Referencing Behavior|
+Supporting Ada Memory Management in the iAPX-432|
+Information Content of CPU Memory Referencing Behavior|
+How to make a billion connections,"|
+A highly parallel digital architecture for neural network emulation|
+An Implementation of Kohonen's Self-Organizing Map on the Adaptive Solutions Neurocomputer|
+A Neurocomputer for Neural--Network Applications| Parallel Digital Implementations of Neural Networks (. 
+An interconnect structure for wafer scale neurocomputers|
+A Digital VLSI Architecture for Real-World Applications|
+Hebbian feature discovery improves classifier efficiency|
+Distributing back propagation networks over the Intel iPSC/860 hypercube|
+Nguyen N 1991 An implementation of Kohonen's self-organizing map on the adaptive solution neurocomputer|
+Working with neural networks,|

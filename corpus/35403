@@ -1,0 +1,2 @@
+Randomization in Graph Optimization Problems: A Survey
+ Abstract Randomization has become a pervasive technique in combinatorial optimization.  We survey our thesis and subsequent work, which uses four common randomization techniques to attack numerous optimization problems on undirected graphs.

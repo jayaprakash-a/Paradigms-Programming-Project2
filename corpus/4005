@@ -1,0 +1,2 @@
+Fingerprint Classification with Combinations of Support Vector Machines
+ Abstract.  e report about some experiments on the fingerprint database NIST-4 using di(erent combinations of Support Vector Machine (SVM) classifiers.  Images have been preprocessed using the feature extraction technique as in [10].  Our best classification accuracy is 89. 3

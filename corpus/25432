@@ -1,0 +1,2 @@
+The size of triangulations supporting a given link
+ Abstract Let T be a triangulation of S 3 containing a link L in its 1--skeleton.  We give an explicit lower bound for the number of tetrahedra of T in terms of the bridge number of L .  Our proof is based on the theory of almost normal surfaces.

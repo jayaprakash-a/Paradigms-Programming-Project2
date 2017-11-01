@@ -1,0 +1,2 @@
+Inferring Probabilistic Acyclic Automata Using the Minimum Description Length Principle
+ Abstract --- The use of Rissanen's minimum description length principle for the construction of probabilistic acyclic automata (PAA) is explored.  We propose a learning algorithm for a PAA that is adaptive both in the structure and the dimension of the model.  The proposed algorithm was tested on synthetic data as well as on real pattern recognition problems.

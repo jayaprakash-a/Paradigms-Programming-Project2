@@ -1,0 +1,2 @@
+Crowd detection in video sequences
+ Abstract--- We present a real-time system that detects moving crowd in a video sequence.  Crowd detection differs from pedestrian detection in that we assume that no individual pedestrian can be properly segmented in the image.  We propose a scheme that looks at the motion patterns of crowd in the spatio-temporal domain and give an efficient implementation that can detect crowd in real-time.  In our experiments we detected crowd at distances of up to 70m.

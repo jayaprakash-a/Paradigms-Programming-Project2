@@ -1,0 +1,2 @@
+Boosting with Prior Knowledge for Call Classification
+ Abstract--The use of boosting for call classification in spoken language understanding is described in this paper.  An extension to the AdaBoost algorithm is presented that permits the incorporation of prior knowledge of the application as a means of compensating for the large dependence on training data.  We give a convergence result for the algorithm, and we describe experiments on four datasets showing that prior knowledge can substantially improve classification performance.

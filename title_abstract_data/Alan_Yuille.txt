@@ -1,0 +1,138 @@
+The Concave-Convex Procedure| Abstract We introduce the Concave-Convex procedure (CCCP) which constructs discrete time iterative dynamical systems which are guaranteed to monotonically decrease global optimization/energy functions.  It can be applied to (almost) any optimization problem and many existing algorithms can be interpreted in terms of CCCP.  In particular, we prove relationships to some applications of Legendre transform techniques.  We then illustrate CCCP by applications to Potts models, linear assignment, EM algorithms, and Generalized Iterative Scaling (GIS).  CCCP can be used both as a new way to understand existing optimization algorithms and as a procedure for generating new algorithms. 
+Human and Ideal Observers for Detecting Image Curves| Abstract This paper compares the ability of human observers to detect target image curves with that of an ideal observer.  The target curves are sampled from a generative model which specifies (probabilistically) the geometry and local intensity properties of the curve.  The ideal observer performs Bayesian inference on the generative model using MAP estimation.  Varying the probability model for the curve geometry enables us investigate whether human performance is best for target curves that obey specific shape statistics, in particular those observed on natural shapes.  Experiments are performed with data on both rectangular and hexagonal lattices.  Our results show that human observers' performance approaches that of the ideal observer and are, in general, closest to the ideal for conditions where the target curve tends to be straight or similar to natural statistics on curves.  This suggests a bias of human observers towards straight curves and natural statistics. 
+The Bas-Relief Ambiguity| Abstract Since antiquity, artisans have created flattened forms, often called "bas-reliefs," which give an exaggerated perception of depth when viewed from a particular vantage point.  This paper presents an explanation of this phenomena, showing that the ambiguity in determining the relief of an object is not confined to bas-relief sculpture but is implicit in the determination of the structure of any object.  Formally, if the object's true surface is denoted by z true = f(x; y), then we define the "generalized bas-relief transformation" as z = f(x; y) + x + y; with a corresponding transformation of the albedo.  For each image of a Lambertian surface f(x; y) produced by a point light source at infinity, there exists an identical image of a bas-relief produced by a transformed light source.  This equality holds for both shaded and shadowed regions.  Thus, the set of possible images (illumination cone) is invariant over generalized bas-relief transformations.  When = = 0 (e. g.  a classical bas-relief sculpture), we show that the set of possible motion fields are also identical.  Thus, neither small unknown motions nor changes of illumination can resolve the bas-relief ambiguity.  Implications of this ambiguity on structure recovery and shape representation are discussed. 
+Image Parsing: Unifying Segmentation, Detection, and Recognition| Abstract We propose a general framework for parsing images into regions and objects.  In this framework, the detection and recognition of objects proceed simultaneously with image segmentation in a competitive and cooperative manner.  We illustrate our approach on natural images of complex city scenes where the objects of primary interest are faces and text.  This method makes use of bottom-up proposals combined with top-down generative models using the Data Driven Markov Chain Monte Carlo (DDMCMC) algorithm which is guaranteed to converge to the optimal estimate asymptotically.  More precisely, we define generative models for faces, text, and generic regions-- e. g.  shading, texture, and clutter.  These models are activated by bottom-up proposals.  The proposals for faces and text are learnt using a probabilistic version of AdaBoost.  The DDMCMC combines reversible jump and diffusion dynamics to enable the generative models to explain the input images in a competitive and cooperative manner.  Our experiments illustrate the advantages and importance of combining bottom-up and top-down models and of performing segmentation and object detection/recognition simultaneously. 
+Ideal Observers for Detecting Motion: Correspondence Noise| Abstract We derive a Bayesian Ideal Observer (BIO) for detecting motion and solving the correspondence problem.  We obtain Barlow and Tripathy's classic model as an approximation.  Our psychophysical experiments show that the trends of human performance are similar to the Bayesian Ideal, but overall human performance is far worse.  We investigate ways to degrade the Bayesian Ideal but show that even extreme degradations do not approach human performance.  Instead we propose that humans perform motion tasks using generic, general purpose, models of motion.  We perform more psychophysical experiments which are consistent with humans using a Slow-and-Smooth model and which rule out an alternative model using Slowness. 
+MIME: Mutual Information Minimization and Entropy Maximization for Bayesian Belief Propagation| Abstract Bayesian belief propagation in graphical models has been recently shown to have very close ties to inference methods based in statistical physics.  After Yedidia et al.  demonstrated that belief propagation fixed points correspond to extrema of the so-called Bethe free energy, Yuille derived a double loop algorithm that is guaranteed to converge to a local minimum of the Bethe free energy.  Yuille's algorithm is based on a certain decomposition of the Bethe free energy and he mentions that other decompositions are possible and may even be fruitful.  In the present work, we begin with the Bethe free energy and show that it has a principled interpretation as pairwise mutual information minimization and marginal entropy maximization (MIME).  Next, we construct a family of free energy functions from a spectrum of decompositions of the original Bethe free energy.  For each free energy in this family, we develop a new algorithm that is guaranteed to converge to a local minimum.  Preliminary computer simulations are in agreement with this theoretical development. 
+The Manhattan World Assumption: Regularities in Scene Statistics which Enable Bayesian Inference| Abstract Preliminary work by the authors made use of the so-called \Manhattan world" assumption about the scene statistics of city and indoor scenes.  This assumption stated that such scenes were built on a cartesian grid which led to regularities in the image edge gradient statistics.  In this paper we explore the general applicability of this assumption and show that, surprisingly, it holds in a large variety of less structured environments including rural scenes.  This enables us, from a single image, to determine the orientation of the viewer relative to the scene structure and also to detect target objects which are not aligned with the grid.  These inferences are performed using a Bayesian model with probability distributions (e. g.  on the image gradient statistics) learnt from real data. 
+A Bayesian Network Framework for Relational Shape Matching| Abstract A Bayesian network formulation for relational shape matching is presented.  The main advantage of the relational shape matching approach is the obviation of the non-rigid spatial mappings used by recent non-rigid matching approaches.  The basic variables that need to be estimated in the relational shape matching objective function are the global rotation and scale and the local displacements and correspondences.  The new Bethe free energy approach is used to estimate the pairwise correspondences between links of the template graphs and the data.  The resulting framework is useful in both registration and recognition contexts.  Results are shown on hand-drawn templates and on 2D transverse T1-weighted MR images. 
+A Convergence Proof for the Softassign Quadratic Assignment Algorithm| Abstract The softassign quadratic assignment algorithm has recently emerged as an effective strategy for a variety of optimization problems in pattern recognition and combinatorial optimization.  While the effectiveness of the algorithm was demonstrated in thousands of simulations, there was no known proof of convergence.  Here, we provide a proof of convergence for the most general form of the algorithm. 
+Convergence Properties of the Softassign Quadratic Assignment Algorithm| Abstract The softassign quadratic assignment algoithm is a discrete time, continuous state, synchronous updating optimizing neural network.  While its effectiveness has been shown in the traveling salesman problem, graph matching and graph partitioning in thousands of simulations, there was no associated study of its convergence properties.  Here, we construct discrete time Lyapunov functions for the cases of exact and approximate doubly stochastic constraint satisfaction which can be used to show convergence to a fixed point.  The combination of good convergence properties and experimental success make the softassign algorithm the technique of choice for neural QAP optimization. 
+The g Factor: Relating Distributions on Features to Distributions on Images| Abstract We describe the g-factor, which relates probability distributions on image features to distributions on the images themselves.  The g-factor depends only on our choice of features and lattice quantization and is independent of the training image data.  We illustrate the importance of the g-factor by analyzing how the parameters of Markov Random Field (i. e.  Gibbs or log-linear) probability models of images are learned from data by maximum likelihood estimation.  In particular, we study homogeneous MRF models which learn image distributions in terms of clique potentials corresponding to feature histogram statistics (cf.  Minimax Entropy Learning (MEL) by Zhu, Wu and Mumford 1997 [11]).  We first use our analysis of the g-factor to determine when the clique potentials decouple for different features.  Second, we show that clique potentials can be computed analytically by approximating the g-factor.  Third, we demonstrate a connection between this approximation and the Generalized Iterative Scaling algorithm (GIS), due to Darroch and Ratcliff 1972 [2], for calculating potentials.  This connection enables us to use GIS to improve our multinomial approximation, using Bethe-Kikuchi[8] approximations to simplify the GIS procedure.  We support our analysis by computer simulations. 
+Int'| Abstract We describe a flexible object recognition and modeling system (FORMS) which represents and recognizes animate objects from their silhouettes.  This consists of a model for generating the shapes of animate objects which gives a formalism for solving the inverse problem of object recognition.  We model all objects at three levels of complexity: (i) the primitives, (ii) the mid-grained shapes, which are deformations of the primitives, and (iii) objects constructed by using a grammar to join mid-grained shapes together.  The deformations of the primitives can be characterized by principal component analysis or modal analysis.  When doing recognition the representations of these objects are obtained in a bottom-up manner from their silhouettes by a novel method for skeleton extraction and part segmentation based on deformable circles.  These representations are then matched to a database of prototypical objects to obtain a set of candidate interpretations.  These interpretations are verified in a top-down process.  The system is demonstrated to be stable in the presence of noise, the absence of parts, the presence of additional parts, and considerable variations in articulation and viewpoint.  Finally, we describe how such a representation scheme can be automatically learnt from examples. 
+In the Proceedings of CVPR97| The Bas-Relief Ambiguity.  Abstract Since antiquity, artisans have created flattenedforms, often called "bas-reliefs," which give an exaggerated perception of depth when viewedfrom a particular vantage point.  This paper presents an explanation of this phenomena, showing that the ambiguity in determining the relief of an object is not confined to bas-relief sculpture but is implicit in the determination of the structure of any object. 
+Recovering Object Surfaces from Viewed Changes in Surface Texture Patterns| Abstract This paper explores the reconstruction of object surfaces from viewed changes in surface texture patterns.  Our approach differs from those in the past in that instead of simply producing local estimates of the surface orientation, our algorithm recovers complete surfaces.  Past approaches [1, 16, 4, 9, 8, 11] only found the surface orientation locally and, therefore, did not take advantage of the surface integrability constraint.  Unlike [16, 7, 3], our algorithm does not assume that the surface texture pattern is isotropic; and unlike [14, 13
+Fundamental Bounds on Edge Detection: An Information Theoretic Evaluation of Different Edge Cues|
+Feature extraction from faces using deformable templates|
+Region Competition: Unifying Snakes, Region Growing, Energy/Bayes/MDL for Multi-band Image Segmentation|
+A common framework for image segmentation|
+Occlusions and Binocular Stereo|
+Local, global, and multilevel stereo matching|
+Feature extraction from faces using deforma le templates,|
+Shape and albedo from multiple images using integrability|
+The KGBR Viewpoint-Lighting Ambiguity|
+Sigma 2 Eigenimages suffice: An empirical investigation of lowdimensional lighting models|
+Deformable Templates for Feature Extraction from Medical Images|
+Fundamental Limits of Bayesian Inference: Order Parameters and Phase Transitions for Road Tracking|
+Statistical Physics Algorithms That Converge|
+Statistical physics, mixtures of distributions, and the EM algorithm|
+Generalized deformable models, statistical physics and matching problems|
+Scaling theorems for zero-crossings,|
+Determining generative models of objects under varying illumination: Shape and albedo from multiple images using svd and integrability|
+Deformable templates for face recognition|
+Bayesian Models for Seeing Shapes and Depth|
+"Acommon framework for image segmentation",|
+The invisible hand algorithm: Solving the assignment problem with statistical physics|
+A model for the estimate of local image velocity by cells in the visual cortex,|
+Quadrature and the development of orientation selective cortical cells by hebb rules|
+Texture Segmentation by Minimizing Vector-Valued Energy Functionals: The Coupled-Membrane Model|
+Describing surfaces|
+Perception as bayesian inference|
+Self-Organizing Rules for Robust Principal Component Analysis|
+FORMS: A Flexible Object Recognition and Modelling System|
+Detecting and Reading Text in Natural Scenes|
+Bayesian decision theory and psychophysics|
+Manhattan World: Compass Direction from a Single Image by Bayesian Inference|
+A computational theory for the perception of coherent visual motion|
+Fingerprints Theorems|
+A Common Framework for Segmentation|
+A regularized solution to edge detection|
+Efficient deformable template detection and localization without user initialization|
+Determining the optimal weights in multiple objective function optimization,|
+An Extremum Principle for Shape From Contour|
+Statistical Edge Detection: Learning and Evaluating Edge Cues|
+Fingerprint theorems for zero crossings|
+Mean-field phase transitions and correlation functions for Gibbs random fields|
+Twenty Questions, Focus of Attention, and A*: A Theoretical Comparison of Optimization Strategies|
+A Probabilistic Formulation of A # : O(N)|
+A depth recovery algorithm using defocus information|
+Manhattan World: Orientation and Outlier Detection by Bayesian Inference|
+Source from shading|
+5 plus or minus 2 eigenimages suffice: An empirical investigation of lowdimensional lighting models|
+Robust principal component analysis by self-organizing rules based on statistical physics approach|
+The generalized bas relief ambiguity|
+A mathematical analysis of the motion coherence theory|
+An analysis of the elastic net approach to the traveling salesman problem|
+Efficient Optimization of a Deformable Template Using Dynamic Programming|
+Data Fusion for Sensory Information Processing Systems|
+",|
+Analog "neuronal" networks in early vision|
+Dependence of speed and direction perception on cinematogram dot density|
+CCCP Algorithms to Minimize the Bethe and Kikuchi Free Energies: Convergent Alternatives to Belief Propagation|
+Sources from shading|
+Robust principal component analysis by self-organising rules based on statistical physics approach,|
+Bayesian A* Tree Search with Expected O(N) Convergence Rates for Road Tracking|
+Two- and Tree-Dimensional Patterns of the Face|
+Facial feature extraction by deformable templates|
+Learning Object Representations From Lighting Variations|
+A double-loop algorithm to minimize the Bethe and Kikuchi free energies|
+Learning and recognizing objects using illumination subspaces|
+Winner-take-all-mechanisms,"|
+Visual Motion Estimation and Prediction: A Probabilistic Network Model for Temporal Coherence|
+The creation of structure in dynamic shape,|
+Stereo Integration, Mean Field Theory and Psychophysics|
+Stereo and Eye Movements" inBiological|
+Multilevel Enhancement and Detection of Stereo Disparity Surfaces|
+Occlusion and binocular stereo|
+Computational theories of low-level vision|
+Stereo, mean field theory and psychophysics|
+Statistical cues for Domain Specific Image Segmentation with Performance Analysis|
+On radial basis function nets and kernel regression: Statistical consistency, convergence rates and receptive field size|
+A method for computing spectral reflectance|
+A comment on contrastive divergence|
+Scaling theorems for zero-crossing|
+The convexconcave computational procedure (CCCP)|
+Stereo and eye movement|
+Active vision|
+"A Regularized Solution to Edge Detection," Technical Report,|
+Relating Image Warping to 3D Geometrical Deformations|
+"Describing Surfaces," Proc| of the 2nd Int'l. 
+Order Parameters for Minimax Entropy Distributions: When Does High Level Knowledge Help?|
+Self-extracting rules for robust PCA|
+A Yang--Mills instanton in Taub--NUT space,|
+Theories for the visual perception of local velocity and coherent motion",|
+5 2 eigenimages suffice: An empirical investigation of low-dimensional lighting models| In IEEE workshop on physics-based modeling in computer vision,. 
+editors|
+Energy functions for early vision and analog networks|
+Fingerprints theorems for zero crossings|
+Massively parallel implementations of theories for apparent motion,|
+High-level Motion Processing,|
+Statistical Physics Algorithm That Converge|
+Dimension reduction, generalized deformable models and the development of ocularity and orientation|
+"Statistical cues for domain specific image segmentation,|
+The KGBR Viewpoint-Lighting Ambiguity and its Resolution by Generic Constraints|
+Track finding with deformable templates --- the elastic arms approach|
+Analog neural networks in early vision",|
+Deformable templates, robust statistics and hough transforms,|
+Manhattan World: Orientation and Outlier Detection by Bayesian Inference|" Submitted to International Journal of Computer Vision. 
+Identifiability and identification of a Galerkin approximation for a class of distributed parameter systems",|
+Recent advances on techniques of static feedforward networks with supervised learning,|
+3d symmetry-curvature duality theorems|
+Image warping for shape recovery and recognition|
+\CCCP Algorithms to Minimize the Bethe and Kikuchi Free Energies," Neural Computation|
+A Phase Space Approach to Minimax Entropy Learning and the Minutemax Approximations|
+Convergence Rates of Algorithms for Visual Search: Detecting Visual Contours|
+The Rescorla-Wagner algorithm and maximum likelihood estimation of causal parameters|
+High-Level and Generic Models for Visual Search: When Does High Level Knowledge Help?|
+Binocular stereo with occlusion|
+The invisible hand algorithm: Time convergence and temperature tracking|
+\Statistical Physics Algorithms that converge" Neural Comp|
+Deformable templates for face recognition",|
+`The Convex-Concave Procedure'|
+Stereo and controlled movement|
+Motion correspondence and analog networks",|
+A Bayesian formulation of visual perception|
+Introduction: A Bayesian formulation of visual perception|
+Unifying snake/balloons, region growing and Bayes/MDL/Energy for multi-band image segmentation|
+Impossible Shaded Images|
+Statistical physics, mixture of distributions and the EM Algorithm Neural Comp|

@@ -1,0 +1,2 @@
+The Complexity of Plan Existence and Evaluation in Probabilistic Domains
+ Abstract We examine the computational complexity of testing and finding small plans in probabilistic planning domains (both flat and succinct).  We show that many problems of interest are complete for a variety of complexity classes: PL, P, NP, co-NP, PP, NP PP , co-NP PP , and PSPACE.  Of these, the probabilistic classes PP and NP PP are likely to be of special interest in the field of uncertainty in artificial intelligence and are deserving of additional study.

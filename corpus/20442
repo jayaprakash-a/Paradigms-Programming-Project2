@@ -1,0 +1,2 @@
+Reinforcement Learning for 3 vs
+ 2 Keepaway.  Abstract.  As a sequential decision problem, robotic soccer can bene#t from research in reinforcement learning.  We introduce the 3 vs.  2 keepaway domain, a subproblem of robotic soccer implemented in the RoboCup soccer server.  We then explore reinforcement learning methods for policy evaluation and action selection in this distributed, real-time, partially observable, noisy domain.  We present empirical results demonstrating that a learned policy can dramatically outperform hand-coded policies.

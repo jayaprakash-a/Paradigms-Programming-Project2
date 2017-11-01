@@ -1,0 +1,2 @@
+An ~
+ Abstract We show how the results of Karger, Motwani, and Sudan [6] and Blum [3] can be combined in a natural manner to yield a polynomial-time algorithm for ~ O(n 3=14 )-coloring any n-node 3-colorable graph.  This improves on the previous best bound of ~ O(n 1=4 ) colors [6].

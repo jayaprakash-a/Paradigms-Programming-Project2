@@ -1,0 +1,2 @@
+) indicating how well an input acoustic signal matches a speech model of the hypothesised utterance
+ A fundamental problem in speech recognition is how this score may be computed, 159.

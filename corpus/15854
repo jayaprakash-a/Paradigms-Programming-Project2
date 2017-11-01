@@ -1,0 +1,2 @@
+''-discrepancy sets and their applications for interpolation of sparse polynomials
+ Abstract We present a simple explicit construction of a probability distribution supported on (p\Gamma 1) 2 vectors in Z n p , where p n=" is a prime, for which the absolute value of each nontrivial Fourier coefficients is bounded by ''.  This construction is used to derandomize the algorithm of [Man92] that interpolates a sparse polynomial in polynomial time in the bit complexity model.

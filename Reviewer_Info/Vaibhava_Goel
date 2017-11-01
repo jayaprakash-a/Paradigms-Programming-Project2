@@ -1,0 +1,76 @@
+Stochastic gradient adaptation of front-end parameters.
+Acoustic modeling using exponential families.
+Annealed dropout training of deep networks.
+Subspace constrained Gaussian mixture models for speech recognition.
+Task adaptation of acoustic and language models based on large quantities of data.
+Language Model Estimation for Optimizing End-to-end Performance of a Natural Language Call Routing System.
+Restoration of clipped signals with application to speech recognition.
+Corrections to "Segmental minimum Bayes-risk decoding for automatic speech recognition".
+Discriminative estimation of subspace precision and mean (SPAM) models.
+Direct product based deep belief networks for automatic speech recognition.
+Adaptation experiments on the SPINE database with the Extended Maximum Likelihood Linear Transformation (EMLLT) model.
+Maximum Likelihood Nonlinear Transformations Based on Deep Neural Networks.
+Active learning with minimum expected error for spoken language understanding.
+Regularized feature-space discriminative adaptation for robust ASR.
+Optimal quantization and bit allocation for compressing large discriminative feature space transforms.
+Exemplar-based Sparse Representation phone identification features.
+Data Augmentation for deep neural network acoustic modeling.
+Recent advances in speech recognition system for IBM DARPA communicator.
+Multimodal Retrieval With Asymmetrically Weighted Truncated-SVD Canonical Correlation Analysis.
+Large vocabulary conversational speech recognition with the extended maximum likelihood linear transformation (EMLLT) model.
+Efficient likelihood computation in multi-stream HMM based audio-visual speech recognition.
+On designing context sensitive language models for spoken dialog systems.
+Trends and advances in speech recognition.
+A family of discriminative training criteria based on the F-divergence for deep neural networks.
+Refactoring acoustic models using variational expectation-maximization.
+Large vocabulary conversational speech recognition with a subspace constraint on inverse covariance matrices.
+Reduction of acoustic model training time and required data passes via stochastic approaches to maximum likelihood and discriminative training.
+Improving deep neural network acoustic modeling for audio corpus indexing under the IARPA babel program.
+Maximum likelihood nonlinear transformations based on deep neural networks.
+Conditional maximum likelihood estimation for improving annotation performance of n-gram models incorporating stochastic finite state grammars.
+Data augmentation for deep convolutional neural network acoustic modeling.
+Deep Multimodal Learning for Audio-Visual Speech Recognition.
+Deep Scattering Spectrum with deep neural networks.
+Rapid adaptation with linear combinations of rank-one matrices.
+Advances in Very Deep Convolutional Neural Networks for LVCSR.
+Compacting discriminative feature space transforms for embedded devices.
+Restructuring exponential family mixture models.
+Investigating Performance of the Discriminative Methods for Long-Term Speaker Adaptation.
+Scattering vs. discrete cosine transform features in visual speech processing.
+Discriminative Estimation of Subspace Constrained Gaussian Mixture Models for Speech Recognition.
+Deep Order Statistic Networks.
+Modeling posterior probabilities using the linear exponential family.
+Efficient non-linear feature adaptation using Maxout networks.
+Discriminative training for full covariance models.
+Data Augmentation for Deep Neural Network Acoustic Modeling.
+Deep multimodal learning for Audio-Visual Speech Recognition.
+Minimum Bayes-risk automatic speech recognition.
+Toward domain-independent conversational speech recognition.
+Mixtures of Bayesian joint factor analyzers for noise robust automatic speech recognition.
+Affine invariant sparse maximum a posteriori adaptation.
+Task dependent loss functions in speech recognition: a* search over recognition lattices.
+A fast, accurate approximation to log likelihood of Gaussian mixture models.
+Exploiting unlabeled data using multiple classifiers for improved natural language call-routing.
+A Difference of Convex Functions Approach to Large-Scale Log-Linear Model Estimation.
+LVCSR rescoring with modified loss functions: a decision theoretic perspective.
+Random Maxout Features.
+Segmental minimum Bayes-risk ASR voting strategies.
+Incorporating sparse representation phone identification features in automatic speech recognition using exponential families.
+State of the art discriminative training of subspace constrained Gaussian mixture models in big training corpora.
+Evaluating Deep Scattering Spectra with deep neural networks on large scale spontaneous speech task.
+Sparse Maximum A Posteriori adaptation.
+A framework for unsupervised transfer learning and application to dialog decision classification.
+Refactoring acoustic models using variational density approximation.
+Detecting audio-visual synchrony using deep neural networks.
+Quantification of injury-related EEG signal changes using Itakura distance measure.
+A data visualization and analysis method for natural language call routing system design.
+Structuring linear transforms for adaptation using training time information.
+Confidence based lattice segmentation and minimum Bayes-risk decoding.
+Annealed dropout trained maxout networks for improved LVCSR.
+Front-end feature transforms with context filtering for speaker adaptation.
+Optimizing speech recognition grammars using a measure of similarity between hidden Markov models.
+Sparse Bayesian Factor Analysis for Stereo-based Stochastic Mapping.
+Adaptive stereo-based stochastic mapping.
+Segmental minimum Bayes-risk decoding for automatic speech recognition.
+Combining stochastic average gradient and Hessian-free optimization for sequence training of deep neural networks.
+Improving end-to-end performance of call classification through data confusion reduction and model tolerance enhancement.

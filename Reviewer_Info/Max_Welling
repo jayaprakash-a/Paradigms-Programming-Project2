@@ -1,0 +1,151 @@
+Variational Dropout and the Local Reparameterization Trick.
+Scalable Overlapping Community Detection.
+A Constrained EM Algorithm for Independent Component Analysis.
+Collapsed Variational Inference for HDP.
+Learning in Markov Random Fields with Contrastive Free Energies.
+Bayesian dark knowledge.
+On the Choice of Regions for Generalized Belief Propagation
+Bayesian Model Scoring in Markov Random Fields.
+Deep Spiking Networks.
+On Herding and the Perceptron Cycling Theorem.
+Generalized Belief Propagation on Tree Robust Structured Region Graphs
+Computer Vision - ECCV 2016 - 14th European Conference, Amsterdam, The Netherlands, October 11-14, 2016, Proceedings, Part I
+The Variational Fair Autoencoder.
+Positive tensor factorization.
+Evidence Estimation for Bayesian Partially Observed MRFs.
+Asynchronous Distributed Learning of Topic Models.
+Austerity in MCMC Land: Cutting the Metropolis-Hastings Budget
+Herding Dynamic Weights for Partially Observed Random Field Models.
+Approximate Slice Sampling for Bayesian Posterior Inference.
+Approximate inference by Markov chains on union spaces.
+A Distributed Message Passing Algorithm for Sensor Localization.
+Viewpoint-Invariant Learning and Detection of Human Heads.
+Memory bounded inference in topic models.
+Bayesian Dark Knowledge.
+Distributed and Adaptive Darting Monte Carlo through Regenerations.
+A note on privacy preserving iteratively reweighted least squares.
+Practical Privacy For Expectation Maximization.
+Incremental learning of nonparametric Bayesian mixture models.
+State of the Journal.
+Statistical Tests for Optimization Efficiency.
+Proceedings of the Twelfth International Conference on Artificial Intelligence and Statistics, AISTATS 2009, Clearwater Beach, Florida, USA, April 16-18, 2009
+Exponential Family Harmoniums with an Application to Information Retrieval.
+A Collapsed Variational Bayesian Inference Algorithm for Latent Dirichlet Allocation.
+Advances in Neural Information Processing Systems 27: Annual Conference on Neural Information Processing Systems 2014, December 8-13 2014, Montreal, Quebec, Canada
+The Time-Marginalized Coalescent Prior for Hierarchical Clustering.
+Energy-Based Models for Sparse Overcomplete Representations.
+Approximate inference in Boltzmann machines.
+Herding as a Learning System with Edge-of-Chaos Dynamics.
+A Cluster-Cumulant Expansion at the Fixed Points of Belief Propagation.
+Semisupervised Classifier Evaluation and Recalibration
+Parametric Herding.
+A Cluster-Cumulant Expansion at the Fixed Points of Belief Propagation
+Bayesian Random Fields: The Bethe-Laplace Approximation.
+An Expectation Maximization Algorithm for Inferring Offset-Normal Shape Distributions.
+Bayesian K-Means as a "Maximization-Expectation" Algorithm.
+GPS-ABC: Gaussian Process Surrogate Approximate Bayesian Computation.
+On the Theory and Practice of Privacy-Preserving Bayesian Data Analysis.
+MLitB: machine learning in the browser.
+Unsupervised Discovery of Nonlinear Structure Using Contrastive Backpropagation.
+Localization Algorithms for Wireless Sensor Retrieval.
+Deterministic Latent Variable Models and Their Pitfalls.
+Structured Region Graphs: Morphing EP into GBP
+Wormholes Improve Contrastive Divergence.
+Computer Vision - ECCV 2016 - 14th European Conference, Amsterdam, The Netherlands, October 11-14, 2016, Proceedings, Part V
+A Lazy Man's Approach to Benchmarking: Semisupervised Classifier Evaluation and Recalibration.
+Large-Scale Distributed Bayesian Matrix Factorization using Stochastic Gradient MCMC.
+Integrating local classifiers through nonlinear dynamics on label graphs with an application to image segmentation.
+Computer Vision - ECCV 2016 - 14th European Conference, Amsterdam, The Netherlands, October 11-14, 2016, Proceedings, Part II
+Product of experts.
+Distributed Inference for Latent Dirichlet Allocation.
+Predicting simulation parameters of biological systems using a Gaussian process model.
+Learning the Irreducible Representations of Commutative Lie Groups.
+Herding dynamical weights to learn.
+Bayesian Matrix Factorization with Side Information and Dirichlet Process Mixtures.
+Exploiting the Statistics of Learning and Inference.
+Statistical Optimization of Non-Negative Matrix Factorization.
+Generalized Darting Monte Carlo.
+Editor's Note.
+Bayesian Posterior Sampling via Stochastic Gradient Fisher Scoring.
+Topographic Product Models Applied to Natural Scene Statistics.
+Generalized darting Monte Carlo.
+Optimization Monte Carlo: Efficient and Embarrassingly Parallel Likelihood-Free Inference.
+Hamiltonian ABC.
+Distributed Algorithms for Topic Models.
+Fast collapsed gibbs sampling for latent dirichlet allocation.
+Extreme Components Analysis.
+Efficient Gradient-Based Inference through Transformations between Bayes Nets and Neural Nets.
+Collapsed Variational Dirichlet Process Mixture Models.
+Linear Response for Approximate Inference.
+On Smoothing and Inference for Topic Models
+The Unified Propagation and Scaling Algorithm.
+Group Equivariant Convolutional Networks.
+Dynamical Products of Experts for Modeling Financial Time Series.
+Austerity in MCMC Land: Cutting the Metropolis-Hastings Budget.
+Robust Higher Order Statistics.
+Computer Vision - ECCV 2016 - 14th European Conference, Amsterdam, The Netherlands, October 11-14, 2016, Proceedings, Part IV
+Scalable Inference on Kingman's Coalescent using Pair Similarity .
+Combining Generative Models and Fisher Kernels for Object Recognition.
+Harmonic Exponential Families on Manifolds.
+Gibbs Sampling for (Coupled) Infinite Mixture Models in the Stick Breaking Representation.
+Auto-Encoding Variational Bayes.
+MLitB: Machine Learning in the Browser.
+Distributed Stochastic Gradient MCMC.
+Herded Gibbs Sampling
+Super-Samples from Kernel Herding
+Towards Automatic Discovery of Object Categories.
+Bayesian 
+Probabilistic sequential independent components analysis.
+Learning Sparse Topographic Representations with Products of Student-t Distributions.
+Semi-Supervised Classification with Graph Convolutional Networks.
+Products of Edge-perts.
+Generalized Belief Propagation on Tree Robust Structured Region Graphs.
+Super-Samples from Kernel Herding.
+Sequential Tests for Large-Scale Learning.
+Stochastic Collapsed Variational Bayesian Inference for Latent Dirichlet Allocation
+Computer Vision - ECCV 2016 - 14th European Conference, Amsterdam, The Netherlands, October 11-14, 2016, Proceedings, Part VII
+On Smoothing and Inference for Topic Models.
+Accelerated Variational Dirichlet Process Mixtures.
+Structured Region Graphs: Morphing EP into GBP.
+Semi-supervised Learning with Deep Generative Models.
+Marrying Graphical Models with Deep Learning.
+Transformation Properties of Learned Visual Representations.
+Unsupervised learning of visual taxonomies.
+Markov Chain Monte Carlo and Variational Inference: Bridging the Gap.
+Bayesian Structure Learning for Markov Random Fields with a Spike and Slab Prior
+Computer Vision - ECCV 2016 - 14th European Conference, Amsterdam, The Netherlands, October 11-14, 2016, Proceedings, Part VI
+Herding Dynamic Weights for Partially Observed Random Field Models
+Hidden-Unit Conditional Random Fields.
+Exchangeable inconsistent priors for Bayesian posterior inference.
+Structured and Efficient Variational Deep Learning with Matrix Gaussian Posteriors.
+A New Learning Algorithm for Mean Field Boltzmann Machines.
+Base Station Localization in Search of Empty Spectrum Spaces in Cognitive Radio Networks.
+Semi-Supervised Learning with Deep Generative Models.
+Efficient Parametric Projection Pursuit Density Estimation.
+Improving Variational Inference with Inverse Autoregressive Flow.
+Hybrid Variational/Gibbs Collapsed Inference in Topic Models.
+POPE: post optimization posterior evaluation of likelihood free models.
+Belief Optimization for Binary Networks: A Stable Alternative to Loopy Belief Propagation
+Stochastic collapsed variational Bayesian inference for latent Dirichlet allocation.
+The rate adapting poisson model for information retrieval and object recognition.
+A New Method to Visualize Deep Neural Networks.
+Bayesian Structure Learning for Markov Random Fields with a Spike and Slab Prior.
+Unsupervised Learning of Models for Recognition.
+On the Choice of Regions for Generalized Belief Propagation.
+Unsupervised Organization of Image Collections: Taxonomies and Beyond.
+Efficient Parametric Projection Pursuit Density Estimation
+Computer Vision - ECCV 2016 - 14th European Conference, Amsterdam, The Netherlands, October 11-14, 2016, Proceedings, Part III
+Bayesian Extreme Components Analysis.
+Belief Optimization for Binary Networks: A Stable Alternative to Loopy Belief Propagation.
+Hybrid Variational/Gibbs Collapsed Inference in Topic Models
+Bayesian Learning via Stochastic Gradient Langevin Dynamics.
+Linear Response Algorithms for Approximate Inference in Graphical Models.
+On Improving the Efficiency of the Iterative Proportional Fitting Procedure.
+Hybrid Generative-Discriminative Visual Categorization.
+Self Supervised Boosting.
+Scalable MCMC for Mixed Membership Stochastic Blockmodels.
+Infinite State Bayes-Nets for Structured Domains.
+Private Topic Modeling.
+Multi-HDP: A Non Parametric Bayesian Model for Tensor Factorization.
+Preface.
+Computer Vision - ECCV 2016 - 14th European Conference, Amsterdam, The Netherlands, October 11-14, 2016, Proceedings, Part VIII

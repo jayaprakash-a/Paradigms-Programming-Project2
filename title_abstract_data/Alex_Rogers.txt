@@ -1,0 +1,43 @@
+A Mechanism for Multiple Goods and Interdependent Valuations| Abstract.  This paper reports on the design of an auction mechanism for allocating multiple goods when the buyers have interdependent valuations.  We cast the problem as a multi-agent system consisting of selfish, rational agents and develop an auction mechanism which is efficient, incentive compatible and individually rational.  We first discuss the necessary assumptions that any mechanism developed for this scenario should satisfy so as to achieve the aforementioned properties.  We then present our mechanism and show how it is a generalisation of the Vickrey-Clarke-Groves mechanism. 
+FUNCTIONAL ALGORITHM SIMULATION OF THE FAST MULTIPOLE METHOD: ARCHITECTURAL IMPLICATIONS| ABSTRACT Functional Algorithm Simulation is a methodology for predicting the computation and communication characteristics of parallel algorithms for a class of scientific problems, without actually performing the expensive numerical computations involved.  In this paper, we use Functional Algorithm Simulation to study the parallel Fast Multipole Method (FMM), which solves the N-body problem.  Functional Algorithm Simulation provides us with useful information regarding communication patterns in the algorithm, the variation of available parallelism during different algorithmic phases, and upper bounds on available speedups for different problem sizes.  Furthermore, it allows us to predict the performance of the FMM on message-passing multiprocessors with topologies such as cliques, hypercubes, rings, and multirings, over a wider range of problem sizes and numbers of processors than would be feasible by direct simulation.  Our simulations show that an implementation of the FMM on low-cost, scalable ring or multiring architectures can attain satisfactory performance. 
+FAST: A Functional Algorithm Simulation Testbed| Abstract In this paper we extend the practical range of simulations of parallel executions by what we call "functional algorithm simulation," that is, simulation without actually performing most of the numerical computations involved.  We achieve this by introducing a new approach for generating and collecting communication and computation characteristics for a class of parallel scientific algorithms.  We describe FAST (Fast Algorithm Simulation Testbed), a prototype system that we developed to implement and test our approach.  FAST overcomes some of the difficulties imposed by the very high complexity of interesting scientific algorithms, collects profile information representative of the algorithms rather than the underlying mapping strategies and hardware-design choices, and allows a performance assessment of parallel machines with various sizes and different interconnection schemes. 
+Designing and Evaluating an Adaptive Trading Agent for Supply Chain Management Applications| Abstract This paper describes the design and evaluation of SouthamptonSCM, a finalist in the 2004 Trading Agent Supply Chain Management Competition (TAC SCM).  In particular, we focus on the way in which our agent sets its prices according to the prevailing market situation and its own inventory level (because this adaptivity and flexibility are the key components of its success).  Specifically, we analyse our pricing model's performance both in the actual competition and in controlled experiments (against both risk-seeking and risk-averse price setting methods).  Through this evaluation, we show that SouthamptonSCM performs well across a broad range of environments. 
+INDIRECT ESTIMATES OF AGE-SPECIFIC INTERREGIONAL MIGRATION FLOWS IN INDONESIA BASED ON THE MOBILITY PROPENSITIES OF INFANTS| *Dr.  Salut Muhidin currently is a post-doctoral scholar in the Dpartement de dmographie at the Universitde Montr
+Self-Organized Routing For Wireless Micro-Sensor Networks| Abstract--- In this paper we develop an energy-aware selforganized routing algorithm for the networking of simple batterypowered wireless micro-sensors (as found, for example, in security or environmental monitoring applications).  In these networks, the battery life of individual sensors is typically limited by the power required to transmit their data to a receiver or sink.  Thus effective network routing algorithms allow us to reduce this power and extend both the lifetime and the coverage of the sensor network as a whole.  However, implementing such routing algorithms with a centralized controller is undesirable due to the physical distribution of the sensors, their limited localization ability and the dynamic nature of such networks (given that sensors may fail, move or be added at any time and the communication links between sensors are subject to noise and interference).  Against this background, we present a distributed mechanism that enables individual sensors to follow locally selfish strategies, which, in turn, result in the self-organization of a routing network with desirable global properties.  We show that our mechanism performs close to the optimal solution (as computed by a centralized optimizer), it deals adaptively with changing sensor numbers and topology, and it extends the useful life of the network by a factor of three over the traditional approach. 
+Model Migration Schedules: Three Alternative Linear Parameter Estimation Methods|
+The Dynamics of a Genetic Algorithm on a Model Hard Optimization Problem,|
+Modelling the Dynamics of a Steady State Genetic Algorithm|
+Ramanujan bijection,|
+A global theory of supermanifolds,|
+Translating Girls' Voices: Two Languages of Development| Harvard University Graduate School of Education,. 
+Attribute propagation by message passing|
+Compiling for Locality of Reference|
+Model Migration Schedules|
+Multilingual Generation and Summarization of Job Adverts: the TREE Project|
+The Internal Migration and Spatial Redistribution of Foreign-Born Population in the United States:|
+The Internal Migration Patterns of the Foreign-Born and Native Born Populations in the United States: 1975-80 and 1985-90|
+Functional Algorithm Simulation: Implementation and Experiments,|
+Inferring migration flows from birthplace-specific population stocks|
+Modeling interregional migration flows: continuity and change",|
+Estimating migration flows from birthplace-specific population stocks of infants|
+Model migration schedules and their applications,|
+"The Iron and Steel Industry of the Mahoning and Shenango Valleys|
+Eds|). 
+^Understanding Hard and Soft IS Development Methods: Paradigmatic Rigidities or Different Ends of a Spectrum?,~|
+Statistical Analysis of Spatial Dispersion - the quadrat method",|
+Active Life Among the Elderly in the United States: Multistate Life-table Estimates and Population Projections,|
+"Simplified Multiple Contingency Calculations,"|
+Synthesis of higher order Chua circuits,|
+Functional algorithm simulation: A new approach for modeling the parallel execution of scientific applications|
+& Prugel-|
+From Raw Material to Final Product: Life in a Social Economy|
+Method for Generating NonBlocking Delayed Clocking Signals for Domino Logic,"|
+Non-Blocking Delayed Clocking System for Domino Logic,"|
+"A superspace path-integral proof of the Gauss-Bonnet-Chern theorem",|
+"Fermionic path integration and Grassmann Brownian motion",|
+Three Kinds of Physical Perception Verbs|
+Another Look at Flip Perception Verbs|
+Data Flow Supercomputers,|
+On Wrightss Mechanism for Intergroup Selection|
+A Solvable Model of a Hard Optimisation Problem,|
+The Dynamics of a Genetic Algorithm on a Model Hard Optimization Problem, This workshop|

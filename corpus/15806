@@ -1,0 +1,2 @@
+A Construction of a Cipher from a Single Pseudorandom Permutation
+ Abstract We suggest a scheme for a block cipher which uses only one randomly chosen permutation, F .  The key, consisting of two blocks, K 1 and K 2 is used in the following way: The message block is XORed with K 1 before applying F , and the outcome is XORed with K 2 , to produce the cryptogram block.  We show that the resulting cipher is secure (when the permutation is random or pseudorandom).  This removes the need to store, or generate a multitude of permutations.

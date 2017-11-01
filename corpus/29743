@@ -1,0 +1,2 @@
+Representations of Decision-Theoretic Planning Tasks
+ Abstract Goal-directed Markov Decision Process models (GDMDPs) are good models for many decision-theoretic planning tasks.  They have been used in conjunction with two different reward structures, namely the goal-reward representation and the action-penalty representation.

@@ -1,0 +1,2 @@
+Sparse Factor Graph Representations of Reed-Solomon and Related Codes
+ Abstract We present sparse factor graph representations of Reed-Solomon codes based on a fast Fourier transform.  These representations can be used to create encoders, or messagepassing decoders that use soft input information.  We discuss various simplifications and transformations of the factor graph representations that may be useful.  Finally, we show that other interesting codes can be represented using sparse fast transform factor graphs.

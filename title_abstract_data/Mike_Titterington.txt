@@ -1,0 +1,72 @@
+INTERNATIONAL JOURNAL OF ADAPTIVE CONTROL AND SIGNAL PROCESSING Int|J. Adapt.  SUMMARY For a large data-set with groups of repeated measurements, a mixture model of Gaussian process priors is proposed for modelling the heterogeneity among the different replications.  A hybrid Markov chain Monte Carlo (MCMC) algorithm is developed for the implementation of the model for regression and classification.  The regression model and its implementation are illustrated by modelling observed Functional Electrical Stimulation experimental results.  The classification model is illustrated on a synthetic example. 
+Variational Bayes estimation of mixing coefficients| Abstract We investigate theoretically some properties of variational Bayes approximations based on estimating the mixing coefficients of known densities.  We show that, with probability 1 as the sample size n grows large, the iterative algorithm for the variational Bayes approximation converges locally to the maximum likelihood estimator at the rate of O(1/n).  Moreover, the variational posterior distribution for the parameters is shown to be asymptotically normal with the same mean but a different covariance matrix compared with those for the maximum likelihood estimator.  Furthermore we prove that the covariance matrix from the variational Bayes approximation is `too small' compared with that for the MLE, so that resulting interval estimates for the parameters will be unrealistically narrow. 
+Lack of consistency of mean field and variational Bayes approximations for state space models| Abstract The consistency problem of both mean field and variational Bayes estimates in the context of linear state space models is investigated.  We prove that the mean field approximation is asymptotically efficient when the variances of the noise variables in the system are sufficiently small, but neither the mean field estimator nor the variational Bayes estimator is always asymptotically consistent as the `sample size' becomes large.  The `gap' between the estimators and the true values is roughly estimated. 
+Applying the Deterministic Annealing Expectation Maximisation Algorithm to Naive Bayesian Networks| Abstract The deterministic annealing EM (DAEM) algorithm has been proposed as a means to improve the estimation of parameters in models for which we have incomplete data.  Here we apply the DAEM algorithm to parameter estimation in naive Bayesian networks and note that problems arise, namely that the algorithm often converges to the equally weighted independence model.  I.  BAYESIAN NETWORKS A Bayesian Network is a means of representing relationships between a number of variables in some domain, ######################### .  A directed acyclic graph (DAG) is used to represent the relationships between variables; nodes in the graph represent the variables themselves and arcs between them are used to indicate cause and effect, arcs being drawn from the causative variable to its immediate effect.  Associated with each variable, ### , are two subsets of # known as the parents and children of # # .  These are, respectively, the set of all variables having a direct effect upon # # and the set of all variables which are directly affected by # # .  Figure 1 shows a simple DAG representing the
+Model Identifiability in Naive Bayesian Networks| A Bayesian Network is a means of representing relationships between a number of variables in some domain, ####
+Variational Bayesian Inference for Partially Observed Diffusions| Abstract In this paper the variational Bayesian approximation for partially observed continuous time stochastic processes is studied.  We derive an EM-like algorithm and give its implementations.  The variational Expectation step is explicitly solved using the method of conditional moment generating functions and stochastic partial differential equations.  The numerical experiments demonstrate that the variational Bayesian estimate is more robust than the EM algorithm. 
+Local convergence of variational Bayes estimators for mixing coefficients| Abstract In this paper we prove theoretically that for mixture models involving known component densities the variational Bayes estimator converges locally to the maximum likelihood estimator at the rate of O(1/n) in the large sample limit. 
+Convergence and asymptotic normality of variational Bayesian approximations for exponential family models with missing values| Abstract We study the properties of variational Bayes approximations for exponential family models with missing values.  It is shown that the iterative algorithm for obtaining the variational Bayesian estimator converges locally to the true value with probability 1 as the sample size becomes indefinitely large.  Moreover, the variational posterior distribution is proved to be asymptotically normal. 
+Birth-death MCMC methods for mixtures with an unknown number of components| Abstract Mixture models have very wide application.  However, the problem of determining the number of components, K say, is one of the challenging problems in this area.  There are several approaches in the literature for testing K for di#erentvalues.  A recent alternative approach is to treat K as unknown, and to model K and the mixture component parameters jointly; see for example Richardson and Green (1997).  In this paper, we propose an approach based on a birth-death process.  In contrast with the approach in Stephens(2000), we make use of the latent indicators so that the approach can be used to solve the problems with missing data when calculation of the likelihood requires knowledge of the unobservable latent variables.  Speci#cally,we use the method to analyse hidden Markov models with unknown numbers of states.  The model and the algorithm are illustrated by some real examples. 
+A re-examination of the distance weighted k-nearest neighbor classification rule|
+An optimal design problem in rhythmometry|
+Recent advances in nonlinear experimental design|
+Bayesian inference in hidden Markov models through the reversible jump Markov chain Monte Carlo method|
+Two-sample test statistics for measuring discrepancies between two multivariate probability density functions using kernel-based density estimates|
+On the use of Gibbs Markov chain models in the analysis of images based on second-order pairwise interactive distributions,|
+Neural Networks: A review from statistical perspective,|
+Estimation of parameters in hidden Markov models|
+Perfect samplers for mixtures of distributions|
+A comparative study of kernel-based density estimates for categorical data|
+An image analysis problem in electron microscopy,|
+The eect of simulation order on level accuracy and power of Monte-Carlo tests|
+On perfect simulation for some mixtures of distributions|
+An Empirical Study of the Simulation of Various Models used for Images|
+Minimum covering ellipses|
+Estimation of correlation coefficients by ellipsoidal trimming|
+Optimal design: some geometrical aspects of D-optimality|
+Common structure of smoothing techniques in statistics|
+General structure of regularisation procedures in image processing|
+Asymptotically optimal differencebased estimation of variance in nonparametric regression|
+On the estimation of noisy binary Markov random fields|
+A Study of Methods of Choosing the Smoothing Parameter in Image Restoration by Regularization|
+Common structure of techniques for choosing smoothing parameters in regression problems|
+Perfect slice samplers for mixtures of distributions|
+On some Bayesian/regularization methods for image restoration,|
+Edge preserving and peak-preserving smoothing|
+On confidence bands in nonparametric density estimation and regression|
+Optimal design for curve estimation by local linear smoothing|
+Comparison of discrimination techniques applied to a complex data set of head injured patients|
+On a Modification to the Mean Field EM Algorithm in Factorial Learning|
+Hierarchical Gaussian process mixtures for regression|
+Convergence controls for MCMC algorithms, with applications to hidden Markov chains|
+Ridge Finding from Noisy Data|
+On the determination of the number of components in a mixture|
+Some recent research in the analysis of mixture distributions|
+Parameter estimation for hidden Markov chains|
+\ Curve estimation when the design densityislow,"|
+Updating a diagnostic system using unconfirmed cases|
+An alternative stochastic supervisor in discriminant analysis|
+Estimation problems with data from a mixture|
+"On partial local smoothing rules for curve estimation,"|
+Estimation of parameters in hidden Markov models,|
+A cautionary note about crossvalidatory choice,|
+A comparison of two statistics for detecting clustering in one dimension|
+Probabilistic image processing by means of the bethe approximation for the q-ising model|
+Resampling schemes for hidden Markov models and their application for maximum likelihood estimation,|
+On the adequacy of variational lower bound functions for likelihood-based inference in Markovian models with missing values|
+Reparameterisation strategies for hidden Markov models and Bayesian approaches to maximumlikelihood estimation|
+Cross-validation in nonparametric estimation of probabilities and probability densities|
+Recursive parameter estimation using incomplete data,|
+Approximate Bayesian inference for simple mixtures|
+`On some smoothing techniques used in image restoration',|
+Analysis of Latent Structure Models with Multidimensional Latent Variables",|
+\On the iterative image space reconstruction algorithm for ECT,|
+Computational Bayesian Analysis of Hidden Markov Models,"|
+Aspects of optimal design in dynamic systems|
+Discriminant analysis of macrocytic red cells|
+Some examples of recursive variational approximations for Bayesian inference|
+Imputation of missing values using density estimation|
+Improved particle filters and smoothing,|
+The use of uncategorized data to improve the performance of a nonparametric estimator of a mixture density|
+Minimum-distance non-parametric estimation of mixture proportions|
+Efficient nonparametric estimation of mixture proportions|

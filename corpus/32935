@@ -1,0 +1,2 @@
+Vision based Interpretation of Natural Sign Languages
+ Abstract.  This manuscript outlines our current demonstration system for translating visual Sign to written text.  The system is based around a broad description of scene activity that naturally generalizes, reducing training requirements and allowing the knowledge base to be explicitly stated.  This allows the same system to be used for different sign languages requiring only a change of the knowledge base.

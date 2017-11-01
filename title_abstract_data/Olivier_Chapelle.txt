@@ -1,0 +1,25 @@
+Feature Selection for SVMs| Abstract We introduce a method of feature selection for Support Vector Machines.  The method is based upon finding those features which minimize bounds on the leave-one-out error.  This search can be efficiently performed via gradient descent.  The resulting algorithms are shown to be superior to some standard feature selection algorithms on both toy data and real-life problems of face recognition, pedestrian detection and analyzing DNA microarray data. 
+A Machine Learning Approach to Conjoint Analysis| Abstract Choice-based conjoint analysis builds models of consumers preferences over products with answers gathered in questionnaires.  Our main goal is to bring tools from the machine learning community to solve more efficiently this problem.  Thus, we propose two algorithms to estimate quickly and accurately consumer preferences. 
+Model Selection for Small Sample Regression| Abstract.  Model selection is an important ingredient of many machine learning algorithms, in particular when the sample size in small, in order to strike the right trade-off between overfitting and underfitting.  Previous classical results for linear regression are based on an asymptotic analysis.  We present a new penalization
+Measure Based Regularization| Abstract We address in this paper the question of how the knowledge of the marginal distribution P (x) can be incorporated in a learning algorithm.  We suggest three theoretical methods for taking into account this distribution for regularization and provide links to existing graph-based semi-supervised learning algorithms.  We also propose practical implementations. 
+Incorporating Invariances in Non-Linear Support Vector Machines| Abstract The choice of an SVM kernel corresponds to the choice of a representation of the data in a feature space and, to improve performance, it should therefore incorporate prior knowledge such as known transformation invariances.  We propose a technique which extends earlier work and aims at incorporating invariances in nonlinear kernels.  We show on a digit recognition task that the proposed approach is superior to the Virtual Support Vector method, which previously had been the method of choice. 
+Semi-Supervised Classification by Low Density Separation| Abstract We believe that the cluster assumption is key to successful semi-supervised learning.  Based on this, we propose three semi-supervised algorithms: 1.  deriving graph-based distances that emphazise low density regions between clusters, followed by training a standard SVM; 2.  optimizing the Transductive SVM objective function, which places the decision boundary in low density regions, by gradient descent; 3.  combining the first two to make maximum use of the cluster assumption.  We compare with state of the art algorithms and demonstrate superior accuracy for the latter two methods. 
+Choosing Multiple Parameters for Support Vector Machines| Abstract The problem of automatically tuning multiple parameters for pattern recognition Support Vector Machines (
+Feature Selection for Support Vector Machines by Means of Genetic Algorithms| Abstract The problem of feature selection is a difficult
+Cluster Kernels for Semi-Supervised Learning| Abstract We propose a framework to incorporate unlabeled data in kernel classifier, based on the idea that two points in the same cluster are more likely to have the same label.  This is achieved by modifying the eigenspectrum of the kernel matrix.  Experimental results assess the validity of this approach. 
+Kernel Dependency Estimation| Abstract We consider the learning problem of finding a dependency between a general class of objects and another, possibly different, general class of objects.  The objects can be for example: vectors, images, strings, trees or graphs.  Such a task is made possible by employing similarity measures in both input and output spaces using kernel functions, thus embedding the objects into vector spaces.  We experimentally validate our approach on several tasks: mapping strings to strings, pattern recognition, and reconstruction from partial images. 
+Model Selection for Support Vector Machines|
+Choosing multiple parameters for SVM|
+Support Vector Machines: Induction Principle, Adaptive Tuning and Prior Knwoledge|
+Bounds on Error Expectation for Support Vector Machines|
+Choosing multiple parameters for support sector machines|
+Incorporating invariances in nonlinear SVMs|
+SVMs for histogrambased image classification|
+Advances in Neural Information Processing Systems 12, chapter Transductive inference for estimating values of functions|
+Feature selection and transduction for prediction of molecular bioactivity for drug design|
+Feature selection fof svms|
+Feature selection for SVMs| NIPS 13. 
+Estimating the Leave-One-Out Error for Classification Learning with SVMs|
+Transductive Inference for Estimating Values of Functions|
+Object categorization with SVM: kernels for local features|
+1999 "SVMs for histogram based image classification,|

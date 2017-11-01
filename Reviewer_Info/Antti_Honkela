@@ -1,0 +1,29 @@
+A Generative Approach for Image-Based Modeling of Tumor Growth.
+Fast and accurate approximate inference of transcript expression from RNA-seq data.
+Gaussian process modelling of latent chemical species: applications to inferring transcription factor activities.
+Agglomerative Independent Variable Group Analysis.
+Post-nonlinear Independent Component Analysis by Variational Bayesian Learning.
+Bayes Blocks: An Implementation of the Variational Bayesian Building Blocks Framework.
+Accelerating Cyclic Update Algorithms for Parameter Estimation by Pattern Searches.
+State Inference in Variational Bayesian Nonlinear State-Space Models.
+Exploration and retrieval of whole-metagenome sequencing samples.
+Natural Conjugate Gradient in Variational Inference.
+Empirical evidence of the linear nature of magnetoencephalograms.
+Analysis of differential splicing suggests different modes of short-term splicing regulation.
+Identifying targets of multiple co-regulating transcription factors from expression time-series by Bayesian model comparison.
+Blind separation of nonlinear mixtures by variational Bayesian learning.
+Approximate Riemannian Conjugate Gradient Learning for Fixed-Form Variational Bayes.
+Bayes Blocks: An Implementation of the Variational Bayesian Building Blocks Framework
+Identifying differentially expressed transcripts from RNA-seq data with biological variation.
+Agglomerative independent variable group analysis.
+Unsupervised Variational Bayesian Learning of Nonlinear Models.
+Inference of RNA Polymerase II Transcription Dynamics from Chromatin Immunoprecipitation Time Course Data.
+On the inconsistency of $\ell_1$-penalised sparse precision matrix estimation.
+Missing-Feature Reconstruction With a Bounded Nonlinear State-Space Model.
+Compact Modeling of Data Using Independent Variable Group Analysis.
+Using Kernel PCA for Initialisation of Variational Bayesian Nonlinear Blind Source Separation Method.
+Efficient differentially private learning improves drug sensitivity prediction.
+Variational learning and bits-back coding: an information-theoretic view to Bayesian learning.
+A gradient-based algorithm competitive with variational Bayesian EM for mixture of Gaussians.
+Gaussian process test for high-throughput sequencing time series: application to experimental evolution.
+tigre: Transcription factor inference through gaussian process reconstruction of expression for bioconductor.

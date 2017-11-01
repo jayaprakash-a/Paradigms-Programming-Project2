@@ -1,0 +1,2 @@
+Local Rademacher Complexities
+ Abstract We propose new bounds on the error of learning algorithms in terms of a data-dependent notion of complexity.  The estimates we establish give optimal rates and are based on a local and empirical version of Rademacher averages, in the sense that the Rademacher averages are computed from the data, on a subset of functions with small empirical error.  We present some applications to classification and prediction with convex function classes, and with kernel classes in particular.

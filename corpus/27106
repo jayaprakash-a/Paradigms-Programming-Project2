@@ -1,0 +1,2 @@
+Gene Prediction with Conditional Random Fields
+ Abstract Given a sequence of DNA nucleotide bases, the task of gene prediction is to find subsequences of bases that encode proteins.  Reasonable performance on this task has been achieved using generatively trained sequence models, such as hidden Markov models.  We propose instead the use of

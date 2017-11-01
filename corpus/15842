@@ -1,0 +1,2 @@
+Learning with Maximum-Entropy Distributions \Lambda
+ Abstract We are interested in distributions which are derived as a maximumentropy distribution given a set of constraints.  More specifically, we are interested in the case where the constraints are the expectation of individual and pairs of attributes.  For such a given maximum entropy distribution we develop an efficient learning algorithm for read-once DNF.  We also show how to extend our results to monotone read-k DNF, following the techniques of [HM91]

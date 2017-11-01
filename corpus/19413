@@ -1,0 +1,2 @@
+Epipolar Geometry Estimation via RANSAC Benefits from the Oriented Epipolar Constraint
+ Abstract The efficiency of epipolar geometry estimation by RANSAC is improved by exploiting the oriented epipolar constraint.  Performance evaluation shows that the enhancement brings up to a two-fold speed-up.  The orientation test is simple to implement, is universally applicable and takes negligible fraction of time compared with epipolar geometry computation.

@@ -1,0 +1,2 @@
+On the Relevance of the Shape of Postsynaptic Potentials for the Computational Power of Spiking Neurons
+ Abstract The firing of a neuron in a biological neural system causes in certain other neurons excitatory postsynaptic potential changes (EPSP's) that are not "rectangular", but have the form of a smooth hill.  We prove in this article for a formal model of a network of spiking neurons, that the rising respectively declining segments of these EPSP's are in fact essential for the computational power of the model.

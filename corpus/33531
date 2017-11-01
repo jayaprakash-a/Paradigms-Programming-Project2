@@ -1,0 +1,2 @@
+New Techniques for Computing Four-Finger-Force-Closure Grasps of Polyhedral Objects
+ Abstract: It was shown in [12] that four-finger forceclosure grasps fall into three categories: concurrent, pencil, and regulus grasps.  We propose new techniques for computing these three types of grasps.  We have implemented them and present examples.

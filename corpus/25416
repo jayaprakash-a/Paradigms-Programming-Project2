@@ -1,0 +1,2 @@
+Articulatory Feature Recognition Using Dynamic Bayesian Networks
+ Abstract This paper describes the use of dynamic Bayesian networks for the task of articulatory feature recognition.  We show that by modeling the dependencies between a set of 6 multi-leveled articulatory features, recognition accuracy is increased over an equivalent system in which features are considered independent.  Results are compared to those found using artificial neural networks on an identical task.

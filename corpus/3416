@@ -1,0 +1,2 @@
+The `summation hack' as an outlier model
+ Abstract The `summation hack' is the ad-hoc replacement of a product by a sum in a probabilistic expression.  This hack is usually explained as a device to cope with outliers, with no formal derivation.  This note shows that the hack does make sense probabilistically, and can be best thought of as replacing an outlier-sensitive likelihood with an outlier-tolerant one.  This interpretation exposes the hack as an assumption about the outliers, allowing us to determine when it makes sense to use the hack.

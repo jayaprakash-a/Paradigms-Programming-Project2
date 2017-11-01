@@ -1,0 +1,2 @@
+Clustering Principles and Empirical Risk Approximation
+ Abstract.  Data Clustering is one of the fundamental techniques in pattern recognition to extract structure from data.  We discuss a maximum entropy approach to clustering for different clustering cost functions and relate it to the estimation principle of Empirical Risk Approximation.  Large deviation techniques from statistical learning theory provide guarantees for the stability of clustering solutions.

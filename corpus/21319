@@ -1,0 +1,2 @@
+How imprecise is neuronal synchronization?
+ Abstract We investigate the contribution of single cells to collective gamma-oscillations in a network of spiking neurons subject to an inhibitory activity control.  In contrast to many earlier studies emphasizing a high precision in spike timing, cell firing is rather unreliable in our model.  Nonetheless, we qualitatively reproduce many experimental findings, some of them previously unexplored in modeling studies.

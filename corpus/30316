@@ -1,0 +1,2 @@
+Research Note Finding a Path is Harder than Finding a Tree
+ Abstract I consider the problem of learning an optimal path graphical model from data and show the problem to be NP-hard for the maximum likelihood and minimum description length approaches and a Bayesian approach.  This hardness result holds despite the fact that the problem is a restriction of the polynomially solvable problem of finding the optimal tree graphical model.

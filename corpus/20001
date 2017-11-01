@@ -1,0 +1,2 @@
+Vectorizing for a SIMdD DSP architecture
+ grained parallelism was recently extended to support SIMD operations on disjoint vector elements.  In this paper we demonstrate how SIMdD (SIMD on disjoint data) supports effective vectorization of digital signal processing (DSP) benchmarks, by facilitating data reorganization and reuse.  In particular we show that this model can be adopted by a compiler to achieve near-optimal performance for important classes of kernels.

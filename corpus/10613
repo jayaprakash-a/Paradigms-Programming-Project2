@@ -1,0 +1,2 @@
+A multi-sender asynchronous extension to the AER protocol
+ Abstract The address-event representation (AER) is an asynchronous point-to-point communications protocol for silicon neural systems.  This paper describes an extension of the AER protocol that allows multiple AER senders to share a common bus.  A fully-functional silicon implementation of the extended protocol is described, as well as a functional board-level system of several of these chips sharing a common bus.

@@ -1,0 +1,2 @@
+An Asynchronous Hidden Markov Model for Audio-Visual Speech Recognition
+ Abstract This paper presents a novel Hidden Markov Model architecture to model the joint probability of pairs of asynchronous sequences describing the same event.

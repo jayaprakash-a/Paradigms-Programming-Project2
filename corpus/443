@@ -1,0 +1,2 @@
+Cost-Sensitive Fault Remediation for Autonomic Computing
+ Abstract We introduce a formal model of cost-sensitive fault remediation, derive an exact algorithm for solving the special case of deterministic observations, and demonstrate it on two example problems.  This effort is part of two self-healing software projects that attempt to use collected data for better decision making in emerging autonomic systems.

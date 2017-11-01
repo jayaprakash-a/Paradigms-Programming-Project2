@@ -1,0 +1,2 @@
+An Incomplete Cholesky Factorization for Dense Matrices
+ Abstract In this paper, we study the use of an incomplete Cholesky factorization (ICF) as a preconditioner for solving dense positive definite linear systems.  Analysis and implementation of this preconditioner are discussed.  We test the proposed ICF on randomly generated systems and large matrices from two practical applications: semidefinite programming and support vector machines.  Numerical comparison with the diagonal preconditioner is also presented.

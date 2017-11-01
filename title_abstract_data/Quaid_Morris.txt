@@ -1,0 +1,3 @@
+Denoising and Untangling Graphs Using Degree Priors| Abstract This paper addresses the problem of untangling hidden graphs from a set of noisy detections of undirected edges.  We present a model of the generation of the observed graph that includes degree-based structure priors on the hidden graphs.  Exact inference in the model is intractable; we present an ecient approximate inference algorithm to compute edge appearance posteriors.  We evaluate our model and algorithm on a biological graph inference problem. 
+A Maximum-Likelihood Approach to Visual Event Classification|
+A maximum-likelihood approach to visual event classification|

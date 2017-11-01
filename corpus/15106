@@ -1,0 +1,2 @@
+Hand tracking for vision-based drawing
+ Abstract This report should be regarded as an appendix to our paper [9].  It provides technical details on the hand tracking system described there, and on the vision-based drawing package developed to demonstrate its use in applications.  1 The hand tracker This section describes the implementation of a robust and accurate hand tracker using ICondensation [5] and partitioned sampling [9].  1. 1 State space A second-order state-space is used to represent the hand, giving X t = ` x t x t\Gamma 1 ' where x

@@ -1,0 +1,2 @@
+Submitted for Publication On generalization bounds, projection profile, and margin distribution
+ Abstract We study generalization properties of linear learning algorithms and develop a data dependent approach that is used to derive generalization bounds that depend on the margin distribution.  Our method makes use of random projection techniques to allow the use of existing VC dimension bounds in the effective, lower, dimension of the data.  Comparisons with existing generalization bound show that our bounds are tighter and meaningful in cases existing bounds are not.

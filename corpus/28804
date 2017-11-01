@@ -1,0 +1,2 @@
+Bayesian Monte Carlo
+ Abstract We investigate Bayesian alternatives to classical Monte Carlo methods for evaluating integrals.  Bayesian Monte Carlo (BMC) allows the incorporation of prior knowledge, such as smoothness of the integrand, into the estimation.  In a simple problem we show that this outperforms any classical importance sampling method.  We also attempt more challenging multidimensional integrals involved in computing marginal likelihoods of statistical models (a. k. a.  partition functions and model evidences).

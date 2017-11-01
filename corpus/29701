@@ -1,0 +1,2 @@
+Probabilistic Planning for Behavior-Based Robots
+ An advantage of our system over previous POMDP navigation systems is that it is able to find close-to-optimal plans since it plans at a higher level and thus with smaller state spaces.  An advantage of our system over behavior-based systems that need to get programmed by their users is that it can optimize plans during missions and thus deal robustly with probabilistic models that are initially inaccurate.

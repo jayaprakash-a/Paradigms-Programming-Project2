@@ -1,0 +1,4 @@
+On the Combinatorial Structure of Arrangements of Oriented Pseudocircles| Abstract We introduce intersection schemes (a generalization of uniform oriented matroids of rank 3) to describe the combinatorial properties of arrangements of pseudocircles in the plane and on closed orientable surfaces.  Similar to the FolkmanLawrence topological representation theorem for oriented matroids we show that there is a one-to-one correspondence between intersection schemes and equivalence classes of arrangements of pseudocircles.  Furthermore, we consider arrangements where the pseudocircles separate the surface into two components.  For these strict arrangements there is a one-to-one correspondence to a quite natural subclass of consistent intersection schemes. 
+A Boosting Approach to Multiple Instance Learning|
+Soluble-insoluble transition in binary heterogeneous nucleation,|
+Arrangements of Pseudocircles,|

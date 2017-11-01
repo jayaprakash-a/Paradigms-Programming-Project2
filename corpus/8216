@@ -1,0 +1,2 @@
+An Approximate Analytical Approach to Resampling Averages
+ Abstract Using a novel reformulation, we develop a framework to compute approximate resampling data averages analytically.  The method avoids multiple retraining of statistical models on the samples.  Our approach uses a combination of the replica "trick" of Statistical Physics and the TAP approach for approximate Bayesian inference.  We demonstrate our approach on regression with Gaussian processes.  A comparison with averages obtained by Monte-Carlo sampling shows that our method achieves good accuracy.

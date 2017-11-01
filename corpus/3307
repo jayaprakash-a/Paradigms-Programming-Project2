@@ -1,0 +1,2 @@
+Secure Recording of Itineraries through Co-operating Agents
+ Abstract Security is a fundamental precondition for the acceptance of mobile agent systems.  In this paper we discuss protocols to improve agent security by distributing critical data and operations on mutually supporting agents which migrate in disjunct host domains.  In order to attack agents, hosts must form coalitions.  Proper selection of itineraries can minimize the risk of such coalitions being formed.

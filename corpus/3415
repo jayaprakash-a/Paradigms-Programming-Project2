@@ -1,0 +1,2 @@
+Bayesian inference of a uniform distribution
+ Abstract This note derives the posterior, the evidence, and the predictive density for a uniform distribution, given a conjugate parameter prior.  These provide various Bayesian answers to the \taxicab" problem: viewing a city from the train, you see a taxi numbered x.  Assuming taxis are consecutively numbered, how many taxis are in the city?

@@ -1,0 +1,2 @@
+ADAPTIVE, CAUTIOUS, PREDICTIVE CONTROL WITH GAUSSIAN PROCESS PRIORS
+ to implement a nonlinear adaptive control law.  Predictions, including propagation of the state uncertainty are made over a k-step horizon.  The expected value of a quadratic cost function is minimised, over this prediction horizon, without ignoring the variance of the model predictions.  The general method and its main features are illustrated on a simulation example.

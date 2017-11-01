@@ -1,0 +1,2 @@
+Efficient Monitoring for Planetary Rovers
+ Abstract Planetary rovers operate in environments where human intervention is expensive, slow, unreliable, or impossible.  It is therefore essential to monitor the behavior of these robots so that contingencies may be addressed before they result in catastrophic failures.  This monitoring needs to be efficient since there is limited computational power available on rovers.  We propose an efficient particle filter for monitoring faults that combines the Unscented Kalman Filter (UKF) [7

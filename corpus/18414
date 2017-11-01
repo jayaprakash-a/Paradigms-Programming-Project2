@@ -1,0 +1,2 @@
+Design of a High-Gain Operational Amplifier and Other Circuits by Means of Genetic Programming
+ Abstract: This paper demonstrates that a design for a low-distortion high-gain 96 decibel (64,860 -to-1) operational amplifier (including both circuit topology and component sizing) can be evolved using genetic programming.

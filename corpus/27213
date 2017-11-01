@@ -1,0 +1,2 @@
+Humane Interfaces to Video
+ Abstract We present approaches for content characterization along the natural divisions of structured and non-structured video.  We propose probabilistic clustering techniques as an alternative to query-by-example in the unstructured domain, and a Bayesian formulation that exploits knowledge about structure when it is available.

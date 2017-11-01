@@ -1,0 +1,2 @@
+Adaptive linear quadratic control using policy iteration
+ Abstract In this paper we present stability and convergence results for Dynamic Programmingbased reinforcement learning applied to Linear Quadratic Regulation (LQR).  The specific algorithm we analyze is based on Q-learning and it is proven to converge to the optimal controller provided that the underlying system is controllable and a particular signal vector is persistently excited.  The performance of the algorithm is illustrated by applying it to a model of a flexible beam.

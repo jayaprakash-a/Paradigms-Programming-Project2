@@ -1,0 +1,2 @@
+ELLIPSE-SPECIFIC DIRECT LEAST-SQUARE FITTING
+ ABSTRACT This work presents the first direct method for specifically fitting ellipses in the least squares sense.  Previous approaches used either generic conic fitting or relied on iterative methods to recover elliptic solutions.  The proposed method is (i) ellipse-specific, (ii) directly solved by a generalised eigen-system, (iii) has a desirable loweccentricity bias, and (iv) is robust to noise.  We provide a theoretical demonstration, several examples and the Matlab coding of the algorithm.

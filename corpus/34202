@@ -1,0 +1,2 @@
+Fast 3D Model Acquisition from Stereo Images
+ Abstract We propose a fast 3D model acquisition system that aligns intensity and depth images, and reconstructs a textured 3D mesh.  3D views are registered with shape alignment based on intensity gradient constraints and a global registration algorithm.  We reconstruct the 3D model using a new Cubic Ray Projection merging algorithm which takes advantage of a novel data structure: the linked voxel space.  Finally, we present experiments to test the accuracy of our approach on 3D face modeling using real-time stereo images.

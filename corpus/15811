@@ -1,0 +1,2 @@
+Approximate Equivalence of Markov Decision Processes
+ Abstract.  We consider the problem of finding the minimal -equivalent MDP for an MDP given in its tabular form.  We show that the problem is NP-Hard and then give a bicriteria approximation algorithm to the problem.  We suggest that the right measure for finding minimal -equivalent model is L1 rather than L1 by giving both an example, which demonstrates the drawback of using L1 , and performance guarantees for using L1 .  In addition, we give a polynomial algorithm that decides whether two MDPs are equivalent.

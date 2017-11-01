@@ -1,0 +1,2 @@
+WORD CLUSTERING WITH PARALLEL SPOKEN LANGUAGE CORPORA \Lambda
+ ABSTRACT In this paper we introduce a word clustering algorithm which uses a bilingual, parallel corpus to group together words in the source and target language.  Our method generalizes previous mutual information clustering algorithms for monolingual data by incorporating a statistical translation model.  Preliminary experiments have shown that the algorithm can effectively employ the constraints implicit in bilingual data to extract classes which are well-suited to machine translation tasks.

@@ -1,0 +1,2 @@
+Beyond Gaussian Processes: On the Distributions of Infinite Networks
+ Abstract A general analysis of the limiting distribution of neural networks is performed, with emphasis on non-Gaussian limits.  We show that with i. i. d.  symmetric stable output weights, the neural functions converge in distribution to symmetric stable processes.  Conditions are also investigated under which Gaussian limits do occur when the weights are noni. i. d.  We discuss some simple classes of stable distributions, and the possibility of learning with such processes.

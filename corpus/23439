@@ -1,0 +1,2 @@
+Fast Gaussian Process Regression using KD-Trees
+ Abstract The computation required for Gaussian process regression with n training examples is about O(n 3 ) during training and O(n) for each prediction.  This makes Gaussian process regression too slow for large data sets.  In this paper, we present a fast approximation method, based on kd-trees, that significantly reduces both the prediction and the training times of Gaussian process regression.

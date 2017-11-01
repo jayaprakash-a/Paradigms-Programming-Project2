@@ -1,0 +1,2 @@
+Stochastic Learning of Strategic Equilibria for Auctions
+ Abstract This paper presents a new application of stochastic adaptive learning algorithms to the computation of strategic equilibria in auctions.  The proposed approach addresses the problems of tracking a moving target and balancing exploration (of action space) versus exploitation (of better modeled regions of action space).  Neural networks are used to represent a stochastic decision model for each bidder.  Experiments confirm the correctness and usefulness of the approach.

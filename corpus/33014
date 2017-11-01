@@ -1,0 +1,2 @@
+The Effect of Correlated Variability on the Accuracy of a Population Code
+ Abstract We study the impact of correlated neuronal firing rate variability on the accuracy with which an encoded quantity can be extracted from a population of neurons.  Contrary to a widespread belief, correlations in the variabilities of neuronal firing rates do not, in general, limit the increase in coding accuracy provided by using large populations of encoding neurons.  Furthermore, in some cases, but not all, correlations improve the accuracy of a population code.

@@ -1,0 +1,2 @@
+Content-Based Pre-Indexed Video
+ ABSTRACT The viability of large distributed image databases is strongly dependent on the development of new image representations capable of providing support for extended functionality, directly in the compressed domain.  We have recently introduced one such representation (Library-based coding) which we now augment with statistical pre-indexing schemes, automatically built at the time of encoding, that provide several layers of content description allowing efficient contentbased retrieval and summarization.

@@ -1,0 +1,2 @@
+The Complexity of Learning Minor Closed Graph Classes
+ Abstract The paper considers the problem of learning classes of graphs closed under taking minors.  It is shown that any such class can be properly learned in polynomial time using membership and equivalence queries.  The representation of the class is in terms of a set of minimal excluded minors (obstruction set).  Moreover, a negative result for learning such classes using only equivalence queries is also provided, after introducing a notion of reducibility among query learning problems.

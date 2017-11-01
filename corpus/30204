@@ -1,0 +1,2 @@
+On the Implications of Delay Adaptability for Learning in Pulsed Neural Networks
+ ABSTRACT We consider a model for networks of neurons that compute and communicate in terms of pulses.  In addition to weights and thresholds, which are commonly the parameters of artificial neural networks, these pulsed neural networks have adaptable delays.  We present and discuss the most recent and prominent results on the complexity of computing and learning using this new type of parameter.

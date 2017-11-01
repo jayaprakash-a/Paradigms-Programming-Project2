@@ -1,0 +1,2 @@
+Topic Segmentation : A First Stage to Dialog-Based Information Extraction
+ Abstract We study the problem of topic segmentation of manually transcribed speech in order to facilitate information extraction from dialogs.  Our approach is based on a combination of multi-source knowledge modeled by hidden Markov models.  We experiment with different combinations of linguistic-level cues on dialogs dealing with search and rescue missions.  Results show the effectiveness of multi-source knowledge.

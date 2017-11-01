@@ -1,0 +1,2 @@
+Block Color Quantization: A New Method for Color Halftoning
+ ABSTRACT An important halftoning problem faced in the design of many color printers and copiers is to represent a 24-bit color image by a small number of preset output colors, generally at a higher spatial resolution.  We propose dividing the input and output image into corresponding small blocks, calculating each input block's color average, and then determining a set of the printing colors for the corresponding output block to best render the input block's average color.

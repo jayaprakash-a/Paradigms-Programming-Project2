@@ -1,0 +1,2 @@
+Improving Kernel Classifiers for Object Categorization Problems
+ Abstract This paper presents an approach for improving the performance of kernel classifiers applied to object categorization problems.  The approach is based on the use of distributions centered around each training points, which are exploited for inter-class invariant image representation with local invariant features.  Furthermore, we propose an extensive use of unlabeled images for improving the SVMbased classifier.

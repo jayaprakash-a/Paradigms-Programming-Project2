@@ -1,0 +1,79 @@
+Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations.
+Describing Videos by Exploiting Temporal Structure.
+Multi-Prediction Deep Boltzmann Machines.
+Generative Adversarial Nets.
+An empirical evaluation of deep architectures on problems with many factors of variation.
+Describing Multimedia Content Using Attention-Based Encoder-Decoder Networks.
+Deep Learning of Representations.
+Scaling Up Spike-and-Slab Models for Unsupervised Feature Learning.
+Adversarially Learned Inference.
+On the Challenges of Physical Implementations of RBMs.
+Delving Deeper into Convolutional Networks for Learning Video Representations.
+Challenges in Representation Learning: A Report on Three Machine Learning Contests.
+An Actor-Critic Algorithm for Sequence Prediction.
+A Spike and Slab Restricted Boltzmann Machine.
+Unsupervised Feature Learning and Deep Learning: A Review and New Perspectives
+Representation Learning: A Review and New Perspectives.
+A Generative Model of Terrain for Autonomous Navigation in Vegetation.
+Metric-Free Natural Gradient for Joint-Training of Boltzmann Machines
+Using Descriptive Video Services to Create a Large Data Source for Video Annotation Research.
+Representation and Timing in Theories of the Dopamine System.
+Tempered Markov Chain Monte Carlo for training of Restricted Boltzmann Machines.
+Task Loss Estimation for Sequence Prediction.
+Discriminative Regularization for Generative Models.
+On Tracking The Partition Function.
+First Result on Arabic Neural Machine Translation.
+Video Description Generation Incorporating Spatio-Temporal Features and a Soft-Attention Mechanism.
+The Spike-and-Slab RBM and Extensions to Discrete and Sparse Data Distributions.
+Show, Attend and Tell: Neural Image Caption Generation with Visual Attention.
+The rat as particle filter.
+Similarity and Discrimination in Classical Conditioning: A Latent Variable Account.
+Why Does Unsupervised Pre-training Help Deep Learning?
+Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation.
+Recurrent Batch Normalization.
+A Controller Recognizer Framework: How necessary is recognition for control?
+Deconstructing the Ladder Network Architecture.
+ReSeg: A Recurrent Neural Network for Object Segmentation.
+Hierarchical Neural Network Generative Models for Movie Dialogues.
+Modeling Temporal Structure in Classical Conditioning.
+EmoNets: Multimodal deep learning approaches for emotion recognition in video.
+Unsupervised and Transfer Learning Challenge: a Deep Learning Approach.
+Learning Distributed Representations from Reviews for Collaborative Filtering.
+Describing Multimedia Content using Attention-based Encoder-Decoder Networks.
+The Statistical Inefficiency of Sparse Coding for Images (or, One Gabor to Rule them All)
+Joint Training of Deep Boltzmann Machines
+Dynamic Capacity Networks.
+Challenges in Representation Learning: A report on three machine learning contests.
+Disentangling Factors of Variation for Facial Expression Recognition.
+Multiresolution Recurrent Neural Networks: An Application to Dialogue Response Generation.
+Maxout Networks.
+Interacting Markov Random Fields for Simultaneous Terrain Modeling and Obstacle Detection.
+A Hierarchical Latent Variable Encoder-Decoder Model for Generating Dialogues.
+A bistable computational model of recurring epileptiform activity as observed in rodent slice preparations.
+Adaptive Parallel Tempering for Stochastic Maximum Likelihood Learning of RBMs
+Joint Training Deep Boltzmann Machines for Classification
+A Recurrent Latent Variable Model for Sequential Data.
+ReNet: A Recurrent Neural Network Based Alternative to Convolutional Networks.
+Challenges in representation learning: A report on three machine learning contests.
+Deep Tempering.
+Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus.
+Maxout Networks
+Timing and Partial Observability in the Dopamine System.
+Model Uncertainty in Classical Conditioning.
+Unsupervised Models of Images by Spikeand-Slab RBMs.
+An Infinite Factor Model Hierarchy Via a Noisy-Or Mechanism.
+Texture Modeling with Convolutional Spike-and-Slab RBMs and Deep Extensions
+Brain Tumor Segmentation with Deep Neural Networks.
+Spike-and-Slab Sparse Coding for Unsupervised Feature Discovery
+Disentangling Factors of Variation via Generative Entangling
+Generative Adversarial Networks.
+An Empirical Investigation of Catastrophic Forgeting in Gradient-Based Neural Networks.
+An empirical analysis of dropout in piecewise linear networks.
+Variance Reduction in SGD by Distributed Importance Sampling.
+Large-Scale Feature Learning With Spike-and-Slab Sparse Coding.
+Texture Modeling with Convolutional Spike-and-Slab RBMs and Deep Extensions.
+Combining modality specific deep neural networks for emotion recognition in video.
+Movie Description.
+Efficient EM Training of Gaussian Mixtures with Missing Data
+Building End-To-End Dialogue Systems Using Generative Hierarchical Neural Network Models.
+On Training Deep Boltzmann Machines

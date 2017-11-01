@@ -1,0 +1,56 @@
+Minimising Contrastive Divergence in Noisy, Mixed-mode VLSI Neurons| Abstract This paper presents VLSI circuits with continuous-valued probabilistic behaviour realized by injecting noise into each computing unit(neuron).  Interconnecting the noisy neurons forms a Continuous Restricted Boltzmann Machine (CRBM), which has shown promising performance in modelling and classifying noisy biomedical data.  The Minimising-Contrastive-Divergence learning algorithm for CRBM is also implemented in mixed-mode VLSI, to adapt the noisy neurons' parameters on-chip. 
+Assessing RBF Networks Using DELVE| Abstract In this paper different methods for training radial basis function (RBF) networks for regression problems are described and illustrated.  Then, using data from the DELVE archive, they are empirically compared with each other and with some other well known methods for machine learning.  Each of the RBF methods performs well on at least one DELVE task, but none are as consistent as the best of the other non-RBF methods. 
+Circuits for VLSI Implementation of Temporally-Asymmetric Hebbian Learning| Abstract Experimental data has shown that synaptic strength modification in some types of biological neurons depends upon precise spike timing differences between presynaptic and postsynaptic spikes.  Several temporally-asymmetric Hebbian learning rules motivated by this data have been proposed.  We argue that such learning rules are suitable to analog VLSI implementation.  We describe an easily tunable circuit to modify the weight of a silicon spiking neuron according to those learning rules.  Test results from the fabrication of the circuit using a 0. 6m CMOS process are given. 
+Combining Regression Trees and Radial Basis Function Networks| Abstract We describe a method for nonparametric regression which combines regression trees with radial basis function networks.  The method is similar to that of Kubat [1998], who was first to suggest such a combination, but has some significant improvements.  We demonstrate the features of the new method, compare its performance with other methods on DELVE data sets and apply it to a real world problem involving the classification of soybean plants from digital images. 
+A physiological pharmacokinetic description of the tissue distribution and enzyme-inducing properties of 2,3,7,8tetrachlorodibenzo-p-dioxin in the rat|
+Pulse Stream VLSI Neural Networks,|
+On rings of operators,|
+Competence Acquisition is an Autonomous Mobile Robot using Hardware Neural Techniques,|
+Synaptic Weight Noise During MLP Learning Enhances Fault-Tolerance, Generalization and Learning Trajectory|
+Pulse Arithmetic in VLSI Neural Networks",|
+Discovering Associations in Spatial Data - An Efficient Medoid Based Approach|
+Applying simulated annealing to location-planning models|
+Cluster Discovery Techniques for Exploratory Spatial Data Analysis|
+Enhanced MLP Performance and Fault Tolerance Resulting from Synaptic Weight Noise During Training|
+Pulse-Stream VLSI Neural Networks Mixing Analog and Digital Techniques",|
+Asynchronous VLSI neural networks using pulse-stream arithmetic,|
+On rings of operators IV,|
+Families of Lp spaces with inductive and projective topologies,|
+Integrating attribute and space characteristics in choropleth display and spatial data mining|
+Analysing Cliques for Imposing Adjacency Restrictions in Forest Models,|
+Discontinuities and Senior Management: Assessing the Role of Recognition in Pharmaceutical Firm Response to Biotechnology,|
+Innovation as Co-Evolution of Scientific and Technological Networks: Exploring Tissue Engineering,|
+Citcuits for VLSI Implementation of Temporally Asymmetric Hebbian Learning|
+Markets, Managers and Messages: Managing Information Systems in Financial Services,~|
+An improved focuss-based learning algorithm for solving sparse linear inverse problems|
+Dictionary Learning Algorithms for Sparse Representation|
+Constructing the Divide: Spatial Disparities in Broadband Access|
+A geographic perspective on commercial Internet survivability|
+Spatial clustering for data mining with genetic algorithms|
+Mining spatial data via clustering|
+Asynchronous Arithmetic for VLSI Neural Systems|
+Analogue neural VLSI: Issues, trends and pulses|
+Pulsed silicon neural networks - following the biological leader|
+Modules in design, production and use: Implications for the global automotive industry", mimeo,|
+Spatial representation and scale impacts in transit service assessment|
+Managers Divided: Organisation Politics and Information Technology Management|
+Energy for sport|
+Multilayer Perceptron Learning Optimized for On-Chip Implementation: A Noise-Robust System,|
+Novelty detection using products of simple experts-a potential architecture for embedded systems,|
+A stochastically constrained cellular model of urban growth|
+Impacts of air pollutants on vegetation in developing countries|
+A Continuous Restricted Boltzmann Machine with a Hardware-Amenable Learning Algorithm|
+Adaptive Stochastic Classifier for Noisy pH-ISFET Measurements|
+Embryonic stem cell-specific MicroRNAs|
+Synaptic weight noise during multilayer perceptron training: Fault tolerance and training improvements,|
+Support system development for forest ecosystem management|
+Spatial restrictions in harvest scheduling|
+Analogue Neural VLSI: A Pulse Stream Approach,|
+Heuristic solution approaches to operational forest planning problems|
+Paper Curl Prediction and Control Using Neural Networks,|
+Networking as knowledge work: a study of strategic inter-organizational development in the financial services industry|
+Evidence Concerning Non-Linear Structure in Canadian Provincial Unemployment Rates,|
+The Jacobi Method for Real Symmetric Matrices|
+^Technical Rationality and the IS Specialist: Power, Discourse and Identity,~|
+The organisational politics of information technology: studies from the UK financial services industry|
+Competence Acquisition in an Autonomous Mobile Robot using Hardware Neural Techniques|

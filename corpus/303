@@ -1,0 +1,2 @@
+SUPPORT VECTOR REGRESSION FOR BLACK-BOX SYSTEM IDENTIFICATION
+ ABSTRACT In this paper, we demonstrate the use of support vector regression (SVR) techniques for black-box system identification.  These methods derive from statistical learning theory, and are of great theoretical and practical interest.  We briefly describe the theory underpinning SVR, and compare support vector methods with other approaches using radial basis networks.  Finally, we apply SVR to modeling the behaviour of a hydraulic robot arm, and show that SVR improves on previously published results.
